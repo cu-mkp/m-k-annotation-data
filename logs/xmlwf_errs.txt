@@ -1,0 +1,392 @@
+System ID: /home/thc4/Github/m-k-annotation-data/html/ann_052_fa_16.html
+Main validation file: /home/thc4/Github/m-k-annotation-data/html/ann_052_fa_16.html
+Engine name: Xerces
+Severity: fatal
+Description: The element type "img" must be terminated by the matching end-tag "</img>".
+Start location: 15:1809
+
+System ID: /home/thc4/Github/m-k-annotation-data/html/ann_031_fa_15.html
+Main validation file: /home/thc4/Github/m-k-annotation-data/html/ann_031_fa_15.html
+Engine name: Xerces
+Severity: fatal
+Description: The entity "nbsp" was referenced, but not declared.
+Start location: 13:383
+End location: 13:389
+
+System ID: /home/thc4/Github/m-k-annotation-data/html/ann_069_fa_18.html
+Main validation file: /home/thc4/Github/m-k-annotation-data/html/ann_069_fa_18.html
+Engine name: Xerces
+Severity: fatal
+Description: The element type "hr" must be terminated by the matching end-tag "</hr>".
+Start location: 125:3
+
+System ID: /home/thc4/Github/m-k-annotation-data/html/ann_068_fa_18.html
+Main validation file: /home/thc4/Github/m-k-annotation-data/html/ann_068_fa_18.html
+Engine name: Xerces
+Severity: fatal
+Description: The element type "img" must be terminated by the matching end-tag "</img>".
+Start location: 9:1270
+
+System ID: /home/thc4/Github/m-k-annotation-data/html/ann_329_ie_19.html
+Main validation file: /home/thc4/Github/m-k-annotation-data/html/ann_329_ie_19.html
+Engine name: Xerces
+Severity: fatal
+Description: The element type "img" must be terminated by the matching end-tag "</img>".
+Start location: 11:2914
+
+System ID: /home/thc4/Github/m-k-annotation-data/html/ann_074_fa_18.html
+Main validation file: /home/thc4/Github/m-k-annotation-data/html/ann_074_fa_18.html
+Engine name: Xerces
+Severity: fatal
+Description: The element type "img" must be terminated by the matching end-tag "</img>".
+Start location: 10:1371
+
+System ID: /home/thc4/Github/m-k-annotation-data/html/ann_050_fa_16.html
+Main validation file: /home/thc4/Github/m-k-annotation-data/html/ann_050_fa_16.html
+Engine name: Xerces
+Severity: fatal
+Description: The element type "hr" must be terminated by the matching end-tag "</hr>".
+Start location: 113:3
+
+System ID: /home/thc4/Github/m-k-annotation-data/html/ann_053_fa_16.html
+Main validation file: /home/thc4/Github/m-k-annotation-data/html/ann_053_fa_16.html
+Engine name: Xerces
+Severity: fatal
+Description: The element type "img" must be terminated by the matching end-tag "</img>".
+Start location: 6:1306
+
+System ID: /home/thc4/Github/m-k-annotation-data/html/ann_332_ie_19.html
+Main validation file: /home/thc4/Github/m-k-annotation-data/html/ann_332_ie_19.html
+Engine name: Xerces
+Severity: fatal
+Description: The element type "img" must be terminated by the matching end-tag "</img>".
+Start location: 61:693
+
+System ID: /home/thc4/Github/m-k-annotation-data/html/ann_076_fa_18.html
+Main validation file: /home/thc4/Github/m-k-annotation-data/html/ann_076_fa_18.html
+Engine name: Xerces
+Severity: fatal
+Description: The element type "img" must be terminated by the matching end-tag "</img>".
+Start location: 44:3004
+
+System ID: /home/thc4/Github/m-k-annotation-data/html/ann_079_sp_17.html
+Main validation file: /home/thc4/Github/m-k-annotation-data/html/ann_079_sp_17.html
+Engine name: Xerces
+Severity: fatal
+Description: The element type "img" must be terminated by the matching end-tag "</img>".
+Start location: 21:1041
+
+System ID: /home/thc4/Github/m-k-annotation-data/html/ann_047_fa_16.html
+Main validation file: /home/thc4/Github/m-k-annotation-data/html/ann_047_fa_16.html
+Engine name: Xerces
+Severity: fatal
+Description: The element type "img" must be terminated by the matching end-tag "</img>".
+Start location: 5:1282
+
+System ID: /home/thc4/Github/m-k-annotation-data/html/ann_006_fa_14.html
+Main validation file: /home/thc4/Github/m-k-annotation-data/html/ann_006_fa_14.html
+Engine name: Xerces
+Severity: fatal
+Description: The element type "img" must be terminated by the matching end-tag "</img>".
+Start location: 10:1653
+
+System ID: /home/thc4/Github/m-k-annotation-data/html/ann_003_fa_14.html
+Main validation file: /home/thc4/Github/m-k-annotation-data/html/ann_003_fa_14.html
+Engine name: Xerces
+Severity: fatal
+Description: The element type "img" must be terminated by the matching end-tag "</img>".
+Start location: 5:1178
+
+System ID: /home/thc4/Github/m-k-annotation-data/html/ann_077_fa_18.html
+Main validation file: /home/thc4/Github/m-k-annotation-data/html/ann_077_fa_18.html
+Engine name: Xerces
+Severity: fatal
+Description: The element type "img" must be terminated by the matching end-tag "</img>".
+Start location: 5:1904
+
+System ID: /home/thc4/Github/m-k-annotation-data/html/ann_058_sp_17.html
+Main validation file: /home/thc4/Github/m-k-annotation-data/html/ann_058_sp_17.html
+Engine name: Xerces
+Severity: fatal
+Description: The element type "img" must be terminated by the matching end-tag "</img>".
+Start location: 49:1234
+
+System ID: /home/thc4/Github/m-k-annotation-data/html/ann_049_fa_16.html
+Main validation file: /home/thc4/Github/m-k-annotation-data/html/ann_049_fa_16.html
+Engine name: Xerces
+Severity: fatal
+Description: The element type "img" must be terminated by the matching end-tag "</img>".
+Start location: 34:1180
+
+System ID: /home/thc4/Github/m-k-annotation-data/html/ann_036_sp_16.html
+Main validation file: /home/thc4/Github/m-k-annotation-data/html/ann_036_sp_16.html
+Engine name: Xerces
+Severity: fatal
+Description: The element type "img" must be terminated by the matching end-tag "</img>".
+Start location: 16:2235
+
+System ID: /home/thc4/Github/m-k-annotation-data/html/ann_055_sp_17.html
+Main validation file: /home/thc4/Github/m-k-annotation-data/html/ann_055_sp_17.html
+Engine name: Xerces
+Severity: fatal
+Description: The element type "img" must be terminated by the matching end-tag "</img>".
+Start location: 4:1767
+
+System ID: /home/thc4/Github/m-k-annotation-data/html/ann_056_sp_17.html
+Main validation file: /home/thc4/Github/m-k-annotation-data/html/ann_056_sp_17.html
+Engine name: Xerces
+Severity: fatal
+Description: The element type "img" must be terminated by the matching end-tag "</img>".
+Start location: 9:723
+
+System ID: /home/thc4/Github/m-k-annotation-data/html/ann_067_fa_18.html
+Main validation file: /home/thc4/Github/m-k-annotation-data/html/ann_067_fa_18.html
+Engine name: Xerces
+Severity: fatal
+Description: The element type "img" must be terminated by the matching end-tag "</img>".
+Start location: 7:2415
+
+System ID: /home/thc4/Github/m-k-annotation-data/html/ann_062_fa_17.html
+Main validation file: /home/thc4/Github/m-k-annotation-data/html/ann_062_fa_17.html
+Engine name: Xerces
+Severity: fatal
+Description: The element type "img" must be terminated by the matching end-tag "</img>".
+Start location: 9:3121
+
+System ID: /home/thc4/Github/m-k-annotation-data/html/ann_330_ie_19.html
+Main validation file: /home/thc4/Github/m-k-annotation-data/html/ann_330_ie_19.html
+Engine name: Xerces
+Severity: fatal
+Description: The element type "img" must be terminated by the matching end-tag "</img>".
+Start location: 11:1456
+
+System ID: /home/thc4/Github/m-k-annotation-data/html/ann_071_fa_18.html
+Main validation file: /home/thc4/Github/m-k-annotation-data/html/ann_071_fa_18.html
+Engine name: Xerces
+Severity: fatal
+Description: The element type "img" must be terminated by the matching end-tag "</img>".
+Start location: 4:1762
+
+System ID: /home/thc4/Github/m-k-annotation-data/html/ann_048_fa_16.html
+Main validation file: /home/thc4/Github/m-k-annotation-data/html/ann_048_fa_16.html
+Engine name: Xerces
+Severity: fatal
+Description: The element type "img" must be terminated by the matching end-tag "</img>".
+Start location: 10:1816
+
+System ID: /home/thc4/Github/m-k-annotation-data/html/ann_063_fa_17.html
+Main validation file: /home/thc4/Github/m-k-annotation-data/html/ann_063_fa_17.html
+Engine name: Xerces
+Severity: fatal
+Description: The element type "img" must be terminated by the matching end-tag "</img>".
+Start location: 5:1231
+
+System ID: /home/thc4/Github/m-k-annotation-data/html/ann_057_sp_17.html
+Main validation file: /home/thc4/Github/m-k-annotation-data/html/ann_057_sp_17.html
+Engine name: Xerces
+Severity: fatal
+Description: The element type "br" must be terminated by the matching end-tag "</br>".
+Start location: 142:20
+
+System ID: /home/thc4/Github/m-k-annotation-data/html/ann_045_fa_16.html
+Main validation file: /home/thc4/Github/m-k-annotation-data/html/ann_045_fa_16.html
+Engine name: Xerces
+Severity: fatal
+Description: The element type "img" must be terminated by the matching end-tag "</img>".
+Start location: 14:2287
+
+System ID: /home/thc4/Github/m-k-annotation-data/html/ann_008_fa_14.html
+Main validation file: /home/thc4/Github/m-k-annotation-data/html/ann_008_fa_14.html
+Engine name: Xerces
+Severity: fatal
+Description: The element type "img" must be terminated by the matching end-tag "</img>".
+Start location: 5:1660
+
+System ID: /home/thc4/Github/m-k-annotation-data/html/ann_011_fa_14.html
+Main validation file: /home/thc4/Github/m-k-annotation-data/html/ann_011_fa_14.html
+Engine name: Xerces
+Severity: fatal
+Description: The element type "img" must be terminated by the matching end-tag "</img>".
+Start location: 13:2120
+
+System ID: /home/thc4/Github/m-k-annotation-data/html/ann_001_fa_14.html
+Main validation file: /home/thc4/Github/m-k-annotation-data/html/ann_001_fa_14.html
+Engine name: Xerces
+Severity: fatal
+Description: The element type "img" must be terminated by the matching end-tag "</img>".
+Start location: 14:2781
+
+System ID: /home/thc4/Github/m-k-annotation-data/html/ann_312_ie_19.html
+Main validation file: /home/thc4/Github/m-k-annotation-data/html/ann_312_ie_19.html
+Engine name: Xerces
+Severity: fatal
+Description: The entity "nbsp" was referenced, but not declared.
+Start location: 3:532
+End location: 3:538
+
+System ID: /home/thc4/Github/m-k-annotation-data/html/ann_027_fa_15.html
+Main validation file: /home/thc4/Github/m-k-annotation-data/html/ann_027_fa_15.html
+Engine name: Xerces
+Severity: fatal
+Description: The element type "img" must be terminated by the matching end-tag "</img>".
+Start location: 8:2603
+
+System ID: /home/thc4/Github/m-k-annotation-data/html/ann_075_fa_18.html
+Main validation file: /home/thc4/Github/m-k-annotation-data/html/ann_075_fa_18.html
+Engine name: Xerces
+Severity: fatal
+Description: The element type "br" must be terminated by the matching end-tag "</br>".
+Start location: 615:43
+
+System ID: /home/thc4/Github/m-k-annotation-data/html/ann_315_ie_19.html
+Main validation file: /home/thc4/Github/m-k-annotation-data/html/ann_315_ie_19.html
+Engine name: Xerces
+Severity: fatal
+Description: The entity "nbsp" was referenced, but not declared.
+Start location: 3:173
+End location: 3:179
+
+System ID: /home/thc4/Github/m-k-annotation-data/html/ann_078_fa_18.html
+Main validation file: /home/thc4/Github/m-k-annotation-data/html/ann_078_fa_18.html
+Engine name: Xerces
+Severity: fatal
+Description: The element type "img" must be terminated by the matching end-tag "</img>".
+Start location: 3:3216
+
+System ID: /home/thc4/Github/m-k-annotation-data/html/ann_059_sp_17.html
+Main validation file: /home/thc4/Github/m-k-annotation-data/html/ann_059_sp_17.html
+Engine name: Xerces
+Severity: fatal
+Description: The element type "img" must be terminated by the matching end-tag "</img>".
+Start location: 49:1358
+
+System ID: /home/thc4/Github/m-k-annotation-data/html/ann_070_fa_18.html
+Main validation file: /home/thc4/Github/m-k-annotation-data/html/ann_070_fa_18.html
+Engine name: Xerces
+Severity: fatal
+Description: The element type "img" must be terminated by the matching end-tag "</img>".
+Start location: 15:1738
+
+System ID: /home/thc4/Github/m-k-annotation-data/html/ann_064_fa_17.html
+Main validation file: /home/thc4/Github/m-k-annotation-data/html/ann_064_fa_17.html
+Engine name: Xerces
+Severity: fatal
+Description: The element type "img" must be terminated by the matching end-tag "</img>".
+Start location: 14:2120
+
+System ID: /home/thc4/Github/m-k-annotation-data/html/ann_303_ie_19.html
+Main validation file: /home/thc4/Github/m-k-annotation-data/html/ann_303_ie_19.html
+Engine name: Xerces
+Severity: fatal
+Description: The element type "hr" must be terminated by the matching end-tag "</hr>".
+Start location: 74:3
+
+System ID: /home/thc4/Github/m-k-annotation-data/html/ann_007_fa_14.html
+Main validation file: /home/thc4/Github/m-k-annotation-data/html/ann_007_fa_14.html
+Engine name: Xerces
+Severity: fatal
+Description: The element type "br" must be terminated by the matching end-tag "</br>".
+Start location: 5:22
+
+System ID: /home/thc4/Github/m-k-annotation-data/html/ann_046_fa_16.html
+Main validation file: /home/thc4/Github/m-k-annotation-data/html/ann_046_fa_16.html
+Engine name: Xerces
+Severity: fatal
+Description: The entity "nbsp" was referenced, but not declared.
+Start location: 150:17
+End location: 150:23
+
+System ID: /home/thc4/Github/m-k-annotation-data/html/ann_061_fa_17.html
+Main validation file: /home/thc4/Github/m-k-annotation-data/html/ann_061_fa_17.html
+Engine name: Xerces
+Severity: fatal
+Description: The entity "nbsp" was referenced, but not declared.
+Start location: 17:698
+End location: 17:704
+
+System ID: /home/thc4/Github/m-k-annotation-data/html/ann_080_sp_17.html
+Main validation file: /home/thc4/Github/m-k-annotation-data/html/ann_080_sp_17.html
+Engine name: Xerces
+Severity: fatal
+Description: The element type "img" must be terminated by the matching end-tag "</img>".
+Start location: 38:986
+
+System ID: /home/thc4/Github/m-k-annotation-data/html/ann_054_sp_17.html
+Main validation file: /home/thc4/Github/m-k-annotation-data/html/ann_054_sp_17.html
+Engine name: Xerces
+Severity: fatal
+Description: The element type "img" must be terminated by the matching end-tag "</img>".
+Start location: 28:1422
+
+System ID: /home/thc4/Github/m-k-annotation-data/html/ann_317_ie_19.html
+Main validation file: /home/thc4/Github/m-k-annotation-data/html/ann_317_ie_19.html
+Engine name: Xerces
+Severity: fatal
+Description: The element type "img" must be terminated by the matching end-tag "</img>".
+Start location: 3:1589
+
+System ID: /home/thc4/Github/m-k-annotation-data/html/ann_060_fa_17.html
+Main validation file: /home/thc4/Github/m-k-annotation-data/html/ann_060_fa_17.html
+Engine name: Xerces
+Severity: fatal
+Description: The element type "img" must be terminated by the matching end-tag "</img>".
+Start location: 12:2304
+
+System ID: /home/thc4/Github/m-k-annotation-data/html/ann_072_fa_18.html
+Main validation file: /home/thc4/Github/m-k-annotation-data/html/ann_072_fa_18.html
+Engine name: Xerces
+Severity: fatal
+Description: The element type "br" must be terminated by the matching end-tag "</br>".
+Start location: 52:86
+
+System ID: /home/thc4/Github/m-k-annotation-data/html/ann_065_fa_18.html
+Main validation file: /home/thc4/Github/m-k-annotation-data/html/ann_065_fa_18.html
+Engine name: Xerces
+Severity: fatal
+Description: The element type "img" must be terminated by the matching end-tag "</img>".
+Start location: 35:1292
+
+System ID: /home/thc4/Github/m-k-annotation-data/html/ann_331_ie_19.html
+Main validation file: /home/thc4/Github/m-k-annotation-data/html/ann_331_ie_19.html
+Engine name: Xerces
+Severity: fatal
+Description: The element type "img" must be terminated by the matching end-tag "</img>".
+Start location: 3:1551
+
+System ID: /home/thc4/Github/m-k-annotation-data/html/ann_066_fa_18.html
+Main validation file: /home/thc4/Github/m-k-annotation-data/html/ann_066_fa_18.html
+Engine name: Xerces
+Severity: fatal
+Description: The element type "hr" must be terminated by the matching end-tag "</hr>".
+Start location: 403:3
+
+System ID: /home/thc4/Github/m-k-annotation-data/html/ann_320_ie_19.html
+Main validation file: /home/thc4/Github/m-k-annotation-data/html/ann_320_ie_19.html
+Engine name: Xerces
+Severity: fatal
+Description: The entity "nbsp" was referenced, but not declared.
+Start location: 23:309
+End location: 23:315
+
+System ID: /home/thc4/Github/m-k-annotation-data/html/ann_300_ie_19.html
+Main validation file: /home/thc4/Github/m-k-annotation-data/html/ann_300_ie_19.html
+Engine name: Xerces
+Severity: fatal
+Description: The entity "nbsp" was referenced, but not declared.
+Start location: 4:1797
+End location: 4:1803
+
+System ID: /home/thc4/Github/m-k-annotation-data/html/ann_051_fa_16.html
+Main validation file: /home/thc4/Github/m-k-annotation-data/html/ann_051_fa_16.html
+Engine name: Xerces
+Severity: fatal
+Description: The element type "img" must be terminated by the matching end-tag "</img>".
+Start location: 47:1215
+
+System ID: /home/thc4/Github/m-k-annotation-data/html/ann_999_fa_99.html
+Main validation file: /home/thc4/Github/m-k-annotation-data/html/ann_999_fa_99.html
+Engine name: Xerces
+Severity: fatal
+Description: The element type "img" must be terminated by the matching end-tag "</img>".
+Start location: 15:3061
+

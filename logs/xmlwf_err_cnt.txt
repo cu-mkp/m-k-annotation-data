@@ -1,0 +1,4 @@
+     40  The element type "img" must be terminated by the matching end-tag "</img>".
+      7  The entity "nbsp" was referenced, but not declared.
+      4  The element type "hr" must be terminated by the matching end-tag "</hr>".
+      4  The element type "br" must be terminated by the matching end-tag "</br>".
