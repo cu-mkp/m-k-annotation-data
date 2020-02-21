@@ -1,0 +1,2138 @@
+{
+   "title": "Annotations of BnF MS Fr. 640",
+   "content": [
+      {
+         "id": "ann_001_fa_14",
+         "driveID": "1307GL5qovGyYjsfiCWTaFhfIsgVnQlso_n-lhQa-urY",
+         "thumbnailURL": "https://drive.google.com/file/d/1bUuiorb6o730R6hfTzTwvHtWey1M9Jwf/view?usp=sharing",
+         "name": "Wax and Tallow",
+         "semester": "Fall",
+         "year": "2014",
+         "theme": "Knowing Nature",
+         "entryIDs": "p109r_1",
+         "status": "published",
+         "refresh": false,
+         "authors": [
+            "author_001",
+            "author_002"
+         ],
+         "abstract": "<p>Wax and tallow are easily transformed from solid to liquid and back again. Their properties, such as hardness, opacity, malleability, and carvability, can also be transformed through the addition of various substances, including resins, earths, and pigments. These versatile materials were used for many purposes in early modern Europe, and also possessed a range of symbolic, sacramental, and other cultural meanings. Taking inspiration from the entry on fol. <a href=\"http://edition640.makingandknowing.org/#/folios/109r/f/109r/tl\"><span class=\"underline\">109r</span></a> for “Modeling in wax,” this essay provides a preliminary exploration of the broad uses and meanings of these important materials.</p>\n",
+         "contentURL": "https://edition-staging.makingandknowing.org/bnf-ms-fr-640/annotations/ann_001_fa_14.html",
+         "thumbnail": "FA2014_CataldoVisco_109r_fig001_Wax-Tallow.jpg"
+      },
+      {
+         "id": "ann_002_fa_14",
+         "driveID": "1K5vI_wtNCUWXTOr1BFgRsmMQMDSrNFGdzmaeyJKRHA4",
+         "thumbnailURL": "https://drive.google.com/file/d/1otMD71jBSz17wfTphmlJhRx6QUeSEoc-/view?usp=sharing",
+         "name": "Molding Hollow on One Side and in Relief on the Other",
+         "semester": "Fall",
+         "year": "2014",
+         "theme": "Art and Its Making",
+         "entryIDs": "p092r_2; p083v_2",
+         "status": "",
+         "refresh": false,
+         "annotationAuthors": [
+            "author_003",
+            "author_004"
+         ],
+         "abstract": null,
+         "contentURL": null,
+         "thumbnail": "FA2014_LandsmanRowen_92r_fig020a_Pouring.JPG"
+      },
+      {
+         "id": "ann_003_fa_14",
+         "driveID": "10_kJBnJ67qrrVBYIw-E9ZZnZXnwu3-XQpHMMRwBslrk",
+         "thumbnailURL": "https://drive.google.com/open?id=1gz--GAlqMsLSgSArOA2cwBP_2loKsZpo",
+         "name": "Molded Roses",
+         "semester": "Fall",
+         "year": "2014",
+         "theme": "Society and Culture",
+         "entryIDs": "p129r_4; p155v_1",
+         "status": "published",
+         "refresh": false,
+         "authors": [
+            "author_005",
+            "author_006"
+         ],
+         "abstract": "<p>Three entries in Ms. Fr. 640—on fols. <a href=\"http://edition640.makingandknowing.org/#/folios/129r/f/129r/tl\"><span class=\"underline\">129r</span></a>, <a href=\"http://edition640.makingandknowing.org/#/folios/155r/f/155r/tl\"><span class=\"underline\">155r</span></a>, <a href=\"http://edition640.makingandknowing.org/#/folios/155v/f/155v/tl\"><span class=\"underline\">155v</span></a>—are devoted exclusively to molding and casting roses. This essay clarifies some of the differences between the recipes, and suggests a potential change recorded by the author-practitioner that may have resulted from repeated experiments with the techniques over time. This set of entries are related to the molding and casting of other “thin things,” such as flies' wings, another thin, delicate substance that, like rose petals, necessitated separate castings. This essay proposes that the motives for singling out roses as an object to be molded are likely related to sixteenth-century literary culture in France, perhaps especially in Toulouse, where a literary society known in the sixteenth century as the College de l’Art et Science de Rhétorique awarded cast flowers as prizes for an annual poetry contest, the Jeux Floraux, which originated in the city in the fourteenth century.</p>\n",
+         "contentURL": "https://edition-staging.makingandknowing.org/bnf-ms-fr-640/annotations/ann_003_fa_14.html",
+         "thumbnail": "FA2014_CarlsonKatz_129r155r-v_fig001_MoldedRoses.jpg"
+      },
+      {
+         "id": "ann_004_fa_14",
+         "driveID": "1NnRe2CYpz5d9jb6m-fgMsdpf07Xu2hw2HQA1neRTZUQ",
+         "thumbnailURL": "https://drive.google.com/file/d/1TFwlAYwwjNsVlP2DeIat-PGtyxN8dn3A/view?usp=sharing",
+         "name": "Creating Original Patterns for Casting in Ms. Fr. 640",
+         "semester": "Fall",
+         "year": "2014",
+         "theme": "Art and Its Making",
+         "entryIDs": "p050r_2; p156r_1",
+         "status": "",
+         "refresh": false,
+         "annotationAuthors": [
+            "author_003",
+            "author_004"
+         ],
+         "abstract": null,
+         "contentURL": null,
+         "thumbnail": "FA2014_LandsmanRowen_fig001_FlaxmanRedWaxFromPhiladelphiaMuseumOfArt.jpg"
+      },
+      {
+         "id": "ann_005_fa_14",
+         "driveID": "18OqnSFdJneElUpi_CvF1XvAFg-yOZsBxj6b_2DypHUA",
+         "thumbnailURL": "https://drive.google.com/file/d/1tvd1tuQQvn01c2W2aSiHkzIdIz3mBh_7/view?usp=sharing",
+         "name": "Molding Paper with Raised Letters",
+         "semester": "Fall",
+         "year": "2014",
+         "theme": "The Making and Knowing Laboratory",
+         "entryIDs": "p131r_2",
+         "status": "",
+         "refresh": false,
+         "annotationAuthors": [
+            "author_005",
+            "author_006"
+         ],
+         "abstract": null,
+         "contentURL": null,
+         "thumbnail": "FA2014_CarlsonKatz_131r_fig010_MoldedLetterPaper.jpg"
+      },
+      {
+         "id": "ann_006_fa_14",
+         "driveID": "1rVBQIZCi0jVluY_BYl7i644D0hQ3OWqcq6_-6uY4vco",
+         "thumbnailURL": "https://drive.google.com/file/d/1lwDxLXhNN9S3x6GwIL4cfBpyrQZsdk5V/view?usp=sharing",
+         "name": "Try Burnt Oysters",
+         "semester": "Fall",
+         "year": "2014",
+         "theme": "The Making and Knowing Laboratory",
+         "entryIDs": "p084v_2",
+         "status": "published",
+         "refresh": false,
+         "authors": [
+            "author_001",
+            "author_002"
+         ],
+         "abstract": "<p>In an attempt to decipher a puzzling marginal note, “Try burnt oysters,” on fol. <a href=\"http://edition640.makingandknowing.org/#/folios/84v/f/84v/tl\"><span class=\"underline\">84v</span></a>, hands-on reconstruction in the laboratory, paired with textual research and analysis, opened several avenues for exploration. Our findings suggest that the author-practitioner knew or speculated about promising properties of oyster shells for making sand molds, but had yet to perfect a procedure for their successful use. In contrast to other more confidently phrased imperatives, such as in “Casting in frames” on fol. 118v, in which the author-practitioner writes in the first person, on fol. 84v he offers no tips, warnings, or reminders that would suggest a hands-on familiarity with the processes.</p>\n",
+         "contentURL": "https://edition-staging.makingandknowing.org/bnf-ms-fr-640/annotations/ann_006_fa_14.html",
+         "thumbnail": "FA2014_CataldoVisco_84v_fig011_CalcinedOysters.JPG"
+      },
+      {
+         "id": "ann_007_fa_14",
+         "driveID": "1RT9VZ5Ict0x_6BIWif-xC9gqH-VYhfpvVCeK0sf6ZVc",
+         "thumbnailURL": "https://drive.google.com/file/d/19is51sEsJ9w7B5J7WmKg2t4-6uVV79Sk/view?usp=sharing",
+         "name": "Uses of Sulfur for Casting",
+         "semester": "Fall",
+         "year": "2014",
+         "theme": "Knowing Nature",
+         "entryIDs": "p140v_1; p012r_1",
+         "status": "published",
+         "refresh": false,
+         "authors": [
+            "author_003",
+            "author_004"
+         ],
+         "abstract": "<p>This essay investigates the significance of sulfur in Ms. Fr. 640, by exploring contemporary artisanal writings and by reconstructing the process of casting in sulfur and wax, using different additives found on fols. <a href=\"http://edition640.makingandknowing.org/#/folios/12r/f/12r/tl\"><span class=\"underline\">12r</span></a> and <a href=\"http://edition640.makingandknowing.org/#/folios/140v/f/140v/tl\"><span class=\"underline\">140v</span></a>. While casting in sulfur may seem unusual to modern eyes, our experiments show that sulfur, especially in combination with additives such as soot black and “sanguine,” yields results which live up to the author-practitioner’s emphasis on hard, long-lasting and detail-rich casts. Furthermore, they shed light on the author-practitioner’s preoccupation with bubble-like impurities forming in the cast. While Ms. Fr. 640 contains no theorizing about sulfur as alchemical prime matter, we suggest that the material was a metaphor for the process of experimentation itself.</p>\n",
+         "contentURL": "https://edition-staging.makingandknowing.org/bnf-ms-fr-640/annotations/ann_007_fa_14.html",
+         "thumbnail": "FA2014_LandsmanRowen_140v12r_fig002_BreadMoldPouring.jpg"
+      },
+      {
+         "id": "ann_008_fa_14",
+         "driveID": "1V0GLiYHerhz-qm-oYfoZI_ukDfS4lczPEJVnGiF-O-0",
+         "thumbnailURL": "https://drive.google.com/file/d/1O8Ni6YfIiU_iOWrWDCAtJ7PzTPf1Nc1v/view?usp=sharing",
+         "name": "Excellent Mustard",
+         "semester": "Fall",
+         "year": "2014",
+         "theme": "Society and Culture",
+         "entryIDs": "p048r_3",
+         "status": "published",
+         "refresh": false,
+         "authors": [
+            "author_007"
+         ],
+         "abstract": "<p>The recipe for an “excellent mustard” on fol. <a href=\"http://edition640.makingandknowing.org/#/folios/48r/f/48r/tl\"><span class=\"underline\">48r</span></a> appears to produce a condiment destined directly for the table. By contrast, most other entries in the manuscript that concern foodstuffs—a relatively small group—give instructions for the cultivation and preservation of fruits and other perishables. Contemporary authors often stressed the hot and drying effects of mustards, and the particular additives used in the author-practitioner’s mustard recipe, namely cinnamon and cloves, were also understood to have such effects. This suggests that the recipe for an “excellent mustard” may relate to the various practical medical recipes peppered throughout the manuscript.</p>\n",
+         "contentURL": "https://edition-staging.makingandknowing.org/bnf-ms-fr-640/annotations/ann_008_fa_14.html",
+         "thumbnail": "FA2014_Mellon_48r_fig007_ExcellentMustard.jpg"
+      },
+      {
+         "id": "ann_009_fa_14",
+         "driveID": "12fOKzykn8J--fmftwc-Yghi_uiFex13aw7_hrBV4R1g",
+         "thumbnailURL": "https://drive.google.com/file/d/1B5sIJTFGrkF_6q5_1_z6cZWI42vSr-3f/view?usp=sharing",
+         "name": "Making Magistry",
+         "semester": "Fall",
+         "year": "2014",
+         "theme": "Knowing Nature",
+         "entryIDs": "p084r_3",
+         "status": "",
+         "refresh": false,
+         "annotationAuthors": [
+            "author_008"
+         ],
+         "abstract": null,
+         "contentURL": null,
+         "thumbnail": "FA2014_Lee_84r_fig002_Magistry.jpg"
+      },
+      {
+         "id": "ann_010_fa_14",
+         "driveID": "1aBJDQ2p3E8BGAVYs9XUIwpc1z55IkXimbo7Xs6UOs8I",
+         "thumbnailURL": "https://drive.google.com/open?id=1UhCeAAB2MkOpO75DnatQvc0Z1P1JEQ1I",
+         "name": "Casting in Frames",
+         "semester": "Fall",
+         "year": "2014",
+         "theme": "Art and Its Making",
+         "entryIDs": "p118v_1",
+         "status": "",
+         "refresh": false,
+         "annotationAuthors": [
+            "author_005",
+            "author_006"
+         ],
+         "abstract": null,
+         "contentURL": null,
+         "thumbnail": "FA2014_CarlsonKatz_118v_fig012_CastingInABoxMold.jpg"
+      },
+      {
+         "id": "ann_011_fa_14",
+         "driveID": "1z482cCWwR01kpNY8sDanRED_TMQcsxsKrtXjBhb89Xs",
+         "thumbnailURL": "https://drive.google.com/file/d/1bWxr8UD4GLD4YEiVpHxgjojs7HTB6SJG/view?usp=sharing",
+         "name": "Eau Magistra",
+         "semester": "Fall",
+         "year": "2014",
+         "theme": "The Making and Knowing Laboratory",
+         "entryIDs": "p082r_3; p087v_2",
+         "status": "published",
+         "refresh": false,
+         "authors": [
+            "author_001",
+            "author_002"
+         ],
+         "abstract": "<p>Ms. Fr. 640 contains a large number of recipes for and reports about various mixtures of sands and binders in making sand molds. This essay examines and reconstructs the “<em>Eau magistra</em>” (fols. <a href=\"http://edition640.makingandknowing.org/#/folios/84v/f/84v/tl\"><span class=\"underline\">84v</span></a> and <a href=\"http://edition640.makingandknowing.org/#/folios/87v/f/87v/tl\"><span class=\"underline\">87v</span></a>) made from elm roots boiled in wine. Its efficacy in facilitating a fine impression in a sand mold and in receiving and withstanding the molten metals was then tested and compared to other binding agents found in Ms. Fr. 640. The meaning of “<em>magistra</em>” as a substance that can transform the state of materials is discussed.</p>\n",
+         "contentURL": "https://edition-staging.makingandknowing.org/bnf-ms-fr-640/annotations/ann_011_fa_14.html",
+         "thumbnail": "FA2014_CataldoVisco_82r84v_fig001_SandsAndBinders.jpg"
+      },
+      {
+         "id": "ann_012_fa_14",
+         "driveID": "1loE-vuGwOf-2L3HDVwxt5AQmHCbM5IjULZ6QWbPObrg",
+         "thumbnailURL": "https://drive.google.com/file/d/10lLwhPfLcPEHmN0yvxepIJpUChjPDCCb/view?usp=sharing",
+         "name": "Sand of Ox Bone and Rock Salt",
+         "semester": "Fall",
+         "year": "2014",
+         "theme": "The Making and Knowing Laboratory",
+         "entryIDs": "p089r_1",
+         "status": "",
+         "refresh": false,
+         "annotationAuthors": [
+            "author_009"
+         ],
+         "abstract": null,
+         "contentURL": null,
+         "thumbnail": "FA2014_Wang_89r_fig003_OxBoneAndRockSalt.jpg"
+      },
+      {
+         "id": "ann_013_sp_15",
+         "driveID": "1sLkUY56opxL5MUbgI6d7884xbft12WIh8v_8oU7DoJE",
+         "thumbnailURL": "https://drive.google.com/file/d/127iBFZblkiFiOZZIqDpES17D7uwuj6YM/view?usp=sharing",
+         "name": "Molding Grasshoppers",
+         "semester": "Spring",
+         "year": "2015",
+         "theme": "Art and Its Making",
+         "entryIDs": "p142v_1",
+         "status": "",
+         "refresh": false,
+         "annotationAuthors": [
+            "author_010",
+            "author_011"
+         ],
+         "abstract": null,
+         "contentURL": null,
+         "thumbnail": "SP2015_FuZhang_142v_fig030.JPG"
+      },
+      {
+         "id": "ann_014_sp_15",
+         "driveID": "1H1XkpYLArFcomH2WsPFjpBMutsXl1qzGZiVYJRR77uk",
+         "thumbnailURL": "https://drive.google.com/file/d/1k4W8p88eEhWoi_6EiVCb_5DOQdCwNmxE/view?usp=sharing",
+         "name": "Founders of Small Tin Works",
+         "semester": "Spring",
+         "year": "2015",
+         "theme": "Art and Its Making",
+         "entryIDs": "p080v_1",
+         "status": "",
+         "refresh": false,
+         "annotationAuthors": [
+            "author_012",
+            "author_013"
+         ],
+         "abstract": null,
+         "contentURL": null,
+         "thumbnail": "SP2015_ChiostriniPalframan_80v_fig025_VentingFailure.JPG"
+      },
+      {
+         "id": "ann_015_sp_15",
+         "driveID": "1aBYi9s6N6VMxkG5UQ2Ai3f6z818B_sC22HQTMvIaVNM",
+         "thumbnailURL": "https://drive.google.com/file/d/1pZWezaqP0tNVMJA2jroEhU1LZ08oMD40/view?usp=sharing",
+         "name": "Counterfeit Coral",
+         "semester": "Spring",
+         "year": "2015",
+         "theme": "Knowing Nature",
+         "entryIDs": "p003r_1",
+         "status": "",
+         "refresh": false,
+         "annotationAuthors": [
+            "author_014"
+         ],
+         "abstract": null,
+         "contentURL": null,
+         "thumbnail": "SP2015_Chessa_3r_fig002_ImitationCoral.jpg"
+      },
+      {
+         "id": "ann_016_sp_15",
+         "driveID": "142dGr18rL0dyaBOArTkg6dOzWFsd6qy7QbxezmXmVLw",
+         "thumbnailURL": "https://drive.google.com/file/d/1IOWzXfV94FsyEcWSQe2DR_u-9EQ3bGvh/view?usp=sharing",
+         "name": "Excellent Sand from Alabaster",
+         "semester": "Spring",
+         "year": "2015",
+         "theme": "Art and Its Making",
+         "entryIDs": "p083r_6",
+         "status": "",
+         "refresh": false,
+         "annotationAuthors": [
+            "author_015"
+         ],
+         "abstract": null,
+         "contentURL": null,
+         "thumbnail": "SP2015_Gans_83r_fig005_PackingMolds.JPG"
+      },
+      {
+         "id": "ann_017_sp_15",
+         "driveID": "19hU-U8HcOJgSHUPg5Wi7H0TBqSqnOxjacGPu177bxhI",
+         "thumbnailURL": "https://drive.google.com/file/d/1qT2vGvwBx8FUxd5390ZxRY_GP5ac2it2/view?usp=sharing",
+         "name": "Molding Fruits and Animals in Sugar",
+         "semester": "Spring",
+         "year": "2015",
+         "theme": "The Making and Knowing Laboratory",
+         "entryIDs": "p126r_1",
+         "status": "",
+         "refresh": false,
+         "annotationAuthors": [
+            "author_016"
+         ],
+         "abstract": null,
+         "contentURL": null,
+         "thumbnail": "SP2015_Durkin_126r_fig004.jpg"
+      },
+      {
+         "id": "ann_018_sp_15",
+         "driveID": "1XmoViEaIn5UbC2XIIG6ZtQ9JAnmz4MFR_vbp2UOprfE",
+         "thumbnailURL": "https://drive.google.com/open?id=1jK9KyInhYe0XJY-Pnb6t85NFqvhhqb-1",
+         "name": "Circulation of Knowledge in Europe",
+         "semester": "Spring",
+         "year": "2015",
+         "theme": "Society and Culture",
+         "entryIDs": "p063r_3; p120r_2; p128v_1; p049r_2; p159v_4",
+         "status": "",
+         "refresh": false,
+         "annotationAuthors": [
+            "author_015"
+         ],
+         "abstract": null,
+         "contentURL": null
+      },
+      {
+         "id": "ann_019_sp_15",
+         "driveID": "1MvCkw-O3gfIG2FmEfBxC3mkyyNKWEcv8ow43zU5-d2A",
+         "thumbnailURL": "https://drive.google.com/file/d/1F0IyXvXVFQpszGV_yaFUQ7iZY31scXTX/view?usp=sharing",
+         "name": "Varnish for Lutes",
+         "semester": "Spring",
+         "year": "2015",
+         "theme": "Society and Culture",
+         "entryIDs": "p098r_1",
+         "status": "",
+         "refresh": false,
+         "annotationAuthors": [
+            "author_017",
+            "author_018"
+         ],
+         "abstract": null,
+         "contentURL": null,
+         "thumbnail": "SP2015_MarrisPope_98r_fig007.jpg"
+      },
+      {
+         "id": "ann_020_sp_15",
+         "driveID": "1BETVIbdM5pBncZiZjb9bPj3v_hijJTeKE0zEKmRdqfY",
+         "thumbnailURL": "https://drive.google.com/file/d/1PjzAH_DKnueylfPfTCBL2skPyhL_TRJn/view?usp=sharing",
+         "name": "Sand Molds of Ox Bone, Wine, and Elm Root",
+         "semester": "Spring",
+         "year": "2015",
+         "theme": "Knowing Nature",
+         "entryIDs": "p084v_1",
+         "status": "",
+         "refresh": false,
+         "annotationAuthors": [
+            "author_017",
+            "author_018"
+         ],
+         "abstract": null,
+         "contentURL": null,
+         "thumbnail": "SP2015_MarrisPope_84v_fig002.jpg"
+      },
+      {
+         "id": "ann_021_sp_15",
+         "driveID": "1xsKy_5wTQ0T_MFow2VG2vL2Sw-Be8wdxHd5ElTTwnnE",
+         "thumbnailURL": "https://drive.google.com/file/d/1f9O27Gbah5ghNMsauyah5H1bcVs39feR/view?usp=sharing",
+         "name": "Powder for Hourglasses",
+         "semester": "Spring",
+         "year": "2015",
+         "theme": "Society and Culture",
+         "entryIDs": "p010r_5",
+         "status": "",
+         "refresh": false,
+         "annotationAuthors": [
+            "author_018"
+         ],
+         "abstract": null,
+         "contentURL": null,
+         "thumbnail": "SP2015_MarrisPope_10r_fig005.jpg"
+      },
+      {
+         "id": "ann_022_sp_15",
+         "driveID": "15_umXL_zydbyQVYeyx1pBFKoAC4p85q1gk0m63Ajrfo",
+         "thumbnailURL": "https://drive.google.com/file/d/1UAle1NrZOyIgtLVrLtysUcG1--WxjvUx/view?usp=sharing",
+         "name": "Molding a Rose",
+         "semester": "Spring",
+         "year": "2015",
+         "theme": "Art and Its Making",
+         "entryIDs": "p155r_1",
+         "status": "",
+         "refresh": false,
+         "annotationAuthors": [
+            "author_012",
+            "author_013"
+         ],
+         "abstract": null,
+         "contentURL": null,
+         "thumbnail": "SP2015_ChiostriniPalframan_155r-v_fig001.jpg"
+      },
+      {
+         "id": "ann_023_sp_15",
+         "driveID": "1siU3IoHA65BVuHF5dt6n8m4jZvZ0OSU43WqR9xpGFCs",
+         "thumbnailURL": "https://drive.google.com/file/d/185oImMfUykk6Y_5lW-pi3A563DmyC4Ul/view?usp=sharing",
+         "name": "Making Millet Cake",
+         "semester": "Spring",
+         "year": "2015",
+         "theme": "Society and Culture",
+         "entryIDs": "p020r_1",
+         "status": "",
+         "refresh": false,
+         "annotationAuthors": [
+            "author_012",
+            "author_013"
+         ],
+         "abstract": null,
+         "contentURL": null,
+         "thumbnail": "SP2015_ChiostriniPalframan_20r_fig009.jpg"
+      },
+      {
+         "id": "ann_024_fa_15",
+         "driveID": "18p6AkoM-WYiVqeYH1t1BF2ofsAvb8fJ0xKlaTTx3YdU",
+         "thumbnailURL": "https://drive.google.com/file/d/1y0BEZix9GT9_tlteisb_e1S0mP9f3vhl/view?usp=sharing",
+         "name": "Painting in Oil on Taffeta I",
+         "semester": "Fall",
+         "year": "2015",
+         "theme": "Art and Its Making",
+         "entryIDs": "p042v_2",
+         "status": "",
+         "refresh": false,
+         "annotationAuthors": [
+            "author_019",
+            "author_020"
+         ],
+         "abstract": null,
+         "contentURL": null,
+         "thumbnail": "FA2015_BowenLou_42v_fig004.jpg"
+      },
+      {
+         "id": "ann_025_fa_15",
+         "driveID": "1LRXL5e5NjUmqFe7smQYYHHMozIGQpdNv88VSC3NAJlI",
+         "thumbnailURL": "https://drive.google.com/file/d/1BhTx3SvhaEzbaXuFixn6q2YZY4vVZMvp/view?usp=sharing",
+         "name": "Painting in Oil on Taffeta Without the Oil Running",
+         "semester": "Fall",
+         "year": "2015",
+         "theme": "The Making and Knowing Laboratory",
+         "entryIDs": "p010v_1",
+         "status": "",
+         "refresh": false,
+         "annotationAuthors": [
+            "author_019",
+            "author_020"
+         ],
+         "abstract": null,
+         "contentURL": null,
+         "thumbnail": "FA2015_BowenLou_10v_fig010.jpg"
+      },
+      {
+         "id": "ann_026_fa_15",
+         "driveID": "1WuEruktTYEbJGAGvMgOgowBkO4IKOWbNGKPMqWWbD38",
+         "thumbnailURL": "https://drive.google.com/file/d/17cBu73DxMJcX8FJq-Uj3qVEgTmDickDK/view?usp=sharing",
+         "name": "Brushes in Ms. Fr. 640",
+         "semester": "Fall",
+         "year": "2015",
+         "theme": "Art and Its Making",
+         "entryIDs": "p066v_4",
+         "status": "",
+         "refresh": false,
+         "annotationAuthors": [
+            "author_021"
+         ],
+         "abstract": null,
+         "contentURL": null,
+         "thumbnail": "FA2015_Carr_66v_fig004.JPG"
+      },
+      {
+         "id": "ann_027_fa_15",
+         "driveID": "1hadGQunGoh9R6eJUndm-5MxRcoIi_r95EOG-ZqizP4Y",
+         "thumbnailURL": "https://drive.google.com/open?id=1AJZCSj3u978pS825cjwVG3arXB5Cu47x",
+         "name": "Reverse Painting on Glass",
+         "semester": "Fall",
+         "year": "2015",
+         "theme": "Art and Its Making",
+         "entryIDs": "p039v_3",
+         "status": "published",
+         "refresh": false,
+         "authors": [
+            "author_022"
+         ],
+         "abstract": "<p>In an entry on fol. <a href=\"http://edition640.makingandknowing.org/#/folios/39v/f/39v/tl\"><span class=\"underline\">39v</span></a> titled “For tracing some history on glass,” the author-practitioner describes a technique now known as <em>verre églomisé</em> that imitates <em>basse-taille</em> enamelling. This essay examines the reemergence of this ancient technique in early modern Italy and France, and it draws on early modern objects and technical manuals to how early modern artisans understood the tasks of the painter and the goldsmith as overlapping fields of artistic production with particular shared techniques, materials, and concerns for optical effect.</p>\n",
+         "contentURL": "https://edition-staging.makingandknowing.org/bnf-ms-fr-640/annotations/ann_027_fa_15.html",
+         "thumbnail": "Zhao_Painting_Thumbnail.jpg"
+      },
+      {
+         "id": "ann_028_fa_15",
+         "driveID": "196dGRxHqXIsJRmfEzzddbrTeI8Y9TvPnaK7Fc4Brp3c",
+         "thumbnailURL": "https://drive.google.com/file/d/1PX7OrVpIJPDcK_AsbVIj5__S83lxoYE6/view?usp=sharing",
+         "name": "Jasper Imitation on Horn",
+         "semester": "Fall",
+         "year": "2015",
+         "theme": "The Making and Knowing Laboratory",
+         "entryIDs": "p010r_1",
+         "status": "",
+         "refresh": false,
+         "annotationAuthors": [
+            "author_023"
+         ],
+         "abstract": null,
+         "contentURL": null,
+         "thumbnail": "FA2015_Estrades_10r_fig016.JPG"
+      },
+      {
+         "id": "ann_029_fa_15",
+         "driveID": "1Cce2qzM5ejirjEut7qcbLCoyZ5UibKZ8QyU1wfYJG8Q",
+         "thumbnailURL": "https://drive.google.com/file/d/11JiEYXR-qG5_lUiMwBCkb8sjkiDCTPwJ/view?usp=sharing",
+         "name": "Gemstones and Imitation",
+         "semester": "Fall",
+         "year": "2015",
+         "theme": "Art and Its Making",
+         "entryIDs": "p100r_3; p100r_6; p100r_4; p100r_5",
+         "status": "",
+         "refresh": false,
+         "annotationAuthors": [
+            "author_024",
+            "author_025"
+         ],
+         "abstract": null,
+         "contentURL": null,
+         "thumbnail": "FA2015_KremnitzerShah_100r-101r_fig003_Pierrerie.jpg"
+      },
+      {
+         "id": "ann_081_fa_15",
+         "driveID": "1qBA98FXVul0kZ_ie_hpH-9mAfVqts7EiPkH2oQB19Kc",
+         "thumbnailURL": "https://drive.google.com/file/d/1E36OkDnsVzD2k2AJYl_xb-VN-MhQdfif/view?usp=sharing",
+         "name": "Imitation Emeralds",
+         "semester": "Fall",
+         "year": "2015",
+         "theme": "Art and Its Making",
+         "entryIDs": "p100v_1",
+         "status": "",
+         "refresh": false,
+         "annotationAuthors": [
+            "author_024",
+            "author_025"
+         ],
+         "abstract": null,
+         "contentURL": null,
+         "thumbnail": "FA2015_KremnitzerShah_100v_fig011_Emerald.JPG"
+      },
+      {
+         "id": "ann_082_fa_15",
+         "driveID": "14SioRohKDtHD0O-6pBab7saisPHxjArsbyqYeG0SP5s",
+         "thumbnailURL": "https://drive.google.com/file/d/1WV6tMKKTGEv56LGpyapFqZ41GBHtabox/view?usp=sharing",
+         "name": "Imitation Rubies and Failure",
+         "semester": "Fall",
+         "year": "2015",
+         "theme": "The Making and Knowing Laboratory",
+         "entryIDs": "p100v_2",
+         "status": "",
+         "refresh": false,
+         "annotationAuthors": [
+            "author_024",
+            "author_025"
+         ],
+         "abstract": null,
+         "contentURL": null,
+         "thumbnail": "FA2015_KremnitzerShah_100v-101r_Ruby_fig003.JPG"
+      },
+      {
+         "id": "ann_030_fa_15",
+         "driveID": "1ylpOMKmEFr5s8TD7CH36vFAfe8v6ssvc67OEGFQnP6A",
+         "thumbnailURL": "https://drive.google.com/file/d/1ytmT1Zp725arUPIZ8C7bFHlttE3U4ydS/view?usp=sharing",
+         "name": "Painting on Metal",
+         "semester": "Fall",
+         "year": "2015",
+         "theme": "Art and Its Making",
+         "entryIDs": "p158v_1",
+         "status": "",
+         "refresh": false,
+         "annotationAuthors": [
+            "author_026"
+         ],
+         "abstract": null,
+         "contentURL": null,
+         "thumbnail": "FA2015_Kok_158r_fig015.jpg"
+      },
+      {
+         "id": "ann_031_fa_15",
+         "driveID": "1cRzMvvNhh-dpr9pvWgzW60NrJBxVyPLuXpH0xMHyj_o",
+         "thumbnailURL": "https://drive.google.com/file/d/1_1stC3d9nbb3izdqs6MkiXTl7Q0C0qzR/view?usp=sharing",
+         "name": "Damasked Cloth",
+         "semester": "Fall",
+         "year": "2015",
+         "theme": "Society and Culture",
+         "entryIDs": "p015r_1",
+         "status": "published",
+         "refresh": false,
+         "authors": [
+            "author_027"
+         ],
+         "abstract": "<p>An unusual recipe on fol. <a href=\"http://edition640.makingandknowing.org/#/folios/15r/f/15r/tl\"><span class=\"underline\">15r</span></a> involves resist-dye techniques to create a pattern on cloth that imitates damask textile. This essay reconstructs the dyes, and follows the entry’s instructions to reconstruct the process of resist-dyeing. It concludes by situating this process within other entries in Ms. Fr. 640 that aim to produce imitations of more expensive materials and to create the impermanent artworks and decorations of ephemeral court and civic festivals.</p>\n",
+         "contentURL": "https://edition-staging.makingandknowing.org/bnf-ms-fr-640/annotations/ann_031_fa_15.html",
+         "thumbnail": "FA2015_Yi_15r_fig007.JPG"
+      },
+      {
+         "id": "ann_032_fa_15",
+         "driveID": "1xA_0tGA7Z8_D93A5PkrG9dtKaPaXRQrATxFXE0ipfQo",
+         "thumbnailURL": "https://drive.google.com/file/d/102aYcOrEqneqVtCxXlKGXA35Q6MaFqCk/view?usp=sharing",
+         "name": "Color of Gold without Gold on Silver",
+         "semester": "Fall",
+         "year": "2015",
+         "theme": "Art and Its Making",
+         "entryIDs": "p029v_1",
+         "status": "",
+         "refresh": false,
+         "annotationAuthors": [
+            "author_028"
+         ],
+         "abstract": null,
+         "contentURL": null,
+         "thumbnail": "FA2015_Foyer_29v57r_fig007.jpg"
+      },
+      {
+         "id": "ann_033_sp_16",
+         "driveID": "1YNRGZTID5NGXX3vT5NqRzA7UxT1DW03OSXqLl6cc28U",
+         "thumbnailURL": "https://drive.google.com/file/d/1z5xa6K_QPoGIpGa-H8Bgow-yIzs38QZf/view?usp=sharing",
+         "name": "What is esmail d'azur?",
+         "semester": "Spring",
+         "year": "2016",
+         "theme": "The Manuscript, Ms. Fr. 640",
+         "entryIDs": "p059r_2; p061v_3; p093v_2",
+         "status": "",
+         "refresh": false,
+         "annotationAuthors": [
+            "author_029",
+            "author_030"
+         ],
+         "abstract": null,
+         "contentURL": null,
+         "thumbnail": "SP2016_ChangClemens_11r59r61v93v_fig004_BlueEnamelOnCopper.JPG"
+      },
+      {
+         "id": "ann_034_sp_16",
+         "driveID": "1E7Yx_1PP_KPRRUbgAZmhlxMoMwwLB1OwNJPZIdeQUJg",
+         "thumbnailURL": "https://drive.google.com/file/d/11xcz64zCik1pQ8sYGqvCTIcd2MlTS53p/view?usp=sharing",
+         "name": "Rouge Clair and Imitation",
+         "semester": "Spring",
+         "year": "2016",
+         "theme": "Art and Its Making",
+         "entryIDs": "p006r_1; p040v_1; p124v_1",
+         "status": "",
+         "refresh": false,
+         "annotationAuthors": [
+            "author_029",
+            "author_031"
+         ],
+         "abstract": null,
+         "contentURL": null,
+         "thumbnail": "SP2016_ChangShi_40v_fig006_DifferenceBetweenSilverGesso.JPG"
+      },
+      {
+         "id": "ann_035_sp_16",
+         "driveID": "1c8z8aMc_HBVWLs9dU3MQcDGFo7r5c8xJte32f8ArQhI",
+         "thumbnailURL": "https://drive.google.com/open?id=1437SxRm3iAXag7Zda-Blv59wIpjAWq4V",
+         "name": "Apprenticeship of the Painter",
+         "semester": "Spring",
+         "year": "2016",
+         "theme": "Art and Its Making",
+         "entryIDs": "p064v_1; p064v_2",
+         "status": "",
+         "refresh": false,
+         "annotationAuthors": [
+            "author_022"
+         ],
+         "abstract": null,
+         "contentURL": null,
+         "thumbnail": "SP2016_Zhao_64v_fig001_ManuscriptPage.jpg"
+      },
+      {
+         "id": "ann_036_sp_16",
+         "driveID": "1ZNqXbJINti7teByIul9FVs52sOlzdV0NpW42-heVn3I",
+         "thumbnailURL": "https://drive.google.com/file/d/1X-Hi-UsRzKUEi6O5gTluNSwBoGXWTPnp/view?usp=sharing",
+         "name": "Black Color for Dyeing",
+         "semester": "Spring",
+         "year": "2016",
+         "theme": "Society and Culture",
+         "entryIDs": "p038v_1",
+         "status": "published",
+         "refresh": false,
+         "authors": [
+            "author_032"
+         ],
+         "abstract": "<p>Throughout BnF Ms. Fr. 640, the author-practitioner attempts to create black oils, stains, varnishes, pigments and—in one recipe—dye. Contextualizing the importance of black in the manuscript and in early modern society, this essay explores a short black dye recipe on fol. <a href=\"http://edition640.makingandknowing.org/#/folios/38v/f/38v/tl\"><span class=\"underline\">38v</span></a> which uses lead and lye made from quicklime. It then follows the author-practitioner’s instruction to “try other colors with the lye made of lime.” The essay proposes that while this method of dyeing degrades the fibers of wool and hair (and does not work on linens or silks), there is a “material logic” to the author-practitioner’s choice of materials if we place this recipe in context with his other experiments. While there is no substantial discussion of textiles or dyeing in Ms. Fr. 640, textiles make frequent occurrences in recipes as objects of transformation (either to be dyed, or to be used as a source for pigments), as subjects for painters, as tools, as similes, and as the object of useful knowledge. This essay argues that the author-practitioner demonstrates his “textile literacy” throughout the manuscript, including notes on the expense of black textiles, the accounting practices of cloth merchants, and the visual effects of clothing. Given the importance of the woad industry in Toulouse and the economic and cultural value of textiles in the early modern period, such knowledge and interest is understandable, but this essay prompts further questions about how widespread dye experimentation was in this period, the nuanced meaning of color in the region, and even what the author-practitioner might have been wearing as he carried out his experiments.</p>\n",
+         "contentURL": "https://edition-staging.makingandknowing.org/bnf-ms-fr-640/annotations/ann_036_sp_16.html",
+         "thumbnail": "SP2016_Pitman_38v_fig017_WoodCochinealAndDragonsBloodInLye.jpg"
+      },
+      {
+         "id": "ann_037_sp_16",
+         "driveID": "1vnWGgmayvX5lFD8UZIelhJQsZB6_mOCeEPlU0B_Q0zU",
+         "thumbnailURL": "https://drive.google.com/file/d/1lj3BrXCDmBxqJsVB8Oet1VEHibohmUvL/view?usp=sharing",
+         "name": "Dragon's Blood",
+         "semester": "Spring",
+         "year": "2016",
+         "theme": "Knowing Nature",
+         "entryIDs": "p029v_6; p038v_2",
+         "status": "",
+         "refresh": false,
+         "annotationAuthors": [
+            "author_033"
+         ],
+         "abstract": null,
+         "contentURL": null,
+         "thumbnail": "SP2016_Reich_29v38v_fig011_DragonsBloodStains.jpg"
+      },
+      {
+         "id": "ann_038_sp_16",
+         "driveID": "1eazIdUafywO9AtLxRvLEzj6LfpPmTM0VK4x8oOHh-Pg",
+         "thumbnailURL": "https://drive.google.com/open?id=1Cxt8_oJeydpRLq3WUTJoj43GQwlVN4HU",
+         "name": "What is Esmail?",
+         "semester": "Spring",
+         "year": "2016",
+         "theme": "The Manuscript, Ms. Fr. 640",
+         "entryIDs": "p039v_1; p103v_5; p104r_5; p116r_4; p136r_1; p006r_1",
+         "status": "",
+         "refresh": false,
+         "annotationAuthors": [
+            "author_029",
+            "author_030",
+            "author_031"
+         ],
+         "abstract": null,
+         "contentURL": null,
+         "thumbnail": "SP16_ChangsClemensShi_Esmail_39v.jpg"
+      },
+      {
+         "id": "ann_039_sp_16",
+         "driveID": "1GFWxS3NKhzh_olGNGMh77ZGAIs7KN_wJQZ2ORjXD44w",
+         "thumbnailURL": "https://drive.google.com/file/d/18S6DJ_0zJLBP0k_QAQmFM6FnDdeI0zdW/view?usp=sharing",
+         "name": "Gilding on Paper and Parchment",
+         "semester": "Spring",
+         "year": "2016",
+         "theme": "Art and Its Making",
+         "entryIDs": "p010v_2; p029v_2",
+         "status": "",
+         "refresh": false,
+         "annotationAuthors": [
+            "author_034"
+         ],
+         "abstract": null,
+         "contentURL": null,
+         "thumbnail": "SP2016_Goldenberg_10v29v_fig005.jpg"
+      },
+      {
+         "id": "ann_040_sp_16",
+         "driveID": "10AcxQUvF9X-bFESeqAEjqEWFyrSchAbdk15o1OSVdRU",
+         "thumbnailURL": "https://drive.google.com/file/d/1zbnpllZFJHImQXmehDHZAnv1SV9h6KWN/view?usp=sharing",
+         "name": "Imitation Marble",
+         "semester": "Spring",
+         "year": "2016",
+         "theme": "Art and Its Making",
+         "entryIDs": "p056r_2",
+         "status": "",
+         "refresh": false,
+         "annotationAuthors": [
+            "author_035"
+         ],
+         "abstract": null,
+         "contentURL": null,
+         "thumbnail": "SP2016_Soley_56r_fig009_Comparison1stand2ndSessionPaintColors.jpg"
+      },
+      {
+         "id": "ann_041_sp_16",
+         "driveID": "1GSK7Q5bHBacEjM3cAhqMBiA1yy93VlRZi6NuNsHj_kU",
+         "thumbnailURL": "https://drive.google.com/file/d/1W69NaW8WLXzdgeFms1ihNWNjQ1yEONKZ/view?usp=sharing",
+         "name": "What is or mat?",
+         "semester": "Spring",
+         "year": "2016",
+         "theme": "Art and Its Making",
+         "entryIDs": "p066r_5",
+         "status": "",
+         "refresh": false,
+         "annotationAuthors": [
+            "author_036"
+         ],
+         "abstract": null,
+         "contentURL": null,
+         "thumbnail": "SP2016_Ndungu_66r_fig005_ModifiedT3Gilding.jpg"
+      },
+      {
+         "id": "ann_042_sp_16",
+         "driveID": "1Okouu9SBGrEKg-byIMPkvpYGgpemoFZuyh6vhqO_swo",
+         "thumbnailURL": "https://drive.google.com/file/d/1YkR7IE1Y9pOyzuA6M-K9fmdem9_UAn_J/view?usp=sharing",
+         "name": "Painting Skin and Shadows a destrempe",
+         "semester": "Spring",
+         "year": "2016",
+         "theme": "Art and Its Making",
+         "entryIDs": "p065r_1; p066r_2; p093v_1",
+         "status": "",
+         "refresh": false,
+         "annotationAuthors": [
+            "author_037"
+         ],
+         "abstract": null,
+         "contentURL": null,
+         "thumbnail": "SP2016_Nisse_65r66r93v_fig014_ApplicationOfSecondCarnationLayer.jpg"
+      },
+      {
+         "id": "ann_043_sp_16",
+         "driveID": "1g8zJFcK35VdDmYfw8bHrBRHvNiz35pRjAkri-hkfFTo",
+         "thumbnailURL": "https://drive.google.com/file/d/1uLTPgnsi3AAnOLBIiDInbD5w1VH0nGav/view?usp=sharing",
+         "name": "Sleight of Hand Tricks",
+         "semester": "Spring",
+         "year": "2016",
+         "theme": "Society and Culture",
+         "entryIDs": "p033r_1; p036r_1; p043v_1",
+         "status": "",
+         "refresh": false,
+         "annotationAuthors": [
+            "author_038"
+         ],
+         "abstract": null,
+         "contentURL": null,
+         "thumbnail": "SP2016_Barwich_43v_fig019_wine.jpg"
+      },
+      {
+         "id": "ann_044_sp_16",
+         "driveID": "1ecqhD3o8-zIsIHHmHr1vNEd_n_KX8_EqZbjw3KPj4WE",
+         "thumbnailURL": "https://drive.google.com/file/d/1H4cniHDn77nkw6cpPrpfieyDzfWIysU2/view?usp=sharing",
+         "name": "Sulfuric Acid for the Scribe",
+         "semester": "Spring",
+         "year": "2016",
+         "theme": "Knowing Nature",
+         "entryIDs": "p046v_1",
+         "status": "",
+         "refresh": false,
+         "annotationAuthors": [
+            "author_030"
+         ],
+         "abstract": null,
+         "contentURL": null,
+         "thumbnail": "SP2016_Clemens_46v_fig003_writingwithoutink.JPG"
+      },
+      {
+         "id": "ann_045_fa_16",
+         "driveID": "1aAzJCpPemNzpWp-zaRL9bLlFxJAqP6t2hw8uDYGHzog",
+         "thumbnailURL": "https://drive.google.com/open?id=1BWj-4jHT6ye-_qgV9PT6hrs7tgdiJlHV",
+         "name": "Imitating Raw Nature",
+         "semester": "Fall",
+         "year": "2016",
+         "theme": "Art and Its Making",
+         "entryIDs": "p010r_1",
+         "status": "published",
+         "refresh": false,
+         "authors": [
+            "author_039",
+            "author_044"
+         ],
+         "abstract": "<p>Several recipes in Ms. Fr. 640 refer to artistic practices of imitating nature. The author-practitioner appears to distinguish between <em>imiter</em> and <em>contrefaire</em>: to “counterfeit” means to create imitations of raw materials that can adequately stand in for the original. This material mimesis is based on firsthand knowledge of the raw substance and presents an opportunity for inquiry about nature’s own processes of creation. The endeavor to create a manmade equivalent impels the artisan to examine closely the peculiarities of the raw material and to seek practicable techniques that can match (without supplanting) nature’s creative forces. This essay examines and reconstructs the recipe for <em>Jaspe contrefaict</em> (Counterfeit Jasper) on fol. <a href=\"http://edition640.makingandknowing.org/#/folios/10r/f/10r/tl\"><span class=\"underline\">10r</span></a> as a case study and point from which to begin to contextualize the author-practitioner’s interest in imitation. This essay proposes connections between his modes of inquiry into the physical properties of raw nature and important sixteenth-century epistemological projects, including the Kunstkammer and the work of naturalists theorizing about the geological origins of stones.</p>\n",
+         "contentURL": "https://edition-staging.makingandknowing.org/bnf-ms-fr-640/annotations/ann_045_fa_16.html",
+         "thumbnail": "FA2016_Lores-ChavezKang_Imitating Raw Nature_fig.001_sawing.jpg"
+      },
+      {
+         "id": "ann_046_fa_16",
+         "driveID": "1CEBDmg30igI1Lgo6JRlVJWs1HvwP0wjG1XTEYLY6xdA",
+         "thumbnailURL": "https://drive.google.com/open?id=1T51k-ujiQgxsI8SHbxIZ7je7YaLfMBRJ",
+         "name": "Bread in Early Modern Europe",
+         "semester": "Fall",
+         "year": "2016",
+         "theme": "Society and Culture",
+         "entryIDs": "p037r_2; p079v_2; p123r_1",
+         "status": "published",
+         "refresh": false,
+         "authors": [
+            "author_040"
+         ],
+         "abstract": "<p>What is bread in the context of Ms. Fr. 640? This category of food appears in the manuscript under three different names: bread, host (<a href=\"http://edition640.makingandknowing.org/#/folios/37r/f/37r/tl\"><span class=\"underline\">37r</span></a>), and toast (<a href=\"http://edition640.makingandknowing.org/#/folios/79v/f/79v/tl\"><span class=\"underline\">79v</span></a>, <a href=\"http://edition640.makingandknowing.org/#/folios/123v/f/123v/tl\"><span class=\"underline\">123v</span></a>). The meaning and use of these terms are considered as well as the production of bread and Hosts in the early modern period and the pathways by which bread could have entered the author-practitioner’s workshop. Flour was the key factor in bread production, often selected by availability, preference, and beliefs about particular cereals. The baking practices required for different grains influenced the breads one could bake. Some, such as oatbread, could be baked on the hearth at home; others, such as fine wheat bread, required the high and constant heat of a specialized oven and were chiefly baked professionally. The varieties of flours, breads, and processes show the meaning of “bread” in the period of the manuscript’s compilation cannot be taken for granted.</p>\n",
+         "contentURL": "https://edition-staging.makingandknowing.org/bnf-ms-fr-640/annotations/ann_046_fa_16.html",
+         "thumbnail": "FA2016_LePouesard_Bread in Early Modern Europe.jpg"
+      },
+      {
+         "id": "ann_047_fa_16",
+         "driveID": "1q9ohIxiVHQ5FdfZmF02VNC5cjOyIlSbN69I5JwXuKvU",
+         "thumbnailURL": "https://drive.google.com/file/d/1z0SeSYuehvBdivmYNCbYdt9VHazJhWPd/view?usp=sharing",
+         "name": "Spinet Playing by Itself",
+         "semester": "Fall",
+         "year": "2016",
+         "theme": "Society and Culture",
+         "entryIDs": "p104v_4",
+         "status": "published",
+         "refresh": false,
+         "authors": [
+            "author_041"
+         ],
+         "abstract": "<p>The cursory description on fol. <a href=\"http://edition640.makingandknowing.org/#/folios/104v/f/104v/tl\"><span class=\"underline\">104v</span></a> of an automatic, mechanical version of the spinet, a plucked-stringed keyboard instrument, is one of a handful of entries on music or mechanics in Ms. Fr. 640. The author-practitioner likely had some familiarity with plucked-stringed instruments and possessed a curiosity for “invention,” a term he used to describe the automatic spinet and one with broader meaning in the sixteenth century than it has today. An automatic spinet would have belonged within relatively elite social circles, and it shares technical features with musical automata of the sixteenth and seventeenth centuries. A scaled-down reconstruction questions the likelihood that the author-practitioner ever undertook the entry’s instructions himself. Rather, the “Spinet” entry probably resulted from his interests and encounters, reminding readers that the manuscript should sometimes be seen as a collection of thoughts and observations as well as a practical guidebook.</p>\n",
+         "contentURL": "https://edition-staging.makingandknowing.org/bnf-ms-fr-640/annotations/ann_047_fa_16.html",
+         "thumbnail": "FA2016_Hiebert_104v_fig009_FinalProduct.JPG"
+      },
+      {
+         "id": "ann_048_fa_16",
+         "driveID": "1W6tlHrnt_ZrFdCkHLsiJAlBf6lne-Xw8msAPtPWntYA",
+         "thumbnailURL": "https://drive.google.com/open?id=15Vkob1VA5m-hzYktB_auH6Zp4_7u39sx",
+         "name": "Smoke as Medicine",
+         "semester": "Fall",
+         "year": "2016",
+         "theme": "Society and Culture",
+         "entryIDs": "p077r_2",
+         "status": "published",
+         "refresh": false,
+         "authors": [
+            "author_042"
+         ],
+         "abstract": "<p>Of over forty medicinal entries in BnF Ms. Fr. 640, “Medicine of the Orientals against all maladies” is the only recipe that advises taking in the smoke of a dried herb as a treatment. This recipe, on fol. <a href=\"http://edition640.makingandknowing.org/#/folios/77r/f/77r/tl\"><span class=\"underline\">77r</span></a>, is also the only reference to “oriental medicine” in the manuscript and the sole example of the use of a pipe to make smoke. In other parts of the manuscript, however, the author-practitioner includes numerous references to good and bad smoke, breath, and vapors in the context of bodily health and craft techniques. This essay discusses this recipe's relationship to others in Ms. Fr. 640, offering insights into the author-practitioner’s conceptions of medicinal materials and practices, and the overlap between medical and non-medical processes in the manuscript. To further situate “Medicine of the orientals against all maladies,” this essay explores its possible genealogy within global medicinal practices. These interconnections demonstrate the importance of historicizing artisanal and medical practice and their related knowledge systems.</p>\n",
+         "contentURL": "https://edition-staging.makingandknowing.org/bnf-ms-fr-640/annotations/ann_048_fa_16.html",
+         "thumbnail": "FA2016_DeVinney_77r_fig002_Pipe.jpg"
+      },
+      {
+         "id": "ann_049_fa_16",
+         "driveID": "1lBmlGAnYXuNKL7mVVGKiCdJeJaQx7Rx1DZhmJuAqx-0",
+         "thumbnailURL": "https://drive.google.com/file/d/1gWJrFI24tyKNA1ViX3H_eRFC_XlT5HPu/view?usp=sharing",
+         "name": "Keeping Dry Flowers",
+         "semester": "Fall",
+         "year": "2016",
+         "theme": "Knowing Nature",
+         "entryIDs": "p120v_6",
+         "status": "published",
+         "refresh": false,
+         "authors": [
+            "author_043"
+         ],
+         "abstract": "<p>The recipe “Keeping dried flowers in the same state all year” (fol. <a href=\"http://edition640.makingandknowing.org/#/folios/120v/f/120v/tl\"><span class=\"underline\">120v</span></a>–<a href=\"http://edition640.makingandknowing.org/#/folios/121r/f/121r/tl\"><span class=\"underline\">121r</span></a>) reflects the author-practitioner’s wider preoccupation with the preservation of flora and fauna for display. In this recipe, he provides instructions for drying a particular set of flowers with sand and preserving them in vases of vinegar. Through an examination of the language of the recipe as well as his uses of vinegar, sand, and flowers elsewhere in the manuscript, this essay seeks to highlight the author-practitioner's familiarity with sand and vinegar as preservative materials and postulates that an accumulation of botanical knowledge likely informed his attempt to achieve a more lifelike result. Moreover, his selection of flowers suggests that he was attuned to the cultural meanings of flowers and floral decoration in the late sixteenth century. A reconstruction of the recipe demonstrates that extensive knowledge of the materials is important not only to the outcome but to their handling. The author-practitioner’s vague instructions suggest that he was familiar with the processes of preservation he describes, further underscoring his experience with and interest in preserving organic materials.</p>\n",
+         "contentURL": "https://edition-staging.makingandknowing.org/bnf-ms-fr-640/annotations/ann_049_fa_16.html",
+         "thumbnail": "FA2016_Sellar_120v121r_fig011_GroupedFlowers-NEW.jpg"
+      },
+      {
+         "id": "ann_050_fa_16",
+         "driveID": "1MOOTZrA-oPNCQbQ1ivMx8c0Y92nGpMfYqgr51gp_Zsg",
+         "thumbnailURL": "https://drive.google.com/file/d/1dFYodAev4rXhZhjxpg2bY_DGzA77sWmq/view?usp=sharing",
+         "name": "Bread as Mediating Material",
+         "semester": "Fall",
+         "year": "2016",
+         "theme": "Society and Culture",
+         "entryIDs": "p114r_1; p129v_1; p130r_1",
+         "status": "published",
+         "refresh": false,
+         "authors": [
+            "author_040"
+         ],
+         "abstract": "<p>This essay addresses the role of materials not as physical ingredients or tools but as mediators between familiar and unfamiliar processes, taking bread and baking in the manuscript as a case study. References to bread in entries that do not employ this food use the familiar activity of baking to elucidate unfamiliar technical processes, such as when making stucco, to “knead it as if you wanted to make bread” (fol. <a href=\"http://edition640.makingandknowing.org/#/folios/29r/f/29r/tl\"><span class=\"underline\">29r</span></a>). The author-practitioner turns assumed tactile memories in his reader into descriptive devices and implies the primacy of touch in craft practice. Current neuroscientific research argues that touch is the most sensitive of the senses and is strongly linked to memory-making; this might help explain the prominence of tactile descriptions in craft and technical writing. The use of familiar materials and processes as mediators in written accounts enables craftspeople recording procedural and embodied knowledge to bridge the gap between experience and words.</p>\n",
+         "contentURL": "https://edition-staging.makingandknowing.org/bnf-ms-fr-640/annotations/ann_050_fa_16.html",
+         "thumbnail": "FA16_Le Pouésard_29r114v129v130r_Bread.jpg"
+      },
+      {
+         "id": "ann_051_fa_16",
+         "driveID": "1xKOrBMh5Z8-sLrWJwrD9c9XZx195_PGrtpxhjjBugjw",
+         "thumbnailURL": "https://drive.google.com/file/d/1Gz3BWD08LGydXNM2I9hVyO2IYToNKe_s/view?usp=sharing",
+         "name": "Black Sulfured Wax",
+         "semester": "Fall",
+         "year": "2016",
+         "theme": "Knowing Nature",
+         "entryIDs": "p139v_1",
+         "status": "published",
+         "refresh": false,
+         "authors": [
+            "author_039",
+            "author_044"
+         ],
+         "abstract": "<p>A recipe for a mixture of wax, charcoal, and sulfur referred to as “black sulfured wax” appears on fol. <a href=\"http://edition640.makingandknowing.org/#/folios/139v/f/139v/tl\"><span class=\"underline\">139v</span></a> of Ms. Fr. 640. This essay contextualizes the mixture in relation to other wax compounds described in the manuscript and other craft treatises. Reconstructions of the black sulfured compound and two other wax variants were used to test the author-practitioner’s claims about the physical properties and practical uses of black sulfured wax. Only a limited number of these claims could be confirmed. Further work will have to experiment with varying the quantities of ingredients and mixing temperatures. It appears that the “black sulfured wax” was both a variation of the practice—common among early modern artisans—of mixing wax with black additives, and an extension of the author-practitioner’s many experiments with sulfur and wax.</p>\n",
+         "contentURL": "https://edition-staging.makingandknowing.org/bnf-ms-fr-640/annotations/ann_051_fa_16.html",
+         "thumbnail": "FA2016_KangLores-Chavez_139v_fig004_PouringBlackSulfuredWax.jpg"
+      },
+      {
+         "id": "ann_052_fa_16",
+         "driveID": "1hEo2AgxgnVOB8ArPqFRgTwDb_2t7wAood6JVk7J5nzM",
+         "thumbnailURL": "https://drive.google.com/file/d/1sqLF-CmO1vglxADegt8TCjVFMfAmUlmt/view?usp=sharing",
+         "name": "Glassworking",
+         "semester": "Fall",
+         "year": "2016",
+         "theme": "Society and Culture",
+         "entryIDs": "p006v_1",
+         "status": "published",
+         "refresh": false,
+         "authors": [
+            "author_045"
+         ],
+         "abstract": "<p>The entry “For cages” on fol. <a href=\"http://edition640.makingandknowing.org/#/folios/6v/f/6v/tl\"><span class=\"underline\">6v</span></a> describes a specialized glassworking process, the manipulation of glass canes for lampworking and beadmaking. Third person description suggests that the author-practitioner observed glassworkers lengthening hollow canes, and his familiarity with particular tools, materials, and processes used in lampworking and beadmaking support this hypothesis. While functional cages for keeping animals are discussed elsewhere in the manuscript, “For cages” is situated among other entries concerning the embellishment of readymade objects and suggests the author-practitioner’s interest in applying the decorative techniques of lampworkers. My reconstruction suggests ways to fuse and bend wire and glass that could be learned by observation or developed experimentally by someone without extensive training. The author-practitioner’s attention to various glassworking industries and their specialized products in Ms. Fr. 640 suggests that he used technical knowledge gathered from encounters with other artisans to inform and augment his own wide-ranging artisanal activities.</p>\n",
+         "contentURL": "https://edition-staging.makingandknowing.org/bnf-ms-fr-640/annotations/ann_052_fa_16.html",
+         "thumbnail": "FA2016_Donefer-Hickie_6v_fig014_Coveringtrial.jpg"
+      },
+      {
+         "id": "ann_053_fa_16",
+         "driveID": "1eGs3getVzKz6kch_2ayHTyFFY2vc-u4pMDnSaMDjbXo",
+         "thumbnailURL": "https://drive.google.com/file/d/1QVWnm_FTCsDVOPz-Ds5VwgI7c2Pyn9BW/view?usp=sharing",
+         "name": "Buckram Sausage and Gunpowder Weapons",
+         "semester": "Fall",
+         "year": "2016",
+         "theme": "Society and Culture",
+         "entryIDs": "p023r_1",
+         "status": "published",
+         "refresh": false,
+         "authors": [
+            "author_046"
+         ],
+         "abstract": "<p>Embedded within an untitled entry that focuses on <em>mortiers</em> (“mortars:” here meaning “petards”), fol. <a href=\"http://edition640.makingandknowing.org/#/folios/23r/f/23r/tl\"><span class=\"underline\">23r</span></a>–<a href=\"http://edition640.makingandknowing.org/#/folios/23v/f/23v/tl\"><span class=\"underline\">23v</span></a> includes text and image instructions to make a “buckram sausage,” a sausage-shaped fabric tube filled with gunpowder used as a fuse for short-range artillery. While Ms. Fr. 640 contains more than twenty entries related to gunpowder technology, the buckram sausage passages are among the very few instances of highly specific textual and visual instructions on the materials, techniques, and procedures of weapon production. Using hands-on reconstruction and research into the artisanal production of weapons in early modern Europe, this essay also explores the possible uses of the buckram sausage on the battlefield and examines how the author-practitioner engages with contemporaneous military technology in his writing. Finally, this essay calls attention to the importance of wartime contingencies and commonplace techniques in understanding the translation between practical and textual knowledge with regard to early modern military technology.</p>\n",
+         "contentURL": "https://edition-staging.makingandknowing.org/bnf-ms-fr-640/annotations/ann_053_fa_16.html",
+         "thumbnail": "FA2016_Fong_23r23v_fig016_ReconstructedSausage.jpg"
+      },
+      {
+         "id": "ann_054_sp_17",
+         "driveID": "17uHPz3-UcNIYyFfxE752ocRMTaXy8P9py1czeuLmhuw",
+         "thumbnailURL": "https://drive.google.com/file/d/1r4NbmFZ-MRCEJ910BpnTCNNXL6h6pwaq/view?usp=sharing",
+         "name": "Gout or Gonorrhea?",
+         "semester": "Spring",
+         "year": "2017",
+         "theme": "Knowing Nature",
+         "entryIDs": "p007v_3; p016v_1; p046r_4",
+         "status": "published",
+         "refresh": false,
+         "authors": [
+            "author_047"
+         ],
+         "abstract": "<p>Ms. Fr. 640, fol. <a href=\"http://edition640.makingandknowing.org/#/folios/7v/f/7v/tl\"><span class=\"underline\">7v</span></a>, contains a curious recipe titled “To relieve the pain of G.” This essay seeks to uncover the meaning of “G.” in this entry by comparing the recipe to three other similar entries in the manuscript: “Against gonorrhea,” also on fol. 7v, “Against Go.,” on fol. 16v, and “Against cold gouts,” on fol. 46r. Contemporary sources, including medical treatises and reference works, offer clues about the purpose of this recipe, mentioning similar ingredients and methods of preparation and application. Indeed, the medicinal properties of the recipe’s ingredients—marcasite, storax, and urine—serve specific purposes that can be associated with early modern conceptions of gout. A reconstruction of the recipe considers whether the process of distilling these ingredients was feasible.</p>\n",
+         "contentURL": "https://edition-staging.makingandknowing.org/bnf-ms-fr-640/annotations/ann_054_sp_17.html",
+         "thumbnail": "SP2017_Basile_7v_fig004_StoraxPowder.jpg"
+      },
+      {
+         "id": "ann_055_sp_17",
+         "driveID": "1pxPBIu53a8DWeO-7Yj8p9GnG_9j_rKahiM3WExMOPXM",
+         "thumbnailURL": "https://drive.google.com/file/d/1Xi6fJV-pTgBUBAILRHNq-OfVlS0d5qae/view?usp=sharing",
+         "name": "Distillation in Ms. Fr. 640",
+         "semester": "Spring",
+         "year": "2017",
+         "theme": "Knowing Nature",
+         "entryIDs": "p003r_3",
+         "status": "published",
+         "refresh": false,
+         "authors": [
+            "author_048"
+         ],
+         "abstract": "<p>Innovations in distillation practices and technology in early modern Europe made possible the production of distillates in larger quantities. Such technologies became a prerequisite for a variety of modern-day applications in laboratory sciences and medicinal chemistry that followed. Ms. Fr. 640 provides testimony to this development: an illustration on fol. <a href=\"http://edition640.makingandknowing.org/#/folios/3v/f/3v/tl\"><span class=\"underline\">3v</span></a> of a distillation vessel raises questions about where this apparatus can be located within this context, as well as about the author-practitioner’s knowledge and practice of distillation. This essay considers the text and image of the entry in the context of the manuscript, and it speculates about the consequences of the entry’s overriding concern with the practical yield of the apparatus, in quantity, quality, and variety of products.</p>\n",
+         "contentURL": "https://edition-staging.makingandknowing.org/bnf-ms-fr-640/annotations/ann_055_sp_17.html",
+         "thumbnail": "SP2017_Eom_3v_fig020_3vAuthorLabelled.jpg"
+      },
+      {
+         "id": "ann_056_sp_17",
+         "driveID": "1SGg2PkHh9v39DduFD0bND4ugiV5BJ_sJ68uZ-1LTprQ",
+         "thumbnailURL": "https://drive.google.com/open?id=1tAJotdQr70MF0XC0r94GNq-m43eaqI1e",
+         "name": "Making and Using Fish Glue",
+         "semester": "Spring",
+         "year": "2017",
+         "theme": "Art and Its Making",
+         "entryIDs": "p007r_4",
+         "status": "published",
+         "refresh": false,
+         "authors": [
+            "author_049"
+         ],
+         "abstract": "<p>Glue is any substance that creates a bond between two separate objects or that prepares the surface for subsequent operations. In Ms. Fr. 640, fish glue in particular plays an important role in glueing delicate items. The author-practitioner, however, especially emphasizes two characteristics—clearness and strength of the glue—throughout the manuscript. Thus, I reconstructed three kinds of fish glue with different parts of the fish based on the recipe on fol. <a href=\"http://edition640.makingandknowing.org/#/folios/7r/f/7r/tl\"><span class=\"underline\">7r</span></a> in order to examine the reliability of the author-practitioner’s statements about making fish glue and, further, to demonstrate his comprehensive understanding of its use.</p>\n",
+         "contentURL": "https://edition-staging.makingandknowing.org/bnf-ms-fr-640/annotations/ann_056_sp_17.html",
+         "thumbnail": "20170510_Wang_Fish-Glue_007.JPG"
+      },
+      {
+         "id": "ann_057_sp_17",
+         "driveID": "1b47NBJCgJv85brWfhR-lA8lW61NL1if5tXNM3CAm7ko",
+         "thumbnailURL": "https://drive.google.com/open?id=1Vq6t3swnvwldceNnWL0JfjnXr6Db4A_S",
+         "name": "Collecting Cures",
+         "semester": "Spring",
+         "year": "2017",
+         "theme": "Society and Culture",
+         "entryIDs": "p001v_1; p007v_2; p047r_3; p079r_2; p170v_2",
+         "status": "published",
+         "refresh": false,
+         "authors": [
+            "author_050"
+         ],
+         "abstract": "<p>Scattered throughout Ms. Fr. 640, the forty medical recipes form a small percentage of its almost 930 entries. A consideration of the ailments, ingredients, and making processes described in the manuscript, as well as the author-practitioner’s process of collecting information, reveals a variety of connections between Ms. Fr. 640’s medical recipes and early modern artisanal work.</p>\n",
+         "contentURL": "https://edition-staging.makingandknowing.org/bnf-ms-fr-640/annotations/ann_057_sp_17.html",
+         "thumbnail": "SP17_Liu_Collecting Cure_103r.jpg"
+      },
+      {
+         "id": "ann_058_sp_17",
+         "driveID": "13QghAngyMjonLg2WP08_O9_MIW7NXJfj9ipENgc7SLw",
+         "thumbnailURL": "https://drive.google.com/file/d/1Qv-L75hj3td2rW5Xbp4yv0f0ys9b2ehD/view?usp=sharing",
+         "name": "Acid as Dental Cleanser",
+         "semester": "Spring",
+         "year": "2017",
+         "theme": "Knowing Nature",
+         "entryIDs": "p046r_1; p047r_1",
+         "status": "published",
+         "refresh": false,
+         "authors": [
+            "author_050"
+         ],
+         "abstract": "<p>“For the teeth, oil of sulfur” on fol. <a href=\"http://edition640.makingandknowing.org/#/folios/46r/f/46r/tl\"><span class=\"underline\">46r</span></a> of Ms. Fr. 640 requires <em>eau forte</em> (nitric acid) and “oil of sulfur” (sulfuric acid) as materials for teeth whitening. The recipe records the effects of both acids as well as their “side effects” and ways to counteract them. The organization of this recipe shows the author-practitioner was recording different approaches to whitening teeth rather than providing a tested remedy. The reconstruction of the recipe demonstrates the efficacy of the remedies, while the side effects would likely be revealed only after long term use.</p>\n",
+         "contentURL": "https://edition-staging.makingandknowing.org/bnf-ms-fr-640/annotations/ann_058_sp_17.html",
+         "thumbnail": "SP2017_Liu_46r_fig003_teeth.jpg"
+      },
+      {
+         "id": "ann_079_sp_17",
+         "driveID": "1UUQa6FwKm7PojEO52VUk1Nx7MZpnlgArh8QUzQwVEXs",
+         "thumbnailURL": "https://drive.google.com/file/d/1TesWZf7DRauC2o17jR9j-byM4GpT7TAJ/view?usp=sharing",
+         "name": "Medicinal Plaster",
+         "semester": "Spring",
+         "year": "2017",
+         "theme": "The Making and Knowing Laboratory",
+         "entryIDs": "p066v_1",
+         "status": "published",
+         "refresh": false,
+         "authors": [
+            "author_050"
+         ],
+         "abstract": "<p>The reconstruction of the recipe on fol. <a href=\"http://edition640.makingandknowing.org/#/folios/66v/f/66v/tl\"><span class=\"underline\">66v</span></a> for preventing the swelling of breasts makes clear the problems of reconstructing historical medical recipes. The curative aim of the recipe is not clear. Plant materials are difficult to identify and to source, and testing of the efficacy of the substance produced is neither feasible, safe, nor ethical.</p>\n",
+         "contentURL": "https://edition-staging.makingandknowing.org/bnf-ms-fr-640/annotations/ann_079_sp_17.html",
+         "thumbnail": "SP2017_Liu_66v_fig008_plaster.jpg"
+      },
+      {
+         "id": "ann_080_sp_17",
+         "driveID": "1rZXiSR6tMZ1gBNbG3Sepgg0we9FykVG-Ls7G_u7_F7k",
+         "thumbnailURL": "https://drive.google.com/file/d/1BB6I_ho-a3BQeO-kb2zHu0fyQNW4W6YS/view?usp=sharing",
+         "name": "Salve for Burns",
+         "semester": "Spring",
+         "year": "2017",
+         "theme": "Society and Culture",
+         "entryIDs": "p103r_1",
+         "status": "published",
+         "refresh": false,
+         "authors": [
+            "author_050"
+         ],
+         "abstract": "<p>“Against burns, excellent” (fol. <a href=\"http://edition640.makingandknowing.org/#/folios/103r/f/103r/tl\"><span class=\"underline\">103r</span></a>) gives detailed instructions on the making and application of a salve for burns. Like some other medical recipes in the manuscript it calls for relatively few ingredients but specifies a complex making process to transform the material into a different state. The recipe is unusual among the other medical recipes in Ms. Fr. 640, however, because it possesses explicit spiritual dimensions, including pure ingredients, holy water, and the recitation of prayers. In addition, the recipe provides information about its source and trustworthiness. The reconstruction of the recipe revealed the transformation of the mixture of linseed oil and hardening wax, two hydrophobic substances, into a fluffy white ointment through constant stirring with water, and, at the same time, the purifying “ritual” brought about a visible whitening and “inspiriting” of the materials with each recited prayer and washing with holy water.</p>\n",
+         "contentURL": "https://edition-staging.makingandknowing.org/bnf-ms-fr-640/annotations/ann_080_sp_17.html",
+         "thumbnail": "SP2017_Liu_103r_fig003_salve.jpg"
+      },
+      {
+         "id": "ann_059_sp_17",
+         "driveID": "1p_7hl5jjX33TTue-WyPEc9tuzWRf3wvivDUDJAUfrAg",
+         "thumbnailURL": "https://drive.google.com/file/d/1Km7kgySEOEZSz2ghYP8Ne6BZrVaJGiUB/view?usp=sharing",
+         "name": "Silkworms and the Work of Algiers",
+         "semester": "Spring",
+         "year": "2017",
+         "theme": "Society and Culture",
+         "entryIDs": "p052r_1; p053v_1",
+         "status": "published",
+         "refresh": false,
+         "authors": [
+            "author_051"
+         ],
+         "abstract": "<p>The author-practitioner’s detailed description of how to raise silkworms according to conventional early modern sericultural methods in “Silkworms” on fol. <a href=\"http://edition640.makingandknowing.org/#/folios/53v/f/53v/tl\"><span class=\"underline\">53v</span></a> is related by material and timing to a quite unusual entry on fol. <a href=\"http://edition640.makingandknowing.org/#/folios/52r/f/52r/tl\"><span class=\"underline\">52r</span></a>, “The work done in Algiers.” This entry involves raising a silkworm in a flask to produce a powder that transforms antimony into gold. “The work done in Algiers” also relates to another entry in BnF Ms. Fr. 640 for creating a strong poison by putrefying snails in a flask. Taken together, these recipes fall into a genre of alchemical recipes for producing strong agents by putrefying small but symbolic creatures in flasks. This annotation explores the movement of this complex of ideas and practices from China to North Africa to Toulouse. My reconstruction suggests that “Silkworms” and “The work done in Algiers” serve as examples of Ms. Fr. 640 as both a practical record and as encouraging its user to tread into realms of as yet untested knowledge.</p>\n",
+         "contentURL": "https://edition-staging.makingandknowing.org/bnf-ms-fr-640/annotations/ann_059_sp_17.html",
+         "thumbnail": "SP2017_Grafit_53v_fig010_SilkwormsReconstructionWorms.jpg"
+      },
+      {
+         "id": "ann_060_fa_17",
+         "driveID": "17hHyMybv4V8116hwkNjE98VsiQWAqTBf6oi0cJvZYRY",
+         "thumbnailURL": "https://drive.google.com/file/d/1o-rs5OxLoMpNgTzhtHEcUao6mIAQ495k/view?usp=sharing",
+         "name": "What is Azur in Ms. Fr. 640?",
+         "semester": "Fall",
+         "year": "2017",
+         "theme": "Art and Its Making",
+         "entryIDs": "p011r_1",
+         "status": "published",
+         "refresh": false,
+         "authors": [
+            "author_052"
+         ],
+         "abstract": "<p>Throughout Ms. Fr. 640, the author-practitioner uses <em>azur</em> to refer to blue pigments. It is not immediately clear if he uses <em>azur</em> in its general sense of “blue color” or in reference to specific pigments. Analyzing historical uses of the term <em>azur</em> can provide a sense of the linguistic and artistic landscape in which the author-practitioner operated. The four most likely pigments to which <em>azur</em> could refer are azurite, lapis lazuli, smalt, and verditer (synthetic azurite). In tabulating the textual occurrences of <em>azur</em> to isolate patterns of use, <em>azur</em>, <em>azur desmail</em>, <em>cendres dazur</em>, and <em>azur dacre</em> emerge as significant. Through reconstruction of entries involving <em>azur</em> (fol. <a href=\"http://edition640.makingandknowing.org/#/folios/11r/f/11r/tl\"><span class=\"underline\">11r</span></a>), we found qualitative data to support a tentative historical identification of <em>cendres dazur</em> with verditer. Although <em>azur desmail</em> would seem to denote smalt, we as yet lack experimental justification for such a conclusion. The reconstructions carried out for this essay demonstrate the complexity of blue pigment making and application during the Renaissance, and allow us to draw very tentative conclusions as to the identity of some of the author-practitioner’s terms for blue pigments.</p>\n",
+         "contentURL": "https://edition-staging.makingandknowing.org/bnf-ms-fr-640/annotations/ann_060_fa_17.html",
+         "thumbnail": "FA2017_Garris_11r_fig002_levigated azur.jpg"
+      },
+      {
+         "id": "ann_061_fa_17",
+         "driveID": "1mBLrW4d6iVnUVw6h9TlEIAAaECYLdPOBKPw2EsyE3x8",
+         "thumbnailURL": "https://drive.google.com/file/d/1WDEYka1AqDNIKk0ClBdUR4XE3EpnmLZ0/view?usp=sharing",
+         "name": "What is Carton?",
+         "semester": "Fall",
+         "year": "2017",
+         "theme": "Art and Its Making",
+         "entryIDs": "p081r_4",
+         "status": "published",
+         "refresh": false,
+         "authors": [
+            "author_053"
+         ],
+         "abstract": "<p>This essay focuses on the entry “<em>Carton</em>” on fol. <a href=\"http://edition640.makingandknowing.org/#/folios/81r/f/81r/tl\"><span class=\"underline\">81r</span></a>, which describes how paper can be pulped and molded in a cavity. This description at first appears similar to the process of using paper that later became known as papier-mâché. The research on the historical meaning and uses of <em>carton</em> in this essay, and its examination of references to <em>carton</em> in both Ms. Fr. 640 and contemporaneous French literature demonstrates that, while many uses of <em>carton</em> were similar to those of papier-mâché, <em>carton</em> was also employed in ways not associated with papier-mâché. By examining the multiple functions of <em>carton</em>—as a cheaper mold substitute, or as an element in composite decorative objects, for example—this essay sheds light on the capacious understanding of the material in early modern Europe.</p>\n",
+         "contentURL": "https://edition-staging.makingandknowing.org/bnf-ms-fr-640/annotations/ann_061_fa_17.html",
+         "thumbnail": "FA2017_Dongchung_81r_ fig0010_finalobjects.jpg"
+      },
+      {
+         "id": "ann_062_fa_17",
+         "driveID": "12_YqtiXR7CwuXGT5ZoVthRLLRrFKrpiFt1_B00Ccsmc",
+         "thumbnailURL": "https://drive.google.com/file/d/1akgTnlyWt_VJn94c7rob_DbjVvPkfGAN/view?usp=sharing",
+         "name": "Painting in Oil on Taffeta II",
+         "semester": "Fall",
+         "year": "2017",
+         "theme": "Art and Its Making",
+         "entryIDs": "p010v_1; p042v_3",
+         "status": "published",
+         "refresh": false,
+         "authors": [
+            "author_054"
+         ],
+         "abstract": "<p>Two recipes in BnF Ms. Fr. 640 (fols. <a href=\"http://edition640.makingandknowing.org/#/folios/42v/f/42v/tl\"><span class=\"underline\">42v</span></a> and <a href=\"http://edition640.makingandknowing.org/#/folios/10v/f/10v/tl\"><span class=\"underline\">10v</span></a>) describe oil painting on taffeta “without the oil running.” However, these recipes contain no information about what exactly is meant by “oil running,” what the exact ingredients or their quantities are, and why there are two different recipes in the manuscript for the same purpose. Exploring these questions, this reconstruction shows that when prepared at certain ratios, applying a sizing mixture over the surface of the taffeta serves to prevent oil paint from seeping into the taffeta fibers, and thus stops its diffusion.</p>\n",
+         "contentURL": "https://edition-staging.makingandknowing.org/bnf-ms-fr-640/annotations/ann_062_fa_17.html",
+         "thumbnail": "FA2017_Yar_42v 10v_fig008_Alltests.jpg"
+      },
+      {
+         "id": "ann_063_fa_17",
+         "driveID": "13loGYUe5opVD70QU06itK1Lf-eG03DYH78MWvvBYcKg",
+         "thumbnailURL": "https://drive.google.com/file/d/1swJU-2j0NHRIBd6m0zi9L-n00V_ePi6w/view?usp=sharing",
+         "name": "Artificial Grottos",
+         "semester": "Fall",
+         "year": "2017",
+         "theme": "Society and Culture",
+         "entryIDs": "p040r_5; p110r_2; p118r_3",
+         "status": "published",
+         "refresh": false,
+         "authors": [
+            "author_055"
+         ],
+         "abstract": "<p>Fifteenth and sixteenth-century artificial grottos were popular garden ornaments for Europe’s wealthiest elites. But in the late sixteenth century scholars have noted a growing prevalence of lightweight artificial grottos in theater productions and celebratory festivities. Multiple entries in Ms. Fr. 640 provide instructions for ornamenting an artificial grotto with lightweight materials. An historical study of literature thematically similar and contemporaneous to Ms. Fr. 640, followed by a reconstruction of the recipes for <em>Grottes</em> (Grottos) from fols. <a href=\"http://edition640.makingandknowing.org/#/folios/40r/f/40r/tl\"><span class=\"underline\">40r</span></a> and <a href=\"http://edition640.makingandknowing.org/#/folios/118r/f/118r/tl\"><span class=\"underline\">118r</span></a>, suggests that the artificial grotto the author-practitioner ornamented was likely intended for a festival.</p>\n",
+         "contentURL": "https://edition-staging.makingandknowing.org/bnf-ms-fr-640/annotations/ann_063_fa_17.html",
+         "thumbnail": "FA2017_Ullman_40r_fig007_ImitationRock.jpg"
+      },
+      {
+         "id": "ann_064_fa_17",
+         "driveID": "1rFTvhb6SXakrT0MlHtZF3U3PW0GmKH5iiILhz3C0nrg",
+         "thumbnailURL": "https://drive.google.com/file/d/10rMUg3vdBuF-6mxYhPZ9V8q7zYgoRjA4/view?usp=sharing",
+         "name": "Stucco for Molding",
+         "semester": "Fall",
+         "year": "2017",
+         "theme": "Art and Its Making",
+         "entryIDs": "p029r_1",
+         "status": "published",
+         "refresh": false,
+         "authors": [
+            "author_056"
+         ],
+         "abstract": "<p>The entry “Stucco for molding” on fol. <a href=\"http://edition640.makingandknowing.org/#/folios/29r/f/29r/tl\"><span class=\"underline\">29r</span></a> describes a method for creating stucco which the author-practitioner claims is versatile and inexpensive. This essay offers a material-based analysis of the entry, drawing on insights from laboratory reconstructions, and a historical investigation of ancient and early modern stucco recipes and stucco use to better situate the author-practitioner within his context. These comparisons reveal that the author-practitioner’s recipe, particularly its use of tragacanth gum, is unusual. Moreover, the entry highlights the author-practitioner’s interest in ornamentation, his focus on using pre-existing patterns rather than creating new ones, and his possible first-hand experiences of making domestic and ephemeral decorative art.</p>\n",
+         "contentURL": "https://edition-staging.makingandknowing.org/bnf-ms-fr-640/annotations/ann_064_fa_17.html",
+         "thumbnail": "FA2017_Elizondo-Garza_29r_1_fig006_PaintedStucco.jpg"
+      },
+      {
+         "id": "ann_065_fa_18",
+         "driveID": "15jOFN5L-HQlN2oqNYSKYSJEc88_njl6M0FjsSyYr-o4",
+         "thumbnailURL": "https://drive.google.com/file/d/13AE45H7Ac2qEKWzyK544CLL1WROOvEwn/view?usp=sharing",
+         "name": "Making Aquafortis",
+         "semester": "Fall",
+         "year": "2018",
+         "theme": "Knowing Nature",
+         "entryIDs": "p075r_4; p011v_1",
+         "status": "published",
+         "refresh": false,
+         "authors": [
+            "author_057"
+         ],
+         "abstract": "<p>This essay explores the ambiguous meanings of aquafortis, of its constituent ingredients, and of the units of measurement listed in “For making aquafortis” on fol. <a href=\"http://edition640.makingandknowing.org/#/folios/75r/f/75r/tl\"><span class=\"underline\">75r</span></a>. By situating the recipe within a broader historical context, aquafortis can be understood as a substance with the ability to interact with solids, and perform actions such as dissolve or corrode metals. Comparison of the recipe in Ms. Fr. 640 with contemporary textual sources gives insight into the variety of uses for aquafortis and the various ingredients for making it. This indicates that the term copperas refers to any sulfate (vitriol), and <em>solle</em> refers to salt (NaCl) rather than saltpeter. The genres of texts containing aquafortis recipes reveal that the recipes in Ms. Fr. 640 bear comparison with a variety of literary traditions: alchemical manuscripts, metallurgical treatises, treatises on arts, and books of secrets. Finally, the recipe for aquafortis on fol. 75r was reconstructed, which showed the efficacy of the recipe and its correspondence with contemporary expectations about aquafortis.</p>\n",
+         "contentURL": "https://edition-staging.makingandknowing.org/bnf-ms-fr-640/annotations/ann_065_fa_18.html",
+         "thumbnail": "FA2018_Assis_75r_fig004_AquafortisComparison.jpg"
+      },
+      {
+         "id": "ann_066_fa_18",
+         "driveID": "18erKiiynTri5JYu4IXJ4ph4h3a_PoPHz5nHpYoVjXPY",
+         "thumbnailURL": "https://drive.google.com/file/d/1A4CIzPVzTy99k74kyAt3pPoMSvRW7u4b/view?usp=sharing",
+         "name": "Cultivation and the Genre of the Household Manual",
+         "semester": "Fall",
+         "year": "2018",
+         "theme": "Society and Culture",
+         "entryIDs": "p009r_1; p054v_2; p093r_1; p098v_1; p131r_4; p166v_2",
+         "status": "published",
+         "refresh": false,
+         "authors": [
+            "author_058"
+         ],
+         "abstract": "<p>A significant proportion of the entries in Ms. Fr. 640 describe the cultivation of plants and animals. Might this indicate a conceptual link between the manuscript and the genre of the household manual? This essay investigates Charles Estienne’s <em>La maison rustique</em> (1564)<em>,</em> a popular manual contemporary with the manuscript, to delineate divergences and convergences between Ms. Fr. 640 and the genre. While both works concern the human capacity to intervene in the natural world, Ms. Fr. 640 is more piecemeal in its approach to cultivation practices, concerned with the instrumental uses of plants and animals rather than the long-term management of the land, as <em>La maison rustique</em> is. If the goal of any how-to book is to convey how to think, generalize, and improvise in the face of the unknown, then each of these texts prepares its reader for what to expect when imposing one’s will on the natural world.</p>\n",
+         "contentURL": "https://edition-staging.makingandknowing.org/bnf-ms-fr-640/annotations/ann_066_fa_18.html",
+         "thumbnail": "FA18_Bergen_HouseholdManuals.jpg"
+      },
+      {
+         "id": "ann_067_fa_18",
+         "driveID": "1kFOkqr2zf_cTKf8D28a9xWET7riEdPfHiir3KK422I4",
+         "thumbnailURL": "https://drive.google.com/file/d/1FKTq8v1gf6PKQKjtcxF3eYaXZhx1Qonr/view?usp=sharing",
+         "name": "Transferring Images",
+         "semester": "Fall",
+         "year": "2018",
+         "theme": "Art and Its Making",
+         "entryIDs": "p019v_2; p051r_1",
+         "status": "published",
+         "refresh": false,
+         "authors": [
+            "author_059"
+         ],
+         "abstract": "<p>BnF Ms. Fr. 640 contains a number of entries about image transfer techniques, including “For writing as well from the left as from the right” (fol. <a href=\"http://edition640.makingandknowing.org/#/folios/19v/f/19v/tl\"><span class=\"underline\">19v</span></a>), “Pounced design for scratching satin” (<a href=\"http://edition640.makingandknowing.org/#/folios/42v/f/42v/tl\"><span class=\"underline\">42v</span></a>), and “Making counterproofs” (<a href=\"http://edition640.makingandknowing.org/#/folios/51r/f/51r/tl\"><span class=\"underline\">51r</span></a>). Using reconstruction and historical research, this annotation considers these image transfer techniques in terms of the principles they employ and the ways they transform the original image in the process of transferring it onto a new surface. It compares these entries with an image transfer technique used in Tokugawa Japanese woodblock printing, examining in particular whether the techniques transfer the image as a mirror image and the degree to which the techniques destroy the original image in the process. This comparison reveals that the technique used to transfer an image from one surface to another is inherently intertwined with the kinds of values that are assigned to the original image and its copy.</p>\n",
+         "contentURL": "https://edition-staging.makingandknowing.org/bnf-ms-fr-640/annotations/ann_067_fa_18.html",
+         "thumbnail": "FA2018_Bertozzi_19v-42v-51r_fig014_PouncingOnSilkSatin.JPG"
+      },
+      {
+         "id": "ann_068_fa_18",
+         "driveID": "1-LNbahK2iBuPbT-fqOSL_J16y1v0Nx8rLMHc6QF5HnQ",
+         "thumbnailURL": "https://drive.google.com/file/d/1Lg8E_O3oVJYqBfGJE5FG0VsROWDuc4GV/view?usp=sharing",
+         "name": "Tablets",
+         "semester": "Fall",
+         "year": "2018",
+         "theme": "Society and Culture",
+         "entryIDs": "p015v_1",
+         "status": "published",
+         "refresh": false,
+         "authors": [
+            "author_060"
+         ],
+         "abstract": "<p>A three-line entry on fol. <a href=\"http://edition640.makingandknowing.org/#/folios/15v/f/15v/tl\"><span class=\"underline\">15v</span></a> notes the material qualities, ornamentation, and use of metalpoint tablets or “writing tables.” This essay seeks to understand the physical characteristics of the tablet that the author-practitioner had in mind and the context in which he might have used it. The essay surveys the history of tablets, from ancient and medieval wooden tablets inlaid with wax to early modern varieties made of coated paper and parchment for writing and metalpoint drawing. Several contemporary manuscripts feature recipes for a ground that could be applied to different supports, written on with a metal stylus, erased, and reused. As the author-practitioner makes no mention of any ground, the reconstruction examines possible reasons for such an omission. The essay speculates that the author-practitioner may have used a tablet like the one he describes—perhaps an erasable notebook made by an expert in which he could record his observations temporarily before he transferred them to his final manuscript.</p>\n",
+         "contentURL": "https://edition-staging.makingandknowing.org/bnf-ms-fr-640/annotations/ann_068_fa_18.html",
+         "thumbnail": "FA2018_Bostock_15v_fig015_BoxwoodWritten.jpg"
+      },
+      {
+         "id": "ann_069_fa_18",
+         "driveID": "1Jq7eqIqvPD9oXizlfq6liIkd6rDgiIF574-bgQtGWws",
+         "thumbnailURL": "https://drive.google.com/file/d/1-56FZzxgotlNWrLVAByRjnCRmM_uz1Gd/view?usp=sharing",
+         "name": "Necessary Particulars",
+         "semester": "Fall",
+         "year": "2018",
+         "theme": "The Making and Knowing Project",
+         "entryIDs": "",
+         "status": "published",
+         "refresh": false,
+         "authors": [
+            "author_061"
+         ],
+         "abstract": "<p>This essay reflects philosophically on how the Making and Knowing Project engages with Ms. Fr. 640 to gain insight into artisanal epistemology. I draw a distinction between “virtual” and “concrete” modes of investigating the manuscript before arguing that it should be studied using both modes in an interwoven manner. I track the problematic virtual/concrete distinction through some recent scholarship, and I suggest that texts like Ms. Fr. 640, which combine records of craft practice with evidence of engagement in those practices, call for a reevaluation of epistemological categories such as propositional and practical knowledge in order to better understand artisanal ways of knowing.</p>\n",
+         "contentURL": "https://edition-staging.makingandknowing.org/bnf-ms-fr-640/annotations/ann_069_fa_18.html",
+         "thumbnail": "FA18_Branscum_Necessary Particulars.jpg"
+      },
+      {
+         "id": "ann_070_fa_18",
+         "driveID": "1vTIaVkJUguS2kjZZA81nIhLNaeYsFsl1Kq0iPkH2yow",
+         "thumbnailURL": "https://drive.google.com/file/d/1-D_ncxLjMiicaB7SjnTQpgtWBE_1bNoD/view?usp=sharing",
+         "name": "Tin and its Uses",
+         "semester": "Fall",
+         "year": "2018",
+         "theme": "The Making and Knowing Laboratory",
+         "entryIDs": "p006v_2",
+         "status": "published",
+         "refresh": false,
+         "authors": [
+            "author_062"
+         ],
+         "abstract": "<p>This essay explores the author-practitioner’s knowledge of tin. It compares the discussion of tin and its properties in Ms. Fr. 640 to those found in contemporary works, such as Georgius Agricola’s <em>De re metallica</em>, Vannoccio Biringuccio’s <em>Pirotechnia</em>, and Lazarus Ercker’s <em>Beschreibung allerfürnemisten mineralischen Ertzt und Berckwercksarten</em>. Of particular interest are the author-practitioner’s qualifiers for tin, which include <em>doux</em>, <em>fin</em>, and <em>aigre</em>. A historical reconstruction of a recipe on fol. <a href=\"http://edition640.makingandknowing.org/#/folios/6v/f/6v/tl\"><span class=\"underline\">6v</span></a> for creating tin ornaments considers the author-practitioner’s tacit knowledge about metalworking and the social context for decorative tin objects.</p>\n",
+         "contentURL": "https://edition-staging.makingandknowing.org/bnf-ms-fr-640/annotations/ann_070_fa_18.html",
+         "thumbnail": "FA2018_Buckley_6v_fig003_tinafterhammering.jpeg"
+      },
+      {
+         "id": "ann_071_fa_18",
+         "driveID": "1hFsyUEmSxYz2ZvyZ_t-FCCAnRKX7ZC3wMJqRvm-TY3w",
+         "thumbnailURL": "https://drive.google.com/file/d/1655cZjWvBba5fdGbUcEVtQzLg1oc5tf8/view?usp=sharing",
+         "name": "Black Varnish for Armor",
+         "semester": "Fall",
+         "year": "2018",
+         "theme": "Society and Culture",
+         "entryIDs": "p004v_1",
+         "status": "published",
+         "refresh": false,
+         "authors": [
+            "author_063"
+         ],
+         "abstract": "<p>Historians know little about how armor was made black. This essay starts to fill the lacuna by examining a sixteenth-century recipe, “Black varnish for sword guard, bands for trunks, etc.,” on fol. <a href=\"http://edition640.makingandknowing.org/#/folios/4v/f/4v/tl\"><span class=\"underline\">4v</span></a> of Ms. Fr. 640. What was black varnish for armor? How was it made and applied? What ingredients and techniques were used? What purposes did it serve? Using a combination of reconstruction and textual research, this essay suggests that “Black varnish for sword guard” was used as an etching ground, a rust-protection coat, and a finish to impart luster and brilliance to armor and metals. The reconstructions underpinning this essay give insights into the varnish ingredients and show that success (or failure) in making and applying black varnish depended as much on the properties of the ingredients as on an artisan’s knowledge of heat, metals, and tools—as well as the skill of working with them.</p>\n",
+         "contentURL": "https://edition-staging.makingandknowing.org/bnf-ms-fr-640/annotations/ann_071_fa_18.html",
+         "thumbnail": "FA2018_Camps_4v_fig018_TranslucentVarnish.JPG"
+      },
+      {
+         "id": "ann_072_fa_18",
+         "driveID": "1KB8qk6Mhrh2GgIY19bJ-jfhWR8-EVISW94Iw_p7GRZQ",
+         "thumbnailURL": "https://drive.google.com/file/d/1RB36PMj3QoLHYiu8t6gixIv2Vaicesea/view?usp=sharing",
+         "name": "Ms. Fr. 640 and the Jewell House",
+         "semester": "Fall",
+         "year": "2018",
+         "theme": "The Manuscript, Ms. Fr. 640",
+         "entryIDs": "p032v_1; p044v_1; p106r_2; p145v_1",
+         "status": "published",
+         "refresh": false,
+         "authors": [
+            "author_064"
+         ],
+         "abstract": "<p>This essay compares BnF Ms. Fr. 640 with <em>The Jewell House of Art and Nature</em> (1594) by Hugh Plat. It considers similarities and differences between these two works and analyzes areas of overlap. I argue that Plat, for all his emphasis on experiential knowledge, probably had less personal experience of casting, molding, and weapons than the author-practitioner. I explore the local contexts and knowledge networks in which the texts were produced, and how the author-practitioner and Plat dealt with the issue of secrets in their works. This comparison of the two texts highlights the importance of experience and exchange in early modern knowledge networks.</p>\n",
+         "contentURL": "https://edition-staging.makingandknowing.org/bnf-ms-fr-640/annotations/ann_072_fa_18.html",
+         "thumbnail": "FA18_Faulkner_Jewell House.jpg"
+      },
+      {
+         "id": "ann_074_fa_18",
+         "driveID": "1STrStymkHkdZpwYZyNg1jT_qzWwGeqf3dk2C24NOXxw",
+         "thumbnailURL": "https://drive.google.com/file/d/1OUm5Dvm7GRUqEodlUNRZVfzM_CZSdHhn/view?usp=sharing",
+         "name": "Polishing and Engraving Stones",
+         "semester": "Fall",
+         "year": "2018",
+         "theme": "Art and Its Making",
+         "entryIDs": "p011v_4; p013r_3",
+         "status": "published",
+         "refresh": false,
+         "authors": [
+            "author_066"
+         ],
+         "abstract": "<p>This essay reconstructs two recipes concerning the treatment of precious stones. The first, “For Diamond Points for Engraving” (fol. <a href=\"http://edition640.makingandknowing.org/#/folios/11v/f/11v/tl\"><span class=\"underline\">11v</span></a>), offers instructions to trace a design onto a stone in preparation for engraving. The second, “Polishing of Stones” (fol. <a href=\"http://edition640.makingandknowing.org/#/folios/13r/f/13r/tl\"><span class=\"underline\">13r</span></a>), concerns the polishing of already engraved or faceted stones. By reconstructing two processes practiced by goldsmiths, this essay aims to clarify the extent of the author-practitioner's knowledge of a specialized craft.</p>\n",
+         "contentURL": "https://edition-staging.makingandknowing.org/bnf-ms-fr-640/annotations/ann_074_fa_18.html",
+         "thumbnail": "FA2018_Jiang_11v_fig007_EngravingStone.JPG"
+      },
+      {
+         "id": "ann_075_fa_18",
+         "driveID": "1cXRvaDr1ksJCliFrZFtGvG5hz2N8ttHW0O1igKHbtFg",
+         "thumbnailURL": "https://drive.google.com/file/d/1pDthmS7bzZc8QZkY4Q3pKiwxmtsWGAJp/view?usp=sharing",
+         "name": "What is Stone?",
+         "semester": "Fall",
+         "year": "2018",
+         "theme": "Knowing Nature",
+         "entryIDs": "p069r_2; p084r_5; p088v_1",
+         "status": "published",
+         "refresh": false,
+         "authors": [
+            "author_066"
+         ],
+         "abstract": "<p>This essay addresses the ontology of stone in BnF Ms. Fr. 640. What is stone to the author-practitioner, both in the manuscript as a repository of knowledge and the workshop as a site of production? What constitutes a stone and what distinguishes it from other natural resources and usable objects? How does the author-practitioner demonstrate and produce knowledge about stone as a material by exploiting its material properties, and to what end? Analysis suggests five categories to classify the author-practitioner’s understanding and use of stone: tools and supports, materials, matrices, gemstones, and reference materials. Stone is revealed to be a varied and versatile material for transformation and use.</p>\n",
+         "contentURL": "https://edition-staging.makingandknowing.org/bnf-ms-fr-640/annotations/ann_075_fa_18.html",
+         "thumbnail": "FA2018_Jiang_Stone.jpg"
+      },
+      {
+         "id": "ann_076_fa_18",
+         "driveID": "1EMu41zDdnMYsrmZKFIIZE_moIEB1k0rABa-6zTekwKk",
+         "thumbnailURL": "https://drive.google.com/file/d/1_25rcyoU7vyCfm8SvZLyi2IY_R0fR23c/view?usp=sharing",
+         "name": "To Shrink an Object",
+         "semester": "Fall",
+         "year": "2018",
+         "theme": "Art and Its Making",
+         "entryIDs": "p140v_2",
+         "status": "published",
+         "refresh": false,
+         "authors": [
+            "author_067"
+         ],
+         "abstract": "<p>“To Shrink an Object” examines the process on fol. <a href=\"http://edition640.makingandknowing.org/#/folios/140v/f/140v/tl\"><span class=\"underline\">140v</span></a> for varying the shape or size of an impression in a mold made from bread, which is subsequently cast with sulfur. It situates this bread molding recipe in its historical context—of bread molding methods as well as uses of bread and bread making in craft and artistic practices—in the period of the manuscript’s compilation. The reconstruction tests the viability of this process, specifically, the entry’s instructions to dry the bread in order to reduce the size of an impression in a bread mold, and thus of the subsequently cast object, in relation to the original pattern used to make the imprint. Reconstruction shows that the types of bread used, along with the preparation of the bread pith, influence the extent of the shrinkage. Reheating a bread mold also hastened the shrinking process that occurred when imprints were left to dry naturally. The longer the molds were reheated, the more the impressions decreased in size.</p>\n",
+         "contentURL": "https://edition-staging.makingandknowing.org/bnf-ms-fr-640/annotations/ann_076_fa_18.html",
+         "thumbnail": "FA2018_Lim_140v_fig005_MoldShrinkage.jpg"
+      },
+      {
+         "id": "ann_077_fa_18",
+         "driveID": "14U1OdnnRSuavnvb02J5PlHHtXIyYYwI6c1pdOhRQgCc",
+         "thumbnailURL": "https://drive.google.com/file/d/1dQlaS-vt8OXn6SWqFfphNwNdqjAdbASY/view?usp=sharing",
+         "name": "Wax for Seals",
+         "semester": "Fall",
+         "year": "2018",
+         "theme": "Art and Its Making",
+         "entryIDs": "p042r_2; p133r_1",
+         "status": "published",
+         "refresh": false,
+         "authors": [
+            "author_068"
+         ],
+         "abstract": "<p>Wax is a frequently used material in Ms. Fr. 640. Two entries on fols. <a href=\"http://edition640.makingandknowing.org/#/folios/42r/f/42r/tl\"><span class=\"underline\">42r</span></a> and <a href=\"http://edition640.makingandknowing.org/#/folios/133r/f/133r/tl\"><span class=\"underline\">133r</span></a> use wax for making “seals,” although the types of seals the author-practitioner had in mind are unclear. This essay explores wax seals for documents in early modern Europe. The reconstructions seek to evaluate the efficacy of the author-practitioner’s techniques for producing superior seals. The first reconstruction demonstrates that his methods for preparing and pressing wax for imprinting can yield a large seal that was as well formed as one made using an alternative technique involving pouring molten wax. The second reconstruction, which explores additives that give a greater hardness to wax, produced less conclusive results, in part because of uncertainty about how much lead white and how much pigment were to be added to a given quantity of wax.</p>\n",
+         "contentURL": "https://edition-staging.makingandknowing.org/bnf-ms-fr-640/annotations/ann_077_fa_18.html",
+         "thumbnail": "FA2018_Olson_42r_fig010_OlsonModelingWax.jpg"
+      },
+      {
+         "id": "ann_078_fa_18",
+         "driveID": "1bvC2L9MU21n3Ja4bB5ms4YO1rr7ushZKrdlaletYvic",
+         "thumbnailURL": "https://drive.google.com/file/d/1cNm9tkXlNvsbFT63_ESx8AojCDtclw71/view?usp=sharing",
+         "name": "Pinking Satin",
+         "semester": "Fall",
+         "year": "2018",
+         "theme": "Society and Culture",
+         "entryIDs": "p042v_1",
+         "status": "published",
+         "refresh": false,
+         "authors": [
+            "author_059"
+         ],
+         "abstract": "<p>This short essay investigates the meaning of “scratching satin” on fol. <a href=\"http://edition640.makingandknowing.org/#/folios/42v/f/42v/tl\"><span class=\"underline\">42v</span></a> and identifies it with the technique known as “pinking,” that is to say, creating a pattern by means of cuts in the fabric.</p>\n",
+         "contentURL": "https://edition-staging.makingandknowing.org/bnf-ms-fr-640/annotations/ann_078_fa_18.html",
+         "thumbnail": "FA2018_Bertozzi_19v-42v-51r_fig005_ReinforcedTearVersusNonReinforcedTear.JPG"
+      },
+      {
+         "id": "ann_300_ie_19",
+         "driveID": "1sjPy9PbNZdXDuRf0DCnpLJy1jA-IdosXJlHr6yKj3EE",
+         "thumbnailURL": "https://drive.google.com/open?id=1J_prH9XNYDbVPY-zmMnui0GvEguSHfoV",
+         "name": "Introduction to Ms. Fr. 640",
+         "semester": "NA",
+         "year": "2019",
+         "theme": "An Introduction",
+         "entryIDs": "p001r_1; p162r_1; p170v_1",
+         "status": "published",
+         "refresh": false,
+         "authors": [
+            "author_069"
+         ],
+         "abstract": "<p>This critical edition of the late sixteenth-century anonymous manuscript cataloged as Ms. Fr. 640 in the Bibliothèque nationale de France was created through the work of team members, students, and collaborators of the Making and Knowing Project at Columbia University. The technical and artistic “recipes” contained in Ms. Fr. 640 provide an outstanding opportunity to explore the epistemic and historical intersections between craft making and scientific knowing, especially in light of the emergence of a new science in the following centuries. Ms. Fr. 640 provides important insights into the material, technical, and intellectual worlds of late sixteenth-century Europe, and brings a better understanding of how and why nature was investigated, used in art, and collected and appreciated in early modern Europe. It sheds light, as well, on the type of knowledge possessed by handworkers, known today as “practical knowledge,” “how-to,” or “makers’ knowledge.” At the heart of the Edition of Ms. Fr. 640, however, lies an intriguing puzzle: who was the anonymous individual who wrote down (and in many cases tried out) these 930 entries filling 170 folios, and why did a French nobleman collect and preserve this manuscript?</p>\n",
+         "contentURL": "https://edition-staging.makingandknowing.org/bnf-ms-fr-640/annotations/ann_300_ie_19.html",
+         "thumbnail": "Smith_thumbnail.jpg"
+      },
+      {
+         "id": "ann_301_ie_19",
+         "driveID": "1eLqO21Zo1gOkX6RQ6Eso4aTwJ_Gq4Teu01bDiHm48o4",
+         "thumbnailURL": "https://drive.google.com/open?id=1jGqp_UN_qLl5oAaPe0VYD8sQ8YqsKua0",
+         "name": "A Computational Approach to Ms. Fr. 640",
+         "semester": "NA",
+         "year": "2019",
+         "theme": "An Introduction",
+         "entryIDs": "",
+         "status": "",
+         "refresh": false,
+         "annotationAuthors": [
+            "author_070"
+         ],
+         "abstract": null,
+         "contentURL": null,
+         "thumbnail": "Godbarge_Thumbnail.jpg"
+      },
+      {
+         "id": "ann_302_ie_19",
+         "driveID": "1CWfQJez3bumw99JPkLT91ORnHUNEAVHNQJ7YCUPWIWw",
+         "thumbnailURL": "https://drive.google.com/open?id=1myX6V7L66pTksTt5Vd9JRYmD1zaDYg5W",
+         "name": "The Body and the Senses in Ms. Fr. 640",
+         "semester": "NA",
+         "year": "2019",
+         "theme": "Knowing Nature",
+         "entryIDs": "",
+         "status": "staging",
+         "refresh": false,
+         "annotationAuthors": [
+            "author_071"
+         ],
+         "abstract": null,
+         "contentURL": null,
+         "thumbnail": "Taape_Thumbnail_Sense.jpg"
+      },
+      {
+         "id": "ann_303_ie_19",
+         "driveID": "1XbIQSI0fsVtivJGsY-BPGNG1IFemQMisNoHU_WpWTt8",
+         "thumbnailURL": "https://drive.google.com/open?id=1Uop7cY-9O9erH6yg4gYCa4SH6gkBDTgf",
+         "name": "The Language of Experience in Ms. Fr. 640",
+         "semester": "NA",
+         "year": "2019",
+         "theme": "Knowing Nature",
+         "entryIDs": "p085v_4",
+         "status": "staging",
+         "refresh": false,
+         "authors": [
+            "author_071"
+         ],
+         "abstract": "<p>This essay explores the language of experience in Ms. Fr. 640 to characterize the place of experiential knowledge in the author-practitioner’s epistemology. Based on a concordance search of the terms <em>experience</em>, <em>experimenter</em>, <em>essayer</em>, <em>esprouver</em>, and <em>cognoistre</em>, the essay highlights the author-practitioner’s often overlapping use of these words and how they map onto the modes of writing down experience that can be identified in the manuscript: inferences from repeated experience, accounts of singular events, specific material tests, and invitations to further testing.</p>\n",
+         "contentURL": "https://edition-staging.makingandknowing.org/bnf-ms-fr-640/annotations/ann_303_ie_19.html",
+         "thumbnail": "Taape_Thumbnail.jpg"
+      },
+      {
+         "id": "ann_304_ie_19",
+         "driveID": "1LYrhxWGRXPd6u4IIRxQSwGko6y2HHRdw1ilOnc9C5OY",
+         "thumbnailURL": "https://drive.google.com/open?id=1xRfLH5hYhTdx6jrKWF3AfWTcfYN9mmD5",
+         "name": "The Spaces of Artisanal Experiment and Inquiry",
+         "semester": "NA",
+         "year": "2019",
+         "theme": "Society and Culture",
+         "entryIDs": "",
+         "status": "",
+         "refresh": false,
+         "annotationAuthors": [
+            "author_072"
+         ],
+         "abstract": null,
+         "contentURL": null,
+         "thumbnail": "Uchacz_Thumbnail.jpg"
+      },
+      {
+         "id": "ann_305_ie_19",
+         "driveID": "1zwJfx_dXN1674w8HG738rhZiQdmn44qXFh93POewWxI",
+         "thumbnailURL": "https://drive.google.com/open?id=1bzRg_LfwHRN1TpKqKZVduir-InqtrExF",
+         "name": "Making and Knowing Pedagogy",
+         "semester": "NA",
+         "year": "2019",
+         "theme": "The Making and Knowing Project",
+         "entryIDs": "",
+         "status": "",
+         "refresh": false,
+         "annotationAuthors": [
+            "author_073"
+         ],
+         "abstract": null,
+         "contentURL": null,
+         "thumbnail": "Bilak_Thumbnail.jpg"
+      },
+      {
+         "id": "ann_306_ie_19",
+         "driveID": "1qAevygjXNyAh8jvBxrhWxUchjC9wVreqWUrf7R1pSd0",
+         "thumbnailURL": "https://drive.google.com/open?id=1pKtyGxw18KsDgrcWT2Mc5CiUOD20ZUtn",
+         "name": "Making It Fake or Keeping It Real",
+         "semester": "NA",
+         "year": "2019",
+         "theme": "Art and Its Making",
+         "entryIDs": "p003r_2; p060r_3; p066r_4",
+         "status": "",
+         "refresh": false,
+         "annotationAuthors": [
+            "author_074"
+         ],
+         "abstract": null,
+         "contentURL": null,
+         "thumbnail": "Bol_Thumbnail.jpg"
+      },
+      {
+         "id": "ann_307_ie_19",
+         "driveID": "1SZnrhXnQmdvx0SNBuvVW_iOdkR2_HEz1gjyNi_aUcDU",
+         "thumbnailURL": "https://drive.google.com/open?id=1TrQpZclijmprA7ovyli1foH6tj4tyIWp",
+         "name": "Corps in Ms. Fr. 640",
+         "semester": "NA",
+         "year": "2019",
+         "theme": "Art and Its Making",
+         "entryIDs": "p065v_3; p081r_1; 85v_3",
+         "status": "",
+         "refresh": false,
+         "annotationAuthors": [
+            "author_075",
+            "author_076"
+         ],
+         "abstract": null,
+         "contentURL": null,
+         "thumbnail": "StolsWitloxBoulboulle_Thumbnail.jpg"
+      },
+      {
+         "id": "ann_308_ie_19",
+         "driveID": "1Q58zURq2uDc-R-5cFKjBY-eNo79VoDq1MMxlsYr5uSM",
+         "thumbnailURL": "https://drive.google.com/open?id=1n117Pjwtjkk3x-DsgMxm1Z7gISvKhhvG",
+         "name": "Arms and Armor in Ms. Fr. 640",
+         "semester": "NA",
+         "year": "2019",
+         "theme": "Society and Culture",
+         "entryIDs": "p094r_1",
+         "status": "",
+         "refresh": false,
+         "annotationAuthors": [
+            "author_077"
+         ],
+         "abstract": null,
+         "contentURL": null,
+         "thumbnail": "Tavares_Thumbnail.jpg"
+      },
+      {
+         "id": "ann_309_ie_19",
+         "driveID": "1k3rFzmg9kCnzhcFxt_7U8tsR_MvEU79vU88s154jRYE",
+         "thumbnailURL": "https://drive.google.com/open?id=1zN079Zjl9HFNHw96hypEDt5WqgBvA1J5",
+         "name": "Artillery in 1590s France",
+         "semester": "NA",
+         "year": "2019",
+         "theme": "Society and Culture",
+         "entryIDs": "p017r_1; p021r_1; p025v_1",
+         "status": "",
+         "refresh": false,
+         "annotationAuthors": [
+            "author_078"
+         ],
+         "abstract": null,
+         "contentURL": null,
+         "thumbnail": "Brioist_Thumbnail.jpg"
+      },
+      {
+         "id": "ann_310_ie_19",
+         "driveID": "19sTdVCNOuBLzcTPTEatMbciD1R7oZ96neX2cy7JMdDI",
+         "thumbnailURL": "https://drive.google.com/open?id=1OWDn7v0MVoxf0WsotmI0OFwydvjXDlhg",
+         "name": "BnF Ms. Fr. 640 as a Digital Text",
+         "semester": "NA",
+         "year": "2019",
+         "theme": "The Making and Knowing Project",
+         "entryIDs": "",
+         "status": "",
+         "refresh": false,
+         "annotationAuthors": [
+            "author_079",
+            "author_080"
+         ],
+         "abstract": null,
+         "contentURL": null,
+         "thumbnail": "Catapano_Thumbnail.jpg"
+      },
+      {
+         "id": "ann_311_ie_19",
+         "driveID": "1VUhJxVAJBVaZ1QQOX_erL44YuFO8nR5y",
+         "thumbnailURL": "https://drive.google.com/open?id=1ytY3dSlybLNocr40hTnLYeudC5lrxyow",
+         "name": "Developing Digital Literacy Competencies",
+         "semester": "NA",
+         "year": "2019",
+         "theme": "The Making and Knowing Project",
+         "entryIDs": "",
+         "status": "",
+         "refresh": false,
+         "annotationAuthors": [
+            "author_079",
+            "author_080"
+         ],
+         "abstract": null,
+         "contentURL": null,
+         "thumbnail": "Rosenkranz_Thumbnail.jpg"
+      },
+      {
+         "id": "ann_312_ie_19",
+         "driveID": "1eYwcgcGEV2j9ga1qAlKnU5pl5BO0Zo-pTiq0nWfU2co",
+         "thumbnailURL": "https://drive.google.com/open?id=11iMNGcMnLwHb3JCHavtSCwxi6zzeL6j7",
+         "name": "Le contexte toulousain",
+         "semester": "NA",
+         "year": "2019",
+         "theme": "An Introduction",
+         "entryIDs": "p001r_1; p009v_3; p020v_5; p044v_2; p049r_1",
+         "status": "published",
+         "refresh": false,
+         "authors": [
+            "author_081",
+            "author_082"
+         ],
+         "abstract": "<p>Ms. Fr. 640 belongs to the Béthune collection in the Bibliothèque nationale de France, and the names of three master artisans living in Paris are mentioned on the first page, thus appearing to connect the text to a Parisian context. Several personal and place names and other clues in the manuscript indicate, however, that it was written by an individual familiar with the Languedoc, who probably lived in Toulouse at the end of the sixteenth century. This essay discusses the activity of Toulouse’s gunners, founders, painters, and goldsmiths to shed light on the political, economic, and artistic context in which the author-practitioner of Ms. Fr. 640 wrote. Several entries in the manuscript and the interests of its author-practitioner echo the activities, collaborations, and ambitions of the most prominent craftsmen of the Languedoc capital, such as the goldsmith Masse brothers and the Arsenal metal founder Barthélémy Fraysse.</p>\n<p>L’appartenance du Ms. Fr. 640 à la collection Béthune de la Bibliothèque nationale de France et le fait que les trois maîtres artisans mentionnés sur la première page du manuscrit aient vécu à Paris ont d’abord incité à mener des recherches en direction du contexte parisien. Plusieurs noms de personnes, de lieux et d’autres indications contenus dans le manuscrit indiquent cependant que ce dernier fut écrit par un homme familier du Languedoc, ayant probablement vécu à Toulouse à la fin du XVIe siècle. À travers l’analyse de l’activité des artilleurs, des fondeurs, des peintres et des orfèvres toulousains, cet essai vise à mieux comprendre le contexte politique, économique et artistique dans lequel l’auteur-praticien du Ms. Fr. 640 rédigea ce recueil. Plusieurs recettes du manuscrit et les centres d’intérêt dont témoigne l’auteur-praticien font écho à l’activité, à l’ambition et aux collaborations des artisans les plus importants de la capitale languedocienne, tels que les frères Masse, orfèvres, et Barthélémy Fraysse, fondeur à l’Arsenal.</p>\n",
+         "contentURL": "https://edition-staging.makingandknowing.org/bnf-ms-fr-640/annotations/ann_312_ie_19.html",
+         "thumbnail": "DebuicheMunoz_Thumbnail.jpg"
+      },
+      {
+         "id": "ann_313_ie_19",
+         "driveID": "1mkDBlS7eYnTBYxq1Q2SkWnx4hkM1-8dBHdB5l8pekto",
+         "thumbnailURL": "https://drive.google.com/open?id=1nlYwYe77-cRjtAAoDYC1NWPi6Dogrc6H",
+         "name": "Raymond Masse, marchand-orfèvre",
+         "semester": "NA",
+         "year": "2019",
+         "theme": "An Introduction",
+         "entryIDs": "p002v_2; p012v_3",
+         "status": "",
+         "refresh": false,
+         "annotationAuthors": [
+            "author_081"
+         ],
+         "abstract": null,
+         "contentURL": null,
+         "thumbnail": "Debuiche_Masse_Thumbnail.jpg"
+      },
+      {
+         "id": "ann_314_ie_19",
+         "driveID": "1PV2XMMDAOgsiQuqMgsOVWF0qCtGqERbdPZ9zpz7UYLw",
+         "thumbnailURL": "https://drive.google.com/open?id=1bCl4ejNDrYpMgzjan326dCtfkUWGvYam",
+         "name": "Dominique Bertin et Hélie Bachelier",
+         "semester": "NA",
+         "year": "2019",
+         "theme": "An Introduction",
+         "entryIDs": "p050v_2; p090r_2; p143r_2",
+         "status": "",
+         "refresh": false,
+         "annotationAuthors": [
+            "author_081"
+         ],
+         "abstract": null,
+         "contentURL": null,
+         "thumbnail": "Debuiche_Thumbnail.jpg"
+      },
+      {
+         "id": "ann_315_ie_19",
+         "driveID": "1SPdegAqmBJhB-YEdY6-63P133BU1JJu2KkbJnEoBsAA",
+         "thumbnailURL": "https://drive.google.com/open?id=1iZKWHpjiPx-VZ3yewBqX2tHh4taA8pTP",
+         "name": "Toulouse Goldsmithing Manuscript",
+         "semester": "NA",
+         "year": "2019",
+         "theme": "An Introduction",
+         "entryIDs": "p104r_3; p135r_1; p138v_3",
+         "status": "published",
+         "refresh": false,
+         "authors": [
+            "author_082"
+         ],
+         "abstract": "<p>The <em>Archives municipales</em> of Toulouse hold an unpublished fragment of an anonymous seventeenth-century manuscript that compiles goldsmiths’ statutes, recipes from a goldsmithing workshop, and knowledge on stones and minerals. As part of the Mint’s collection, it raises questions related primarily to its source and use. Through analysis of the manuscript’s eight folios, this essay compares it with Ms. Fr. 640. In contrast to Ms. Fr. 640’s many recipes, this document shows a more heterogeneous character, however, some of its recipes, as well as its lively interest in gemstones, display surprising similarities with Ms. Fr. 640.</p>\n",
+         "contentURL": "https://edition-staging.makingandknowing.org/bnf-ms-fr-640/annotations/ann_315_ie_19.html",
+         "thumbnail": "Munoz_Thumbnail.JPG"
+      },
+      {
+         "id": "ann_316_ie_19",
+         "driveID": "1eHZYs8N4-9XNOQvRWJzHnC6xGcTeZCj4clN9eNK-KCg",
+         "thumbnailURL": "https://drive.google.com/open?id=1QDNl79f_6S22_z28SZUU4V4rNq04EGhl",
+         "name": "Le Ms. Fr. 640 et la collection Béthune",
+         "semester": "NA",
+         "year": "2019",
+         "theme": "An Introduction",
+         "entryIDs": "p170v_4",
+         "status": "",
+         "refresh": false,
+         "annotationAuthors": [
+            "author_081"
+         ],
+         "abstract": null,
+         "contentURL": null
+      },
+      {
+         "id": "ann_317_ie_19",
+         "driveID": "1fFY3n2LV-NDnkod18GGWF1yazwZRcrgORsDfBq2UdGo",
+         "thumbnailURL": "https://drive.google.com/open?id=1iF8cJtmRqpl54tIcdQHtHWKpnGUVjmQb",
+         "name": "Barthélémy Fraysse and the Author-Practitioner of Ms. Fr. 640",
+         "semester": "NA",
+         "year": "2019",
+         "theme": "An Introduction",
+         "entryIDs": "p008r_v; p015r_2; p021v_2; p024r_1; p024v_1; p077r_3; p085v_1; p098v_5",
+         "status": "published",
+         "refresh": false,
+         "authors": [
+            "author_082"
+         ],
+         "abstract": "<p>Among the metal founders of Toulouse, Barthélémy Fraysse stands out for his varied activities and his links to significant Toulouse individuals, such as the Poncet family, who is mentioned in Ms. Fr. 640. Original research carried out for this essay in the “Comptes du trésorier” and the “Pièces à l’appui des comptes” of the <em>Archives municipales</em> of Toulouse reveal that Fraysse frequently received payments from the municipality of Toulouse between 1570 and 1590. Further documents show that his activity continued through 1620. He was successively cannon maker, founder, founder of artillery, and gunner. Between 1570 and 1590, several of his activities can be compared to the subjects of multiple entries in BnF Ms. Fr. 640.</p>\n",
+         "contentURL": "https://edition-staging.makingandknowing.org/bnf-ms-fr-640/annotations/ann_317_ie_19.html",
+         "thumbnail": "Munoz_Thumbnail-Fraysse.jpg"
+      },
+      {
+         "id": "ann_332_ie_19",
+         "driveID": "1t7x7aoNR6608_DxNYgG6uAbv7dB7a-6G-uKDfQNFRqk",
+         "thumbnailURL": "https://drive.google.com/open?id=1O8T_w-qCSKwPvxssgqSSHKFHp0JBKIwu",
+         "name": "Artisans of Toulouse",
+         "semester": "NA",
+         "year": "2019",
+         "theme": "An Introduction",
+         "entryIDs": "p16r_1; p157r_4; p159v_2",
+         "status": "published",
+         "refresh": false,
+         "authors": [
+            "author_081",
+            "author_082"
+         ],
+         "abstract": "<p>Many artisans worked in Toulouse in the years during which Ms. Fr. 640 was likely written, and their names can be found among the archives of Toulouse, especially the “Comptes du trésorier,” the “Pièces à l’appui des comptes,” the registers of the 1571 cadastre in the Archives Municipales of Toulouse, as well as the minutes of notaries in the Archives Départementales de la Haute-Garonne. The activities and handwriting of these goldsmiths, founders, artisans working for the Arsenal and the Mint of Toulouse, and other guild artisans were examined, as these could have been professionals who worked alongside the author-practitioner or even the author-practitioner himself. A list of artisans classified by profession, along with information on their documented dates, location in the city (when known), proximity to notaries, and handwriting is provided, which demonstrates that in handwriting, at least, the author-practitioner was not represented among them.</p>\n",
+         "contentURL": "https://edition-staging.makingandknowing.org/bnf-ms-fr-640/annotations/ann_332_ie_19.html",
+         "thumbnail": "DebuicheMunoz_Thumbnail_Artisans.jpg"
+      },
+      {
+         "id": "ann_318_ie_19",
+         "driveID": "1H-OrZ3mfHjPbyYsVJkKle0WBYYItgNJkFgzG8s0R6eE",
+         "thumbnailURL": "https://drive.google.com/open?id=1TfBSz9qUAIms5QMYLHNe3rDsXIUfeAkH",
+         "name": "The Process of Translating Ms. Fr. 640",
+         "semester": "NA",
+         "year": "2019",
+         "theme": "The Making and Knowing Project",
+         "entryIDs": "p125v_2; p143r_1; p144r_1; p146v_1; p150v_1",
+         "status": "",
+         "refresh": false,
+         "annotationAuthors": [
+            "author_083",
+            "author_084"
+         ],
+         "abstract": null,
+         "contentURL": null,
+         "thumbnail": "Wacha-Dyon_Thumbnail.jpg"
+      },
+      {
+         "id": "ann_319_ie_19",
+         "driveID": "1Ker0JMnvZpjmH5PWOYVdutCeXApwmmHg_uEKO873tm0",
+         "thumbnailURL": "https://drive.google.com/open?id=1MewqiTPfAD_9KsHKpk7vuaMFN6tFvgsI",
+         "name": "Knowledge Exchange and Skill Building in the Artisan’s Workshop",
+         "semester": "NA",
+         "year": "2019",
+         "theme": "Art and Its Making",
+         "entryIDs": "",
+         "status": "",
+         "refresh": false,
+         "annotationAuthors": [
+            "author_085"
+         ],
+         "abstract": null,
+         "contentURL": null,
+         "thumbnail": "Hermans_Thumbnail.jpg"
+      },
+      {
+         "id": "ann_320_ie_19",
+         "driveID": "1plxJbPyrIUP_4OG8KCnpyMYTaR0WjZuyElZFrFs-M6s",
+         "thumbnailURL": "https://drive.google.com/open?id=1scPItqLvQS74vCzwHQ7mE5sdHhP3YrV3",
+         "name": "Four Manuscripts between the Recipe and the Experimental Essay",
+         "semester": "NA",
+         "year": "2019",
+         "theme": "Knowing Nature",
+         "entryIDs": "p011r_1; p012v_3; p052r_1",
+         "status": "staging",
+         "refresh": false,
+         "authors": [
+            "author_086"
+         ],
+         "abstract": "<p>A comparison between four manuscripts demonstrates an evolution from the genre of the recipe to the experimental essay. As a notion of general experience slowly transformed into the practice of experimentation at a particular time and place, how-to accounts became increasingly historicized and personalized. In contrast to widespread narratives depicting modern science as a thinning of previously thick, embodied knowledge, this evolution demonstrates knowledge thickening, becoming more personalized and explicit both about material experience and symbolic interpretation. This is apparent in the case of Ms. Fr. 640, in the frequent use of the first-person voice, especially at points in which the author-practitioner was most actively engaged in speculating about and experimenting with new techniques.This long-term evolution of the experimental essay situates the epistemology of making and knowing in relation to previous long-term accounts concerning the scientific method. Previously, the experimental essay has been associated with Restoration experimental philosophy, as it developed out of the works of Sir Francis Bacon. In such accounts, the experimental essay serves as the ideal expression of a particular epistemology. This essay backdates the experimental essay and demonstrates its slow emergence from the genre of the recipe. Showing the experimental essay’s connection with prior genres also suggests experimental philosophy’s connection with previous epistemologies. Neither the experimental essay nor experimental philosophy emerged fully formed in the works of Bacon and his followers. On the slow course of development that produced them, we can situate Ms. Fr. 640 at an important stage of the personalization and historicization of experiment.</p>\n",
+         "contentURL": "https://edition-staging.makingandknowing.org/bnf-ms-fr-640/annotations/ann_320_ie_19.html",
+         "thumbnail": "Keller_experience_thumbnail.jpg"
+      },
+      {
+         "id": "ann_330_ie_19",
+         "driveID": "1cyiSEEQ107OxsOki4j2JxycQaByeCiua_RmoIaczIfw",
+         "thumbnailURL": "https://drive.google.com/open?id=1bXLcQ_0wLZKxrDX5t424kmzaoAXBjnZ7",
+         "name": "An Active Form of Education",
+         "semester": "NA",
+         "year": "2019",
+         "theme": "Society and Culture",
+         "entryIDs": "p166r_1",
+         "status": "staging",
+         "refresh": false,
+         "authors": [
+            "author_086",
+            "author_096"
+         ],
+         "abstract": "<p>This essay explores how the author-practitioner’s vision of making and knowing compares to formal ideas of education in the period.</p>\n",
+         "contentURL": "https://edition-staging.makingandknowing.org/bnf-ms-fr-640/annotations/ann_330_ie_19.html",
+         "thumbnail": "Keller_thumbnail.jpg"
+      },
+      {
+         "id": "ann_331_ie_19",
+         "driveID": "1NvQVDXlj3klcRvUHCdhsBikxrDN566Q-k89qjajgr0I",
+         "thumbnailURL": "https://drive.google.com/open?id=1EU03KbRHCYVL0-SaDd6GSEKN71JA2POJ",
+         "name": "Ancient and Modern Things in Ms. Fr. 640",
+         "semester": "NA",
+         "year": "2019",
+         "theme": "Society and Culture",
+         "entryIDs": "p149r_2",
+         "status": "staging",
+         "refresh": false,
+         "authors": [
+            "author_063",
+            "author_086",
+            "author_097"
+         ],
+         "abstract": "<p>The recovery of the ancient Greco-Roman world was a defining feature of what we call the “Renaissance.” This essay explores how the author-practitioner situated his craft techniques as part of a larger movement for recovering antiquity.</p>\n",
+         "contentURL": "https://edition-staging.makingandknowing.org/bnf-ms-fr-640/annotations/ann_331_ie_19.html",
+         "thumbnail": "Keller_thumbnail-gold.jpg"
+      },
+      {
+         "id": "ann_321_ie_19",
+         "driveID": "1KockR4IqxTjhVAMWRaDHD8-EH8RD9ruFV3z87p13sW8",
+         "thumbnailURL": "https://drive.google.com/open?id=1opgRPqKRGdbAZ7Ik-BkNhRyCPj5x3WAT",
+         "name": "Ms. Fr. 640 in the World of Pigments in sixteenth-century Europe",
+         "semester": "NA",
+         "year": "2019",
+         "theme": "Art and Its Making",
+         "entryIDs": "",
+         "status": "",
+         "refresh": false,
+         "annotationAuthors": [
+            "author_087",
+            "author_088"
+         ],
+         "abstract": null,
+         "contentURL": null,
+         "thumbnail": "Kirby-Spring_thumbnail.jpg"
+      },
+      {
+         "id": "ann_322_ie_19",
+         "driveID": "1BnlkI-3aHPzSALcx_2YyB5JpfXHecCo6qNAUxd9VI7M",
+         "thumbnailURL": "https://drive.google.com/open?id=1UTYtdf4Rh2xXR6de0lzuPUlEcJ--Zus0",
+         "name": "Methodologies for Making and Knowing",
+         "semester": "NA",
+         "year": "2019",
+         "theme": "The Making and Knowing Laboratory",
+         "entryIDs": "",
+         "status": "",
+         "refresh": false,
+         "annotationAuthors": [
+            "author_089"
+         ],
+         "abstract": null,
+         "contentURL": null,
+         "thumbnail": "Klein_Thumbnail.jpg"
+      },
+      {
+         "id": "ann_323_ie_19",
+         "driveID": "1CgjbKiSvxt9j1z6tAawQabcgkxs-cUPi-LlWl3CvKsw",
+         "thumbnailURL": "https://drive.google.com/open?id=1P_rQEqZNdYiZgkCSuv5jRB1sNQfqiQu9",
+         "name": "Collectors and Practitioners of Technical Knowledge",
+         "semester": "NA",
+         "year": "2019",
+         "theme": "The Manuscript, Ms. Fr. 640",
+         "entryIDs": "p063r_3; p128v_1",
+         "status": "",
+         "refresh": false,
+         "annotationAuthors": [
+            "author_090"
+         ],
+         "abstract": null,
+         "contentURL": null,
+         "thumbnail": "Oltrogge_Thumbnail.jpg"
+      },
+      {
+         "id": "ann_324_ie_19",
+         "driveID": "1TweRqh8ojoYSiMmIRxDScHSXLBSbG_apHF5aPqL0JRg",
+         "thumbnailURL": "https://drive.google.com/open?id=1ZRsaYCUWWijj5Ie6bFVFnKwJd6RmDRy-",
+         "name": "Ingenious Materials: Salts as Material Metaphor",
+         "semester": "NA",
+         "year": "2019",
+         "theme": "Knowing Nature",
+         "entryIDs": "p002r_2",
+         "status": "",
+         "refresh": false,
+         "annotationAuthors": [
+            "author_091"
+         ],
+         "abstract": null,
+         "contentURL": null,
+         "thumbnail": "Oosterhoff_thumbnail.jpg"
+      },
+      {
+         "id": "ann_325_ie_19",
+         "driveID": "1AaNhfgk9jS57HR0e27Cwmw85Aena5xfuwer1BnvshiU",
+         "thumbnailURL": "https://drive.google.com/open?id=1sa3QiLYxCIaj0DwVaqyzRZl1U1hnPz5M",
+         "name": "Daily Life and Material Culture in Early Modern Europe",
+         "semester": "NA",
+         "year": "2019",
+         "theme": "Society and Culture",
+         "entryIDs": "p016v_5; p020v_6; p033r_2",
+         "status": "",
+         "refresh": false,
+         "annotationAuthors": [
+            "author_092"
+         ],
+         "abstract": null,
+         "contentURL": null,
+         "thumbnail": "Pitman_Thumbnail.jpg"
+      },
+      {
+         "id": "ann_326_ie_19",
+         "driveID": "1WbRn_ruQr-3DonDs-vA3PNam74p2_am5gCSkTWVYKMo",
+         "thumbnailURL": "https://drive.google.com/open?id=1GK61CmVYga6eHpPDjKEQ6DPu9TuxlTK3",
+         "name": "Making Ms. Fr. 640",
+         "semester": "NA",
+         "year": "2019",
+         "theme": "An Introduction",
+         "entryIDs": "",
+         "status": "",
+         "refresh": false,
+         "annotationAuthors": [
+            "author_093"
+         ],
+         "abstract": null,
+         "contentURL": null,
+         "thumbnail": "MSmith_thumbnail.jpg"
+      },
+      {
+         "id": "ann_327_ie_19",
+         "driveID": "1Ka1XPJIPzRdoNPb2fAxyO_ZPjY5ZIVEI",
+         "thumbnailURL": "https://drive.google.com/open?id=1_U-CBI7skDkFNPZkSR_6ULWF0IdE-WAP",
+         "name": "Images in Ms. Fr. 640",
+         "semester": "NA",
+         "year": "2019",
+         "theme": "The Manuscript, Ms. Fr. 640",
+         "entryIDs": "",
+         "status": "",
+         "refresh": false,
+         "annotationAuthors": [
+            "author_094"
+         ],
+         "abstract": null,
+         "contentURL": null,
+         "thumbnail": "Fransen_thumbnail.jpg"
+      },
+      {
+         "id": "ann_328_ie_19",
+         "driveID": "16LzQrLLGYBpXGcykhJRQfsctBSofoyKV",
+         "thumbnailURL": "https://drive.google.com/open?id=1x11FYg7aUVHmP0sjgAjbC0_3lVOXllM1",
+         "name": "The Physical Construction of Ms. Fr. 640",
+         "semester": "NA",
+         "year": "2019",
+         "theme": "The Manuscript, Ms. Fr. 640",
+         "entryIDs": "",
+         "status": "",
+         "refresh": false,
+         "annotationAuthors": [
+            "author_095"
+         ],
+         "abstract": null,
+         "contentURL": null
+      },
+      {
+         "id": "ann_329_ie_19",
+         "driveID": "1goxmI_PE8uSRaBS-8M0InBiajqP7pY0JlliYHO5_eGs",
+         "thumbnailURL": "https://drive.google.com/open?id=1xrQiDCDQtr_lBex4tgJnmrfWBbmgDs00",
+         "name": "Making the Edition",
+         "semester": "NA",
+         "year": "2019",
+         "theme": "An Introduction",
+         "entryIDs": "",
+         "status": "published",
+         "refresh": false,
+         "authors": [
+            "author_069"
+         ],
+         "abstract": "<p>This essay describes the Making and Knowing Project’s creation of the Digital Critical Edition of Ms. Fr. 640 through interdisciplinary pedagogy and research. It elaborates the various components of the Project, including Text Workshops, Laboratory and Digital Seminars, institutional collaborations, and digital design and development. The potentials and pitfalls of the method of historical reconstruction in a laboratory are discussed, and an introductory survey of insights gained through the student research in texts, objects, and hands-on laboratory work is provided.</p>\n",
+         "contentURL": "https://edition-staging.makingandknowing.org/bnf-ms-fr-640/annotations/ann_329_ie_19.html",
+         "thumbnail": "Smith_Thumbnail-people.jpg"
+      },
+      {
+         "id": "ann_334_ie_19",
+         "driveID": "1qDT2lDlMh_23Gua5jgT9i_NBzmu657qChtDLOTV_Cq8",
+         "thumbnailURL": "https://drive.google.com/open?id=1CTa0ruToyUK3G4F20Zj0jbaH5HEI2jj_",
+         "name": "An Expert Maker Perspective",
+         "semester": "NA",
+         "year": "2019",
+         "theme": "The Making and Knowing Project",
+         "entryIDs": "",
+         "status": "",
+         "refresh": false,
+         "annotationAuthors": [],
+         "abstract": null,
+         "contentURL": null
+      },
+      {
+         "id": "ann_335_ie_19",
+         "driveID": "1SgjyfwjOjK_NqE6K8ASm3QkHk6apHsBZzw98qlU64IQ",
+         "thumbnailURL": "https://drive.google.com/open?id=1d6AdMLeienZH37nAJ4ENtuR7XmwQc9YO",
+         "name": "Encoding BnF Ms. Fr. 640",
+         "semester": "NA",
+         "year": "2019",
+         "theme": "The Making and Knowing Project",
+         "entryIDs": "",
+         "status": "",
+         "refresh": false,
+         "annotationAuthors": [],
+         "abstract": null,
+         "contentURL": null,
+         "thumbnail": "CampsLyautey_Thumbnail.jpg"
+      },
+      {
+         "id": "ann_333_ie_19",
+         "driveID": "1YyyEnc8VAZkvCj_jG5T7zfVjsw1_po0F",
+         "thumbnailURL": "https://drive.google.com/open?id=1b7Q-Wr58D_EvoG0k1wkjPsMCiX68zx99",
+         "name": "Natural Philosophy and Chemistry in Béthune Manuscripts",
+         "semester": "NA",
+         "year": "2019",
+         "theme": "The Manuscript, Ms. Fr. 640",
+         "entryIDs": "",
+         "status": "",
+         "refresh": false,
+         "annotationAuthors": [
+            "author_082"
+         ],
+         "abstract": null,
+         "contentURL": null
+      }
+   ]
+}

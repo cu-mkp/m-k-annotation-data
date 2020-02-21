@@ -1,0 +1,69 @@
+Lizard running in process mode at 2:08:36 PM on Fri Feb 21 2020.
+==============================
+Processing Annotations
+==============================
+Processing annotation ann_001_fa_14
+Processing annotation ann_003_fa_14
+Processing annotation ann_006_fa_14
+Processing annotation ann_007_fa_14
+Processing annotation ann_008_fa_14
+Processing annotation ann_011_fa_14
+Processing annotation ann_027_fa_15
+Processing annotation ann_031_fa_15
+Processing annotation ann_036_sp_16
+Processing annotation ann_045_fa_16
+Processing annotation ann_046_fa_16
+Illustration not found: https://drive.google.com/open?id=1siU3IoHA65BVuHF5dt6n8m4jZvZ0OSU43WqR9xpGFCs
+Invalid figure or video reference: <span class="underline">“Making <em>Millas</em>,”</span>
+Processing annotation ann_047_fa_16
+Processing annotation ann_048_fa_16
+Processing annotation ann_049_fa_16
+Processing annotation ann_050_fa_16
+Processing annotation ann_051_fa_16
+Processing annotation ann_052_fa_16
+Processing annotation ann_053_fa_16
+Processing annotation ann_054_sp_17
+Processing annotation ann_055_sp_17
+Processing annotation ann_056_sp_17
+Processing annotation ann_057_sp_17
+Processing annotation ann_058_sp_17
+Processing annotation ann_079_sp_17
+Processing annotation ann_080_sp_17
+Processing annotation ann_059_sp_17
+Processing annotation ann_060_fa_17
+Processing annotation ann_061_fa_17
+Processing annotation ann_062_fa_17
+Processing annotation ann_063_fa_17
+Processing annotation ann_064_fa_17
+Processing annotation ann_065_fa_18
+Processing annotation ann_066_fa_18
+Processing annotation ann_067_fa_18
+Processing annotation ann_068_fa_18
+Processing annotation ann_069_fa_18
+Processing annotation ann_070_fa_18
+Processing annotation ann_071_fa_18
+Processing annotation ann_072_fa_18
+Processing annotation ann_074_fa_18
+Processing annotation ann_075_fa_18
+Processing annotation ann_076_fa_18
+Processing annotation ann_077_fa_18
+Processing annotation ann_078_fa_18
+Processing annotation ann_300_ie_19
+Processing annotation ann_303_ie_19
+Processing annotation ann_312_ie_19
+Processing annotation ann_315_ie_19
+Processing annotation ann_317_ie_19
+Processing annotation ann_332_ie_19
+Invalid figure or video reference: <span class="underline">fig .14</span>
+Processing annotation ann_320_ie_19
+Processing annotation ann_330_ie_19
+Processing annotation ann_331_ie_19
+Illustration not found: https://drive.google.com/open?id=1hN08MRf8QrH7ZEcTA0wltPNFZs-TvT2J
+Illustration not found: https://drive.google.com/open?id=15cjI92Klzf2SOuJmqdMXd9Wdc2_I35Of
+Illustration not found: https://drive.google.com/open?id=1JF1CCK4gPWFVWhDeD-Ec-3j5xHcieWre
+Illustration not found: https://drive.google.com/open?id=1x_J52skigX2V5xSn-ZHmwB9cvRNb_wL-
+Illustration not found: https://drive.google.com/open?id=1fIKLi7-rNr1CpHPPwCQetWmxtOzkyR1C
+Processing annotation ann_329_ie_19
+Invalid figure or video reference: <span class="underline">Fig.</span> <span class="underline">11</span>
+Invalid figure or video reference: <span class="underline">Fig.</span> <span class="underline">17</span>
+Lizard finised at 2:08:36 PM.
