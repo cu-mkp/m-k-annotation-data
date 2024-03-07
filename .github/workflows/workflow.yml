@@ -1,5 +1,5 @@
       - name: HTMLProofer
-        uses: chabad360/htmlproofer@v1.1
+        uses: chabad360/htmlproofer@v2
         with:
           directory: "./html"
           # The directory to scan
