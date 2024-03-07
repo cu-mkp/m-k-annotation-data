@@ -1,7 +1,8 @@
-      - name: HTMLProofer
-        uses: chabad360/htmlproofer@v2
+...
+      - name: Check HTML
+        uses: chabad360/htmlproofer@master
         with:
-          directory: "./html"
+          directory: "./public"
           # The directory to scan
           arguments: --allow-missing-href
           # The arguments to pass to HTMLProofer
