@@ -1,0 +1,1936 @@
+{
+   "author_001": {
+      "id": "author_001",
+      "annotations": [
+         "ann_001_fa_14",
+         "ann_006_fa_14",
+         "ann_011_fa_14"
+      ],
+      "fullName": "Emogene Cataldo",
+      "firstName": "Emogene",
+      "lastName": "Cataldo",
+      "year": "2014",
+      "semester": "Fall",
+      "authorType": "Columbia University Student",
+      "degree": "PhD",
+      "yearAtTime": "1st Year",
+      "department": "Art History and Archaeology",
+      "subField": "Medieval Art and Architecture"
+   },
+   "author_002": {
+      "id": "author_002",
+      "annotations": [
+         "ann_001_fa_14",
+         "ann_006_fa_14",
+         "ann_011_fa_14"
+      ],
+      "fullName": "Julianna van Visco",
+      "firstName": "Julianna",
+      "lastName": "Visco",
+      "year": "2014",
+      "semester": "Fall",
+      "authorType": "Columbia University Student",
+      "degree": "PhD",
+      "yearAtTime": "2nd Year",
+      "department": "Italian",
+      "subField": "Italian Literature in 13th and 14th Century"
+   },
+   "author_003": {
+      "id": "author_003",
+      "annotations": [
+         "ann_002_fa_14",
+         "ann_004_fa_14",
+         "ann_007_fa_14"
+      ],
+      "fullName": "Rozemarijn Landsman",
+      "firstName": "Rozemarijn",
+      "lastName": "Landsman",
+      "year": "2014",
+      "semester": "Fall",
+      "authorType": "Columbia University Student",
+      "degree": "PhD",
+      "yearAtTime": "2nd Year",
+      "department": "Art History and Archaeology",
+      "subField": "Dutch 17th Century"
+   },
+   "author_004": {
+      "id": "author_004",
+      "annotations": [
+         "ann_002_fa_14",
+         "ann_004_fa_14",
+         "ann_007_fa_14"
+      ],
+      "fullName": "Jonah Rowen",
+      "firstName": "Jonah",
+      "lastName": "Rowen",
+      "year": "2014",
+      "semester": "Fall",
+      "authorType": "Columbia University Student",
+      "degree": "PhD",
+      "yearAtTime": "1st Year",
+      "department": "Architecture, Planning, and Preservation",
+      "subField": ""
+   },
+   "author_005": {
+      "id": "author_005",
+      "annotations": [
+         "ann_003_fa_14",
+         "ann_005_fa_14",
+         "ann_010_fa_14"
+      ],
+      "fullName": "Raymond Carlson",
+      "firstName": "Raymond",
+      "lastName": "Carlson",
+      "year": "2014",
+      "semester": "Fall",
+      "authorType": "Columbia University Student",
+      "degree": "PhD",
+      "yearAtTime": "2nd Year",
+      "department": "Art History and Archaeology",
+      "subField": "Italian Renaissance"
+   },
+   "author_006": {
+      "id": "author_006",
+      "annotations": [
+         "ann_003_fa_14",
+         "ann_005_fa_14",
+         "ann_010_fa_14"
+      ],
+      "fullName": "Jordan Katz",
+      "firstName": "Jordan",
+      "lastName": "Katz",
+      "year": "2014",
+      "semester": "Fall",
+      "authorType": "Columbia University Student",
+      "degree": "PhD",
+      "yearAtTime": "1st Year",
+      "department": "History",
+      "subField": "Early Modern/Jewish"
+   },
+   "author_007": {
+      "id": "author_007",
+      "annotations": [
+         "ann_008_fa_14"
+      ],
+      "fullName": "Diana Mellon",
+      "firstName": "Diana",
+      "lastName": "Mellon",
+      "year": "2014",
+      "semester": "Fall",
+      "authorType": "Columbia University Student",
+      "degree": "PhD",
+      "yearAtTime": "1st Year",
+      "department": "Art History and Archaeology",
+      "subField": "Medieval and Renaissance Italian Art"
+   },
+   "author_008": {
+      "id": "author_008",
+      "annotations": [
+         "ann_009_fa_14"
+      ],
+      "fullName": "Michelle Lee",
+      "firstName": "Michelle",
+      "lastName": "Lee",
+      "year": "2014",
+      "semester": "Fall",
+      "authorType": "Columbia University Student",
+      "degree": "MA",
+      "yearAtTime": "",
+      "department": "Anthropology",
+      "subField": ""
+   },
+   "author_009": {
+      "id": "author_009",
+      "annotations": [
+         "ann_012_fa_14"
+      ],
+      "fullName": "Yijun Wang",
+      "firstName": "Yijun",
+      "lastName": "Wang",
+      "year": "2014",
+      "semester": "Fall",
+      "authorType": "Columbia University Student",
+      "degree": "PhD",
+      "yearAtTime": "2nd Year",
+      "department": "East Asian Languages and Cultures - History",
+      "subField": "Chinese History"
+   },
+   "author_010": {
+      "id": "author_010",
+      "annotations": [
+         "ann_013_sp_15"
+      ],
+      "fullName": "Shiye Fu",
+      "firstName": "Shiye",
+      "lastName": "Fu",
+      "year": "2015",
+      "semester": "Spring",
+      "authorType": "Columbia University Student",
+      "degree": "MA",
+      "yearAtTime": "",
+      "department": "Anthropology",
+      "subField": "Sociocultural"
+   },
+   "author_011": {
+      "id": "author_011",
+      "annotations": [
+         "ann_013_sp_15"
+      ],
+      "fullName": "Zhiqi Zhang",
+      "firstName": "Zhiqi",
+      "lastName": "Zhang",
+      "year": "2015",
+      "semester": "Spring",
+      "authorType": "Columbia University Student",
+      "degree": "MA",
+      "yearAtTime": "",
+      "department": "Anthropology",
+      "subField": ""
+   },
+   "author_012": {
+      "id": "author_012",
+      "annotations": [
+         "ann_014_sp_15",
+         "ann_022_sp_15",
+         "ann_023_sp_15"
+      ],
+      "fullName": "Giulia Chiostrini",
+      "firstName": "Giulia",
+      "lastName": "Chiostrini",
+      "year": "2015",
+      "semester": "Spring",
+      "authorType": "Columbia University Student",
+      "degree": "MA",
+      "yearAtTime": "",
+      "department": "Medieval and Renaissance Studies",
+      "subField": ""
+   },
+   "author_013": {
+      "id": "author_013",
+      "annotations": [
+         "ann_014_sp_15",
+         "ann_022_sp_15"
+      ],
+      "fullName": "Jef Palframan",
+      "firstName": "Jef",
+      "lastName": "Palframan",
+      "year": "2015",
+      "semester": "Spring",
+      "authorType": "Columbia University Student",
+      "degree": "MA",
+      "yearAtTime": "",
+      "department": "Medieval and Renaissance Studies",
+      "subField": "Medieval and Renaissance Studies"
+   },
+   "author_014": {
+      "id": "author_014",
+      "annotations": [
+         "ann_015_sp_15"
+      ],
+      "fullName": "Maria Alessandra Chessa",
+      "firstName": "Maria Alessandra",
+      "lastName": "Chessa",
+      "year": "2015",
+      "semester": "Spring",
+      "authorType": "Victoria and Albert-Royal College of Art Student",
+      "degree": "MA",
+      "yearAtTime": "",
+      "department": "History of Design",
+      "subField": ""
+   },
+   "author_015": {
+      "id": "author_015",
+      "annotations": [
+         "ann_016_sp_15",
+         "ann_018_sp_15"
+      ],
+      "fullName": "Sofia Gans",
+      "firstName": "Sofia",
+      "lastName": "Gans",
+      "year": "2015",
+      "semester": "Spring",
+      "authorType": "Columbia University Student",
+      "degree": "PhD",
+      "yearAtTime": "4th Year",
+      "department": "Art History and Archaeology",
+      "subField": ""
+   },
+   "author_016": {
+      "id": "author_016",
+      "annotations": [
+         "ann_017_sp_15"
+      ],
+      "fullName": "Celia Durkin",
+      "firstName": "Celia",
+      "lastName": "Durkin",
+      "year": "2015",
+      "semester": "Spring",
+      "authorType": "Columbia University Student",
+      "degree": "MA",
+      "yearAtTime": "",
+      "department": "Art History and Archaeology",
+      "subField": ""
+   },
+   "author_017": {
+      "id": "author_017",
+      "annotations": [
+         "ann_019_sp_15",
+         "ann_020_sp_15"
+      ],
+      "fullName": "Caroline Marris",
+      "firstName": "Caroline",
+      "lastName": "Marris",
+      "year": "2015",
+      "semester": "Spring",
+      "authorType": "Columbia University Student",
+      "degree": "PhD",
+      "yearAtTime": "1st Year",
+      "department": "History",
+      "subField": "Early Modern Europe"
+   },
+   "author_018": {
+      "id": "author_018",
+      "annotations": [
+         "ann_020_sp_15",
+         "ann_021_sp_15"
+      ],
+      "fullName": "Stephanie Pope",
+      "firstName": "Stephanie",
+      "lastName": "Pope",
+      "year": "2015",
+      "semester": "Spring",
+      "authorType": "Princeton University Student",
+      "degree": "PhD",
+      "yearAtTime": "1st Year",
+      "department": "English",
+      "subField": ""
+   },
+   "author_019": {
+      "id": "author_019",
+      "annotations": [
+         "ann_024_fa_15",
+         "ann_025_fa_15"
+      ],
+      "fullName": "Marilyn Bowen",
+      "firstName": "Marilyn",
+      "lastName": "Bowen",
+      "year": "2015",
+      "semester": "Fall",
+      "authorType": "Columbia University Student",
+      "degree": "MA",
+      "yearAtTime": "",
+      "department": "Medieval and Renaissance Studies",
+      "subField": ""
+   },
+   "author_020": {
+      "id": "author_020",
+      "annotations": [
+         "ann_024_fa_15",
+         "ann_025_fa_15"
+      ],
+      "fullName": "Tianhe Lou",
+      "firstName": "Tianhe",
+      "lastName": "Lou",
+      "year": "2015",
+      "semester": "Fall",
+      "authorType": "Columbia University Student",
+      "degree": "MA",
+      "yearAtTime": "",
+      "department": "Medieval and Renaissance Studies",
+      "subField": ""
+   },
+   "author_021": {
+      "id": "author_021",
+      "annotations": [
+         "ann_026_fa_15"
+      ],
+      "fullName": "Danielle Carr",
+      "firstName": "Danielle",
+      "lastName": "Carr",
+      "year": "2015",
+      "semester": "Fall",
+      "authorType": "Columbia University Student",
+      "degree": "PhD",
+      "yearAtTime": "2nd Year",
+      "department": "Anthropology",
+      "subField": "Sociocultural"
+   },
+   "author_022": {
+      "id": "author_022",
+      "annotations": [
+         "ann_027_fa_15"
+      ],
+      "fullName": "Wenrui Zhao",
+      "firstName": "Wenrui",
+      "lastName": "Zhao",
+      "year": "2015",
+      "semester": "Fall",
+      "authorType": "Columbia University Student",
+      "degree": "PhD",
+      "yearAtTime": "1st Year",
+      "department": "History",
+      "subField": "Early Modern Europe"
+   },
+   "author_023": {
+      "id": "author_023",
+      "annotations": [
+         "ann_028_fa_15"
+      ],
+      "fullName": "Ana Estrades",
+      "firstName": "Ana",
+      "lastName": "Estrades",
+      "year": "2015",
+      "semester": "Fall",
+      "authorType": "Bard Graduate Center Student",
+      "degree": "MA",
+      "yearAtTime": "",
+      "department": "Decorative Arts and Material Culture",
+      "subField": ""
+   },
+   "author_024": {
+      "id": "author_024",
+      "annotations": [
+         "ann_029_fa_15",
+         "ann_082_fa_15"
+      ],
+      "fullName": "Kathryn Kremnitzer",
+      "firstName": "Kathryn",
+      "lastName": "Kremnitzer",
+      "year": "2015",
+      "semester": "Fall",
+      "authorType": "Columbia University Student",
+      "degree": "PhD",
+      "yearAtTime": "2nd Year",
+      "department": "Art History and Archaeology",
+      "subField": ""
+   },
+   "author_025": {
+      "id": "author_025",
+      "annotations": [
+         "ann_029_fa_15",
+         "ann_081_fa_15"
+      ],
+      "fullName": "Siddhartha Shah",
+      "firstName": "Siddhartha",
+      "lastName": "Shah",
+      "year": "2015",
+      "semester": "Fall",
+      "authorType": "Columbia University Student",
+      "degree": "PhD",
+      "yearAtTime": "3rd Year",
+      "department": "Art History and Archaeology",
+      "subField": ""
+   },
+   "author_026": {
+      "id": "author_026",
+      "annotations": [
+         "ann_030_fa_15"
+      ],
+      "fullName": "Cindy Kok",
+      "firstName": "Cindy",
+      "lastName": "Kok",
+      "year": "2015",
+      "semester": "Fall",
+      "authorType": "Bard Graduate Center Student",
+      "degree": "MA",
+      "yearAtTime": "",
+      "department": "Decorative Arts and Material Culture",
+      "subField": ""
+   },
+   "author_027": {
+      "id": "author_027",
+      "annotations": [
+         "ann_031_fa_15"
+      ],
+      "fullName": "Yuan Yi",
+      "firstName": "Yuan",
+      "lastName": "Yi",
+      "year": "2015",
+      "semester": "Fall",
+      "authorType": "Columbia University Student",
+      "degree": "PhD",
+      "yearAtTime": "2nd Year",
+      "department": "East Asian Languages and Cultures - History",
+      "subField": "Modern Chinese History"
+   },
+   "author_028": {
+      "id": "author_028",
+      "annotations": [
+         "ann_032_fa_15"
+      ],
+      "fullName": "Emilie Foyer",
+      "firstName": "Emilie",
+      "lastName": "Foyer",
+      "year": "2015",
+      "semester": "Fall",
+      "authorType": "Columbia University Student",
+      "degree": "MA/MSc",
+      "yearAtTime": "",
+      "department": "International History",
+      "subField": ""
+   },
+   "author_029": {
+      "id": "author_029",
+      "annotations": [
+         "ann_034_sp_16",
+         "ann_038_sp_16"
+      ],
+      "fullName": "Amy Chang",
+      "firstName": "Amy",
+      "lastName": "Chang",
+      "year": "2016",
+      "semester": "Spring",
+      "authorType": "Columbia University Student",
+      "degree": "MA",
+      "yearAtTime": "",
+      "department": "Art History and Archaeology",
+      "subField": ""
+   },
+   "author_030": {
+      "id": "author_030",
+      "annotations": [
+         "ann_044_sp_16"
+      ],
+      "fullName": "Olivia Clemens",
+      "firstName": "Olivia",
+      "lastName": "Clemens",
+      "year": "2016",
+      "semester": "Spring",
+      "authorType": "Columbia University Student",
+      "degree": "PhD",
+      "yearAtTime": "1st Year",
+      "department": "Art History and Archaeology",
+      "subField": "Arts of Islam"
+   },
+   "author_031": {
+      "id": "author_031",
+      "annotations": [
+         "ann_034_sp_16"
+      ],
+      "fullName": "Yuanxie Shi",
+      "firstName": "Yuanxie",
+      "lastName": "Shi",
+      "year": "2016",
+      "semester": "Spring",
+      "authorType": "Columbia University Student",
+      "degree": "MA",
+      "yearAtTime": "",
+      "department": "Anthropology",
+      "subField": "Museum"
+   },
+   "author_900": {
+      "id": "author_900",
+      "annotations": [
+         "ann_035_sp_16"
+      ],
+      "fullName": "Wenrui Zhao",
+      "firstName": "Wenrui",
+      "lastName": "Zhao",
+      "year": "2016",
+      "semester": "Spring",
+      "authorType": "Columbia University Student",
+      "degree": "PhD",
+      "yearAtTime": "1st Year",
+      "department": "History",
+      "subField": "Early Modern Europe"
+   },
+   "author_032": {
+      "id": "author_032",
+      "annotations": [
+         "ann_036_sp_16"
+      ],
+      "fullName": "Sophie Pitman",
+      "firstName": "Sophie",
+      "lastName": "Pitman",
+      "year": "2016",
+      "semester": "Spring",
+      "authorType": "Cambridge University Visiting Student",
+      "degree": "PhD",
+      "yearAtTime": "3rd Year",
+      "department": "History",
+      "subField": ""
+   },
+   "author_033": {
+      "id": "author_033",
+      "annotations": [
+         "ann_037_sp_16"
+      ],
+      "fullName": "Robin Reich",
+      "firstName": "Robin",
+      "lastName": "Reich",
+      "year": "2016",
+      "semester": "Spring",
+      "authorType": "Columbia University Student",
+      "degree": "PhD",
+      "yearAtTime": "1st Year",
+      "department": "History",
+      "subField": "Medieval Europe"
+   },
+   "author_034": {
+      "id": "author_034",
+      "annotations": [
+         "ann_039_sp_16"
+      ],
+      "fullName": "Lila Goldenberg",
+      "firstName": "Lila",
+      "lastName": "Goldenberg",
+      "year": "2016",
+      "semester": "Spring",
+      "authorType": "Columbia University Student",
+      "degree": "MA",
+      "yearAtTime": "",
+      "department": "Medieval and Renaissance Studies",
+      "subField": ""
+   },
+   "author_035": {
+      "id": "author_035",
+      "annotations": [
+         "ann_040_sp_16"
+      ],
+      "fullName": "Teresa Soley",
+      "firstName": "Teresa",
+      "lastName": "Soley",
+      "year": "2016",
+      "semester": "Spring",
+      "authorType": "Columbia University Student",
+      "degree": "PhD",
+      "yearAtTime": "1st Year",
+      "department": "Art History and Archaeology",
+      "subField": ""
+   },
+   "author_036": {
+      "id": "author_036",
+      "annotations": [
+         "ann_041_sp_16"
+      ],
+      "fullName": "Njeri Ndungu",
+      "firstName": "Njeri",
+      "lastName": "Ndungu",
+      "year": "2016",
+      "semester": "Spring",
+      "authorType": "Columbia University Student",
+      "degree": "PhD",
+      "yearAtTime": "1st Year",
+      "department": "Art History and Archaeology",
+      "subField": ""
+   },
+   "author_037": {
+      "id": "author_037",
+      "annotations": [
+         "ann_042_sp_16"
+      ],
+      "fullName": "Cleo Nisse",
+      "firstName": "Cleo",
+      "lastName": "Nisse",
+      "year": "2016",
+      "semester": "Spring",
+      "authorType": "Columbia University Student",
+      "degree": "PhD",
+      "yearAtTime": "1st Year",
+      "department": "Art History and Archaeology",
+      "subField": ""
+   },
+   "author_038": {
+      "id": "author_038",
+      "annotations": [
+         "ann_043_sp_16"
+      ],
+      "fullName": "Ann-Sophie Barwich",
+      "firstName": "Ann-Sophie",
+      "lastName": "Barwich",
+      "year": "2016",
+      "semester": "Spring",
+      "authorType": "Columbia University Postdoctoral Scholar",
+      "degree": "",
+      "yearAtTime": "",
+      "department": "Presidential Scholars in Society and Neuroscience",
+      "subField": "History and Philosophy of Olfraction"
+   },
+   "author_039": {
+      "id": "author_039",
+      "annotations": [
+         "ann_051_fa_16"
+      ],
+      "fullName": "Charles Kang",
+      "firstName": "Charles",
+      "lastName": "Kang",
+      "year": "2016",
+      "semester": "Fall",
+      "authorType": "Columbia University Student",
+      "degree": "PhD",
+      "yearAtTime": "7th Year",
+      "department": "Art History and Archaeology",
+      "subField": "French Art"
+   },
+   "author_040": {
+      "id": "author_040",
+      "annotations": [
+         "ann_046_fa_16",
+         "ann_050_fa_16"
+      ],
+      "fullName": "Emma Le Pouésard",
+      "firstName": "Emma",
+      "lastName": "Le Pouésard",
+      "year": "2016",
+      "semester": "Fall",
+      "authorType": "Columbia University Student",
+      "degree": "PhD",
+      "yearAtTime": "1st Year",
+      "department": "Art History and Archaeology",
+      "subField": "Medieval Art"
+   },
+   "author_041": {
+      "id": "author_041",
+      "annotations": [
+         "ann_047_fa_16"
+      ],
+      "fullName": "Benjamin Hiebert",
+      "firstName": "Benjamin",
+      "lastName": "Hiebert",
+      "year": "2016",
+      "semester": "Fall",
+      "authorType": "Columbia University Student",
+      "degree": "MA",
+      "yearAtTime": "",
+      "department": "History",
+      "subField": "European History"
+   },
+   "author_042": {
+      "id": "author_042",
+      "annotations": [
+         "ann_048_fa_16"
+      ],
+      "fullName": "Joslyn DeVinney",
+      "firstName": "Joslyn",
+      "lastName": "DeVinney",
+      "year": "2016",
+      "semester": "Fall",
+      "authorType": "Columbia University Student",
+      "degree": "PhD",
+      "yearAtTime": "1st Year",
+      "department": "History",
+      "subField": "International and Global"
+   },
+   "author_043": {
+      "id": "author_043",
+      "annotations": [
+         "ann_049_fa_16"
+      ],
+      "fullName": "Caitlyn Sellar",
+      "firstName": "Caitlyn",
+      "lastName": "Sellar",
+      "year": "2016",
+      "semester": "Fall",
+      "authorType": "Columbia University Student",
+      "degree": "MA",
+      "yearAtTime": "",
+      "department": "Anthropology",
+      "subField": "Museum"
+   },
+   "author_044": {
+      "id": "author_044",
+      "annotations": [
+         "ann_045_fa_16"
+      ],
+      "fullName": "Isabella Lores-Chavez",
+      "firstName": "Isabella",
+      "lastName": "Lores-Chaves",
+      "year": "2016",
+      "semester": "Fall",
+      "authorType": "Columbia University Student",
+      "degree": "PhD",
+      "yearAtTime": "3rd Year",
+      "department": "Art History and Archaeology",
+      "subField": "17th-century Dutch Paintings"
+   },
+   "author_045": {
+      "id": "author_045",
+      "annotations": [
+         "ann_052_fa_16"
+      ],
+      "fullName": "Ana Matisse Donefer-Hickie",
+      "firstName": "Ana Matisse",
+      "lastName": "Donefer-Hickie",
+      "year": "2016",
+      "semester": "Fall",
+      "authorType": "Bard Graduate Center Student",
+      "degree": "MA",
+      "yearAtTime": "",
+      "department": "Decorative Arts and Material Culture",
+      "subField": ""
+   },
+   "author_046": {
+      "id": "author_046",
+      "annotations": [
+         "ann_053_fa_16"
+      ],
+      "fullName": "Sau-yi Fong",
+      "firstName": "Sau-yi",
+      "lastName": "Fong",
+      "year": "2016",
+      "semester": "Fall",
+      "authorType": "Columbia University Student",
+      "degree": "PhD",
+      "yearAtTime": "3rd Year",
+      "department": "East Asian Languages and Cultures - History",
+      "subField": "East Asia/China"
+   },
+   "author_047": {
+      "id": "author_047",
+      "annotations": [
+         "ann_054_sp_17"
+      ],
+      "fullName": "Nicole Basile",
+      "firstName": "Nicole",
+      "lastName": "Basile",
+      "year": "2017",
+      "semester": "Spring",
+      "authorType": "Columbia University Student",
+      "degree": "PhD",
+      "yearAtTime": "2nd Year",
+      "department": "Latin American and Iberian Cultures",
+      "subField": ""
+   },
+   "author_048": {
+      "id": "author_048",
+      "annotations": [
+         "ann_055_sp_17"
+      ],
+      "fullName": "Christopher Eom",
+      "firstName": "Christopher",
+      "lastName": "Eom",
+      "year": "2017",
+      "semester": "Spring",
+      "authorType": "Columbia University Student",
+      "degree": "BA",
+      "yearAtTime": "4th Year",
+      "department": "Art History and Chemistry",
+      "subField": ""
+   },
+   "author_049": {
+      "id": "author_049",
+      "annotations": [
+         "ann_056_sp_17",
+         "ann_516_ad_20"
+      ],
+      "fullName": "Xinguo (Casa) Wang",
+      "firstName": "Xinguo (Casa)",
+      "lastName": "Wang",
+      "year": "2017",
+      "semester": "Spring",
+      "authorType": "Independent Scholar",
+      "degree": "",
+      "yearAtTime": "",
+      "department": "",
+      "subField": ""
+   },
+   "author_050": {
+      "id": "author_050",
+      "annotations": [
+         "ann_057_sp_17",
+         "ann_058_sp_17",
+         "ann_079_sp_17",
+         "ann_080_sp_17"
+      ],
+      "fullName": "Xiaomeng Liu",
+      "firstName": "Xiaomeng",
+      "lastName": "Liu",
+      "year": "2017",
+      "semester": "Spring",
+      "authorType": "University of Hong Kong Visiting Student",
+      "degree": "PhD",
+      "yearAtTime": "2nd Year",
+      "department": "History of Medicine",
+      "subField": ""
+   },
+   "author_051": {
+      "id": "author_051",
+      "annotations": [
+         "ann_059_sp_17"
+      ],
+      "fullName": "Sasha Grafit",
+      "firstName": "Sasha",
+      "lastName": "Grafit",
+      "year": "2017",
+      "semester": "Spring",
+      "authorType": "Columbia University Student",
+      "degree": "MFA",
+      "yearAtTime": "",
+      "department": "Creative Writing",
+      "subField": ""
+   },
+   "author_052": {
+      "id": "author_052",
+      "annotations": [
+         "ann_060_fa_17"
+      ],
+      "fullName": "Carl Garris",
+      "firstName": "Carl",
+      "lastName": "Garris",
+      "year": "2017",
+      "semester": "Fall",
+      "authorType": "Columbia University Student",
+      "degree": "PhD",
+      "yearAtTime": "1st Year",
+      "department": "History",
+      "subField": "Medieval Europe"
+   },
+   "author_053": {
+      "id": "author_053",
+      "annotations": [
+         "ann_061_fa_17"
+      ],
+      "fullName": "Tenzin Dongchung",
+      "firstName": "Tenzin",
+      "lastName": "Dongchung",
+      "year": "2017",
+      "semester": "Fall",
+      "authorType": "Columbia University Student",
+      "degree": "PhD",
+      "yearAtTime": "1st Year",
+      "department": "East Asian Languages and Cultures - History",
+      "subField": "Tibetan and Chinese History"
+   },
+   "author_054": {
+      "id": "author_054",
+      "annotations": [
+         "ann_062_fa_17"
+      ],
+      "fullName": "Sumeyye Yar",
+      "firstName": "Sumeyye",
+      "lastName": "Yar",
+      "year": "2017",
+      "semester": "Fall",
+      "authorType": "Independent Scholar",
+      "degree": "",
+      "yearAtTime": "",
+      "department": "Biological Scientist and Science Outreach Educator",
+      "subField": ""
+   },
+   "author_055": {
+      "id": "author_055",
+      "annotations": [
+         "ann_063_fa_17"
+      ],
+      "fullName": "Reut Ullman",
+      "firstName": "Reut",
+      "lastName": "Ullman",
+      "year": "2017",
+      "semester": "Fall",
+      "authorType": "Columbia University Student",
+      "degree": "PhD",
+      "yearAtTime": "1st Year",
+      "department": "History",
+      "subField": "Early Modern Europe"
+   },
+   "author_056": {
+      "id": "author_056",
+      "annotations": [
+         "ann_064_fa_17"
+      ],
+      "fullName": "Nina Elizondo-Garza",
+      "firstName": "Nina",
+      "lastName": "Elizondo-Garza",
+      "year": "2017",
+      "semester": "Fall",
+      "authorType": "Columbia University Student",
+      "degree": "MA",
+      "yearAtTime": "",
+      "department": "Art History and Archaeology",
+      "subField": ""
+   },
+   "author_057": {
+      "id": "author_057",
+      "annotations": [
+         "ann_065_fa_18"
+      ],
+      "fullName": "Michael Assis",
+      "firstName": "Michael",
+      "lastName": "Assis",
+      "year": "2018",
+      "semester": "Fall",
+      "authorType": "Bard Graduate Center Student",
+      "degree": "PhD",
+      "yearAtTime": "1st Year",
+      "department": "Art History",
+      "subField": ""
+   },
+   "author_058": {
+      "id": "author_058",
+      "annotations": [
+         "ann_066_fa_18"
+      ],
+      "fullName": "Katie Bergen",
+      "firstName": "Katie",
+      "lastName": "Bergen",
+      "year": "2018",
+      "semester": "Fall",
+      "authorType": "Columbia University Student",
+      "degree": "MA/MSc",
+      "yearAtTime": "",
+      "department": "International History",
+      "subField": ""
+   },
+   "author_059": {
+      "id": "author_059",
+      "annotations": [
+         "ann_067_fa_18",
+         "ann_078_fa_18"
+      ],
+      "fullName": "Nicolle Bertozzi",
+      "firstName": "Nicolle",
+      "lastName": "Bertozzi",
+      "year": "2018",
+      "semester": "Fall",
+      "authorType": "Columbia University Student",
+      "degree": "PhD",
+      "yearAtTime": "1st Year",
+      "department": "East Asian Languages and Cultures - History",
+      "subField": "Modern Japanese History"
+   },
+   "author_060": {
+      "id": "author_060",
+      "annotations": [
+         "ann_068_fa_18"
+      ],
+      "fullName": "Sahar Bostock",
+      "firstName": "Sahar",
+      "lastName": "Bostock",
+      "year": "2018",
+      "semester": "Fall",
+      "authorType": "Columbia University Student",
+      "degree": "PhD",
+      "yearAtTime": "1st Year",
+      "department": "History",
+      "subField": "Middle East"
+   },
+   "author_061": {
+      "id": "author_061",
+      "annotations": [
+         "ann_069_fa_18"
+      ],
+      "fullName": "Olivia Branscum",
+      "firstName": "Olivia",
+      "lastName": "Branscum",
+      "year": "2018",
+      "semester": "Fall",
+      "authorType": "Columbia University Student",
+      "degree": "PhD",
+      "yearAtTime": "2nd Year",
+      "department": "Philosophy",
+      "subField": "History of Philosophy"
+   },
+   "author_062": {
+      "id": "author_062",
+      "annotations": [
+         "ann_070_fa_18"
+      ],
+      "fullName": "James Buckley",
+      "firstName": "James",
+      "lastName": "Buckley",
+      "year": "2018",
+      "semester": "Fall",
+      "authorType": "Columbia University Student",
+      "degree": "PhD",
+      "yearAtTime": "1st Year",
+      "department": "History",
+      "subField": "Early Modern Europe"
+   },
+   "author_063": {
+      "id": "author_063",
+      "annotations": [
+         "ann_071_fa_18",
+         "ann_335_ie_19"
+      ],
+      "fullName": "Celine Camps",
+      "firstName": "Celine",
+      "lastName": "Camps",
+      "year": "2018",
+      "semester": "Fall",
+      "authorType": "Columbia University Student",
+      "degree": "PhD",
+      "yearAtTime": "1st Year",
+      "department": "History",
+      "subField": "Early Modern"
+   },
+   "author_064": {
+      "id": "author_064",
+      "annotations": [
+         "ann_072_fa_18"
+      ],
+      "fullName": "Amanda Faulkner",
+      "firstName": "Amanda",
+      "lastName": "Faulkner",
+      "year": "2018",
+      "semester": "Fall",
+      "authorType": "Columbia University Student",
+      "degree": "PhD",
+      "yearAtTime": "1st Year",
+      "department": "History",
+      "subField": "Early Modern Europe"
+   },
+   "author_065": {
+      "id": "author_065",
+      "annotations": [
+         "ann_005_fa_14"
+      ],
+      "fullName": "Baris Gokturk",
+      "firstName": "Baris",
+      "lastName": "Gokturk",
+      "year": "2018",
+      "semester": "Fall",
+      "authorType": "Columbia University Student",
+      "degree": "MFA",
+      "yearAtTime": "",
+      "department": "Visual Arts",
+      "subField": ""
+   },
+   "author_066": {
+      "id": "author_066",
+      "annotations": [
+         "ann_074_fa_18",
+         "ann_075_fa_18"
+      ],
+      "fullName": "Angel Jiang",
+      "firstName": "Angel",
+      "lastName": "Jiang",
+      "year": "2018",
+      "semester": "Fall",
+      "authorType": "Columbia University Student",
+      "degree": "PhD",
+      "yearAtTime": "2nd Year",
+      "department": "Art History and Archaeology",
+      "subField": "History of Architecture"
+   },
+   "author_067": {
+      "id": "author_067",
+      "annotations": [
+         "ann_076_fa_18"
+      ],
+      "fullName": "Min Lim",
+      "firstName": "Min",
+      "lastName": "Lim",
+      "year": "2018",
+      "semester": "Fall",
+      "authorType": "Columbia University Student",
+      "degree": "MA/MSc",
+      "yearAtTime": "",
+      "department": "International History",
+      "subField": ""
+   },
+   "author_068": {
+      "id": "author_068",
+      "annotations": [
+         "ann_077_fa_18"
+      ],
+      "fullName": "Nancy Olson",
+      "firstName": "Nancy",
+      "lastName": "Olson",
+      "year": "2018",
+      "semester": "Fall",
+      "authorType": "Parsons School of Design Student",
+      "degree": "MA",
+      "yearAtTime": "",
+      "department": "Decorative Arts",
+      "subField": "History of Design and Curatorial Studies"
+   },
+   "author_069": {
+      "id": "author_069",
+      "annotations": [
+         "ann_300_ie_19",
+         "ann_329_ie_19",
+         "ann_009_fa_14",
+         "ann_012_fa_14",
+         "ann_029_fa_15",
+         "ann_082_fa_15",
+         "ann_017_sp_15",
+         "ann_013_sp_15",
+         "ann_502_ad_20",
+         "ann_505_ad_20",
+         "ann_511_ad_20"
+      ],
+      "fullName": "Pamela H. Smith",
+      "firstName": "Pamela H.",
+      "lastName": "Smith",
+      "year": "",
+      "semester": "",
+      "authorType": "Director, Making and Knowing Project and Seth Low Professor of History, Columbia University",
+      "degree": "",
+      "yearAtTime": "",
+      "department": "",
+      "subField": ""
+   },
+   "author_070": {
+      "id": "author_070",
+      "annotations": [
+         "ann_301_ie_19"
+      ],
+      "fullName": "Clément Godbarge",
+      "firstName": "Clément",
+      "lastName": "Godbarge",
+      "year": "",
+      "semester": "",
+      "authorType": "Making and Knowing Project Postdoctoral Scholar, Columbia University (2019–20)",
+      "degree": "",
+      "yearAtTime": "",
+      "department": "",
+      "subField": ""
+   },
+   "author_071": {
+      "id": "author_071",
+      "annotations": [
+         "ann_302_ie_19",
+         "ann_303_ie_19"
+      ],
+      "fullName": "Tillmann Taape",
+      "firstName": "Tillmann",
+      "lastName": "Taape",
+      "year": "",
+      "semester": "",
+      "authorType": "Making and Knowing Project Postdoctoral Scholar, Columbia University (2017–20)",
+      "degree": "",
+      "yearAtTime": "",
+      "department": "",
+      "subField": ""
+   },
+   "author_072": {
+      "id": "author_072",
+      "annotations": [
+         "ann_304_ie_19",
+         "ann_516_ad_20",
+         "ann_517_ad_20"
+      ],
+      "fullName": "Tianna Helena Uchacz",
+      "firstName": "Tianna Helena",
+      "lastName": "Uchacz",
+      "year": "",
+      "semester": "",
+      "authorType": "Assistant Professor, Texas A&M University, formerly Making and Knowing Project Postdoctoral Scholar, Columbia University (2016–2020)",
+      "degree": "",
+      "yearAtTime": "",
+      "department": "",
+      "subField": ""
+   },
+   "author_073": {
+      "id": "author_073",
+      "annotations": [
+         "ann_305_ie_19"
+      ],
+      "fullName": "Donna Bilak",
+      "firstName": "Donna",
+      "lastName": "Bilak",
+      "year": "",
+      "semester": "",
+      "authorType": "Director and Founder of Twelve Keys Consultancy and Design; Making and Knowing Postdoctoral Scholar, Columbia University (2014–2017)",
+      "degree": "",
+      "yearAtTime": "",
+      "department": "",
+      "subField": ""
+   },
+   "author_074": {
+      "id": "author_074",
+      "annotations": [
+         "ann_306_ie_19"
+      ],
+      "fullName": "Marjolijn Bol",
+      "firstName": "Marjolijn",
+      "lastName": "Bol",
+      "year": "",
+      "semester": "",
+      "authorType": "Associate Professor, Technical Art History, Utrecht University",
+      "degree": "",
+      "yearAtTime": "",
+      "department": "",
+      "subField": ""
+   },
+   "author_075": {
+      "id": "author_075",
+      "annotations": [
+         "ann_307_ie_19"
+      ],
+      "fullName": "Jenny Boulboullé",
+      "firstName": "Jenny",
+      "lastName": "Boulboullé",
+      "year": "",
+      "semester": "",
+      "authorType": "Postdoctoral Researcher, Utrecht University; Making and Knowing Postdoctoral Scholar, Columbia University (2014–2016)",
+      "degree": "",
+      "yearAtTime": "",
+      "department": "",
+      "subField": ""
+   },
+   "author_076": {
+      "id": "author_076",
+      "annotations": [
+         "ann_307_ie_19"
+      ],
+      "fullName": "Maartje Stols-Witlox",
+      "firstName": "Maartje",
+      "lastName": "Stols-Witlox",
+      "year": "",
+      "semester": "",
+      "authorType": "Assistant Professor Paintings Conservation, University of Amsterdam",
+      "degree": "",
+      "yearAtTime": "",
+      "department": "",
+      "subField": ""
+   },
+   "author_077": {
+      "id": "author_077",
+      "annotations": [
+         "ann_308_ie_19"
+      ],
+      "fullName": "Jonathan Tavares",
+      "firstName": "Jonathan",
+      "lastName": "Tavares",
+      "year": "",
+      "semester": "",
+      "authorType": "Associate Curator of Arms, Armor and European Decorative Arts before 1700, Art Institute of Chicago",
+      "degree": "",
+      "yearAtTime": "",
+      "department": "",
+      "subField": ""
+   },
+   "author_078": {
+      "id": "author_078",
+      "annotations": [
+         "ann_309_ie_19"
+      ],
+      "fullName": "Pascal Brioist",
+      "firstName": "Pascal",
+      "lastName": "Brioist",
+      "year": "",
+      "semester": "",
+      "authorType": "Professor of History, University of Tours",
+      "degree": "",
+      "yearAtTime": "",
+      "department": "",
+      "subField": ""
+   },
+   "author_079": {
+      "id": "author_079",
+      "annotations": [
+         "ann_310_ie_19",
+         "ann_311_ie_19"
+      ],
+      "fullName": "Terry Catapano",
+      "firstName": "Terry",
+      "lastName": "Catapano",
+      "year": "",
+      "semester": "",
+      "authorType": "Digital Publications Manager, University of California, Berkeley; Making and Knowing Project Digital Lead",
+      "degree": "",
+      "yearAtTime": "",
+      "department": "",
+      "subField": ""
+   },
+   "author_080": {
+      "id": "author_080",
+      "annotations": [
+         "ann_310_ie_19",
+         "ann_311_ie_19",
+         "ann_517_ad_20"
+      ],
+      "fullName": "Naomi Rosenkranz",
+      "firstName": "Naomi",
+      "lastName": "Rosenkranz",
+      "year": "",
+      "semester": "",
+      "authorType": "Assistant Director, Making and Knowing Project, Columbia University",
+      "degree": "",
+      "yearAtTime": "",
+      "department": "",
+      "subField": ""
+   },
+   "author_081": {
+      "id": "author_081",
+      "annotations": [
+         "ann_312_ie_19",
+         "ann_313_ie_19",
+         "ann_314_ie_19",
+         "ann_316_ie_19",
+         "ann_332_ie_19"
+      ],
+      "fullName": "Colin Debuiche",
+      "firstName": "Colin",
+      "lastName": "Debuiche",
+      "year": "",
+      "semester": "",
+      "authorType": "Lecturer in History of Modern Architecture, University of Rennes 2; Making and Knowing Project Gerda Henkel Postdoctoral Scholar (2017–18)",
+      "degree": "",
+      "yearAtTime": "",
+      "department": "",
+      "subField": ""
+   },
+   "author_082": {
+      "id": "author_082",
+      "annotations": [
+         "ann_312_ie_19",
+         "ann_315_ie_19",
+         "ann_317_ie_19",
+         "ann_332_ie_19",
+         "ann_333_ie_19"
+      ],
+      "fullName": "Sarah Muñoz",
+      "firstName": "Sarah",
+      "lastName": "Muñoz",
+      "year": "",
+      "semester": "",
+      "authorType": "Assistant Professor of Art History, University of Lausanne; Making and Knowing Project Gerda Henkel Postdoctoral Scholar (2018–20)",
+      "degree": "",
+      "yearAtTime": "",
+      "department": "",
+      "subField": ""
+   },
+   "author_083": {
+      "id": "author_083",
+      "annotations": [
+         "ann_318_ie_19"
+      ],
+      "fullName": "Soersha Dyon",
+      "firstName": "Soersha",
+      "lastName": "Dyon",
+      "year": "",
+      "semester": "",
+      "authorType": "PhD Student, École pratique des hautes études; Making and Knowing Project Senior Translator",
+      "degree": "",
+      "yearAtTime": "",
+      "department": "",
+      "subField": ""
+   },
+   "author_084": {
+      "id": "author_084",
+      "annotations": [
+         "ann_318_ie_19"
+      ],
+      "fullName": "Heather Wacha",
+      "firstName": "Heather",
+      "lastName": "Wacha",
+      "year": "",
+      "semester": "",
+      "authorType": "CLIR Postdoctoral Fellow, University of Wisconsin-Madison; Making and Knowing Project Senior Translator",
+      "degree": "",
+      "yearAtTime": "",
+      "department": "",
+      "subField": ""
+   },
+   "author_085": {
+      "id": "author_085",
+      "annotations": [
+         "ann_319_ie_19"
+      ],
+      "fullName": "Erma Hermens",
+      "firstName": "Erma",
+      "lastName": "Hermens",
+      "year": "",
+      "semester": "",
+      "authorType": "Director, Hamilton Kerr Institute; Deputy Director, Conservation and Heritage Science, Fitzwilliam Museum, University of Cambridge",
+      "degree": "",
+      "yearAtTime": "",
+      "department": "",
+      "subField": ""
+   },
+   "author_086": {
+      "id": "author_086",
+      "annotations": [
+         "ann_320_ie_19",
+         "ann_330_ie_19",
+         "ann_331_ie_19"
+      ],
+      "fullName": "Vera Keller",
+      "firstName": "Vera",
+      "lastName": "Keller",
+      "year": "",
+      "semester": "",
+      "authorType": "Associate Professor of History, University of Oregon",
+      "degree": "",
+      "yearAtTime": "",
+      "department": "",
+      "subField": ""
+   },
+   "author_087": {
+      "id": "author_087",
+      "annotations": [
+         "ann_321_ie_19"
+      ],
+      "fullName": "Jo Kirby",
+      "firstName": "Jo",
+      "lastName": "Kirby",
+      "year": "",
+      "semester": "",
+      "authorType": "Retired Senior Scientific Officer, National Gallery, London",
+      "degree": "",
+      "yearAtTime": "",
+      "department": "",
+      "subField": ""
+   },
+   "author_088": {
+      "id": "author_088",
+      "annotations": [
+         "ann_321_ie_19"
+      ],
+      "fullName": "Marika Spring",
+      "firstName": "Marika",
+      "lastName": "Spring",
+      "year": "",
+      "semester": "",
+      "authorType": "Head of Science, National Gallery, London",
+      "degree": "",
+      "yearAtTime": "",
+      "department": "",
+      "subField": ""
+   },
+   "author_089": {
+      "id": "author_089",
+      "annotations": [
+         "ann_322_ie_19"
+      ],
+      "fullName": "Joel Klein",
+      "firstName": "Joel",
+      "lastName": "Klein",
+      "year": "",
+      "semester": "",
+      "authorType": "Molina Curator for the History of Medicine and Allied Sciences, The Huntington Library; Making and Knowing Postdoctoral Scholar, Columbia University (2014–2017)",
+      "degree": "",
+      "yearAtTime": "",
+      "department": "",
+      "subField": ""
+   },
+   "author_090": {
+      "id": "author_090",
+      "annotations": [
+         "ann_323_ie_19"
+      ],
+      "fullName": "Doris Oltrogge",
+      "firstName": "Doris",
+      "lastName": "Oltrogge",
+      "year": "",
+      "semester": "",
+      "authorType": "Researcher, Technical University of Cologne",
+      "degree": "",
+      "yearAtTime": "",
+      "department": "",
+      "subField": ""
+   },
+   "author_091": {
+      "id": "author_091",
+      "annotations": [
+         "ann_324_ie_19"
+      ],
+      "fullName": "Richard Oosterhoff",
+      "firstName": "Richard",
+      "lastName": "Oosterhoff",
+      "year": "",
+      "semester": "",
+      "authorType": "Lecturer in History, University of Edinburgh",
+      "degree": "",
+      "yearAtTime": "",
+      "department": "",
+      "subField": ""
+   },
+   "author_092": {
+      "id": "author_092",
+      "annotations": [
+         "ann_325_ie_19"
+      ],
+      "fullName": "Sophie Pitman",
+      "firstName": "Sophie",
+      "lastName": "Pitman",
+      "year": "",
+      "semester": "",
+      "authorType": "Postdoctoral Researcher, Aalto University; Making and Knowing Postdoctoral Scholar, Columbia University (2017-18)",
+      "degree": "",
+      "yearAtTime": "",
+      "department": "",
+      "subField": ""
+   },
+   "author_093": {
+      "id": "author_093",
+      "annotations": [
+         "ann_326_ie_19"
+      ],
+      "fullName": "Marc Smith",
+      "firstName": "Marc",
+      "lastName": "Smith",
+      "year": "",
+      "semester": "",
+      "authorType": "Professor of Medieval and Modern Paleography, École nationale des chartes; Making and Knowing Project Lead Paleographer",
+      "degree": "",
+      "yearAtTime": "",
+      "department": "",
+      "subField": ""
+   },
+   "author_094": {
+      "id": "author_094",
+      "annotations": [
+         "ann_327_ie_19"
+      ],
+      "fullName": "Sietske Fransen",
+      "firstName": "Sietske",
+      "lastName": "Fransen",
+      "year": "",
+      "semester": "",
+      "authorType": "Head of Max Planck Research Group \"Visualizing Science in Media Revolutions,\" Bibliotheca Hertziana - Max Planck Institute for Art History",
+      "degree": "",
+      "yearAtTime": "",
+      "department": "",
+      "subField": ""
+   },
+   "author_095": {
+      "id": "author_095",
+      "annotations": [
+         "ann_328_ie_19"
+      ],
+      "fullName": "Alexis Hagadorn",
+      "firstName": "Alexis",
+      "lastName": "Hagadorn",
+      "year": "",
+      "semester": "",
+      "authorType": "Head of Conservation, Columbia University Libraries",
+      "degree": "",
+      "yearAtTime": "",
+      "department": "",
+      "subField": ""
+   },
+   "author_096": {
+      "id": "author_096",
+      "annotations": [
+         "ann_334_ie_19"
+      ],
+      "fullName": "Tonny Beentjes",
+      "firstName": "Tonny",
+      "lastName": "Beentjes",
+      "year": "",
+      "semester": "",
+      "authorType": "Head of Metal Conservation Programme, University of  Amsterdam",
+      "degree": "",
+      "yearAtTime": "",
+      "department": "",
+      "subField": ""
+   },
+   "author_097": {
+      "id": "author_097",
+      "annotations": [
+         "ann_335_ie_19"
+      ],
+      "fullName": "Margot Lyautey",
+      "firstName": "Margot",
+      "lastName": "Lyautey",
+      "year": "",
+      "semester": "",
+      "authorType": "EHESS and the Eberhard Karls University of Tübingen Student",
+      "degree": "PhD",
+      "yearAtTime": "",
+      "department": "",
+      "subField": ""
+   },
+   "author_098": {
+      "id": "author_098",
+      "annotations": [
+         "ann_500_ad_20"
+      ],
+      "fullName": "Béla Demeter",
+      "firstName": "Béla",
+      "lastName": "Demeter",
+      "year": "",
+      "semester": "",
+      "authorType": "Reptile Keeper, National Zoo, Emeritus; Docent, National Gallery of Art, Washington DC",
+      "degree": "",
+      "yearAtTime": "",
+      "department": "",
+      "subField": ""
+   },
+   "author_099": {
+      "id": "author_099",
+      "annotations": [
+         "ann_501_ad_20"
+      ],
+      "fullName": "Andrew Lacey",
+      "firstName": "Andrew",
+      "lastName": "Lacey",
+      "year": "",
+      "semester": "",
+      "authorType": "Artist/Founder and Independent Scholar",
+      "degree": "",
+      "yearAtTime": "",
+      "department": "",
+      "subField": ""
+   },
+   "author_100": {
+      "id": "author_100",
+      "annotations": [
+         "ann_502_ad_20"
+      ],
+      "fullName": "Divya Anantharaman",
+      "firstName": "Divya",
+      "lastName": "Anantharaman",
+      "year": "",
+      "semester": "",
+      "authorType": "Taxidermist, Gotham Taxidermy",
+      "degree": "",
+      "yearAtTime": "",
+      "department": "",
+      "subField": ""
+   },
+   "author_101": {
+      "id": "author_101",
+      "annotations": [
+         "ann_503_ad_20"
+      ],
+      "fullName": "Pascal Julien",
+      "firstName": "Pascal",
+      "lastName": "Julien",
+      "year": "",
+      "semester": "",
+      "authorType": "Professeur des Universités, Histoire de l'art et archéologie, Université Toulouse - Jean Jaurès",
+      "degree": "",
+      "yearAtTime": "",
+      "department": "",
+      "subField": ""
+   },
+   "author_102": {
+      "id": "author_102",
+      "annotations": [
+         "ann_504_ad_20",
+         "ann_599_ad_20"
+      ],
+      "fullName": "Fabien Noirot",
+      "firstName": "Fabien",
+      "lastName": "Noirot",
+      "year": "",
+      "semester": "",
+      "authorType": "École du Louvre Student",
+      "degree": "PhD",
+      "yearAtTime": "",
+      "department": "",
+      "subField": ""
+   },
+   "author_103": {
+      "id": "author_103",
+      "annotations": [
+         "ann_505_ad_20\n",
+         "ann_506_ad_20",
+         "\nann_507_ad_20"
+      ],
+      "fullName": "Emily Boyd",
+      "firstName": "Emily",
+      "lastName": "Boyd",
+      "year": "2014",
+      "semester": "Fall",
+      "authorType": "Columbia University Student",
+      "degree": "MA",
+      "yearAtTime": "",
+      "department": "Medieval and Renaissance Studies",
+      "subField": ""
+   },
+   "author_104": {
+      "id": "author_104",
+      "annotations": [
+         "ann_505_ad_20\n",
+         "ann_506_ad_20",
+         "\nann_507_ad_20"
+      ],
+      "fullName": "Jef Palframan",
+      "firstName": "Jef",
+      "lastName": "Palframan",
+      "year": "2014",
+      "semester": "Fall",
+      "authorType": "Columbia University Student",
+      "degree": "MA",
+      "yearAtTime": "",
+      "department": "Medieval and Renaissance Studies",
+      "subField": "Medieval and Renaissance Studies"
+   },
+   "author_105": {
+      "id": "author_105",
+      "annotations": [
+         "ann_508_ad_20"
+      ],
+      "fullName": "Michaela Groeneveld",
+      "firstName": "Michaela",
+      "lastName": "Groeneveld",
+      "year": "2015",
+      "semester": "Spring",
+      "authorType": "University of Amsterdam Student",
+      "degree": "MA",
+      "yearAtTime": "",
+      "department": "Conservation and Restoration of Cultural Heritage, Metal",
+      "subField": ""
+   },
+   "author_106": {
+      "id": "author_106",
+      "annotations": [
+         "ann_508_ad_20"
+      ],
+      "fullName": "Marianne Nuij",
+      "firstName": "Marianne",
+      "lastName": "Nuij",
+      "year": "2015",
+      "semester": "Spring",
+      "authorType": "University of Amsterdam Student",
+      "degree": "MA",
+      "yearAtTime": "",
+      "department": "Conservation and Restoration of Cultural Heritage, Metal",
+      "subField": ""
+   },
+   "author_107": {
+      "id": "author_107",
+      "annotations": [
+         "ann_509_ad_20"
+      ],
+      "fullName": "Elisabeth Kuiper",
+      "firstName": "Elisabeth",
+      "lastName": "Kuiper",
+      "year": "2015",
+      "semester": "Spring",
+      "authorType": "University of Amsterdam Student",
+      "degree": "MA",
+      "yearAtTime": "",
+      "department": "Conservation and Restoration of Cultural Heritage, Metal",
+      "subField": ""
+   },
+   "author_108": {
+      "id": "author_108",
+      "annotations": [
+         "ann_509_ad_20"
+      ],
+      "fullName": "Ingeborg Kroon",
+      "firstName": "Ingeborg",
+      "lastName": "Kroon",
+      "year": "2015",
+      "semester": "Spring",
+      "authorType": "University of Amsterdam Student",
+      "degree": "MA",
+      "yearAtTime": "",
+      "department": "Conservation and Restoration of Cultural Heritage, Metal",
+      "subField": ""
+   },
+   "author_109": {
+      "id": "author_109",
+      "annotations": [
+         "ann_510_ad_20"
+      ],
+      "fullName": "Darren McFarlane",
+      "firstName": "Darren",
+      "lastName": "McFarlane",
+      "year": "2015",
+      "semester": "Spring",
+      "authorType": "University of Glasgow Student",
+      "degree": "Master of Letters",
+      "yearAtTime": "",
+      "department": "Technical Art History, School of Culture and Creative Arts.",
+      "subField": ""
+   },
+   "author_110": {
+      "id": "author_110",
+      "annotations": [
+         "ann_511_ad_20"
+      ],
+      "fullName": "The Making and Knowing Project",
+      "firstName": "",
+      "lastName": "",
+      "year": "2017",
+      "semester": "",
+      "authorType": "Columbia University",
+      "degree": "",
+      "yearAtTime": "",
+      "department": "",
+      "subField": ""
+   },
+   "author_111": {
+      "id": "author_111",
+      "annotations": [
+         "ann_512_ad_20"
+      ],
+      "fullName": "Sayantani Mukherjee",
+      "firstName": "Sayantani",
+      "lastName": "Mukherjee",
+      "year": "2015",
+      "semester": "Fall",
+      "authorType": "Columbia University Student",
+      "degree": "PhD",
+      "yearAtTime": "1st  Year",
+      "department": "History",
+      "subField": ""
+   },
+   "author_112": {
+      "id": "author_112",
+      "annotations": [
+         "ann_513_ad_20"
+      ],
+      "fullName": "Victoria and Albert-Royal College of Art Students",
+      "firstName": "",
+      "lastName": "",
+      "year": "2016",
+      "semester": "",
+      "authorType": "",
+      "degree": "MA",
+      "yearAtTime": "",
+      "department": "History of Design",
+      "subField": ""
+   },
+   "author_113": {
+      "id": "author_113",
+      "annotations": [
+         "ann_514_ad_20"
+      ],
+      "fullName": "Michael Price",
+      "firstName": "Michael",
+      "lastName": "Price",
+      "year": "",
+      "semester": "",
+      "authorType": "Independent Scholar",
+      "degree": "",
+      "yearAtTime": "",
+      "department": "",
+      "subField": ""
+   },
+   "author_114": {
+      "id": "author_114",
+      "annotations": [
+         "ann_515_ad_20"
+      ],
+      "fullName": "David McClure",
+      "firstName": "David",
+      "lastName": "McClure",
+      "year": "2015",
+      "semester": "Fall",
+      "authorType": "Columbia University Student",
+      "degree": "PhD",
+      "yearAtTime": "1st  Year",
+      "department": "East Asian Languages and Cultures - History",
+      "subField": ""
+   },
+   "author_115": {
+      "id": "author_115",
+      "annotations": [
+         "ann_516_ad_20"
+      ],
+      "fullName": "Ariane van Buren",
+      "firstName": "Ariane",
+      "lastName": "van Buren",
+      "year": "2017",
+      "semester": "Spring",
+      "authorType": "Columbia University Student",
+      "degree": "",
+      "yearAtTime": "",
+      "department": "School of Professional Studies",
+      "subField": ""
+   },
+   "author_116": {
+      "id": "author_116",
+      "annotations": [
+         "ann_501_ad_20"
+      ],
+      "fullName": "Siân Lewis",
+      "firstName": "Siân",
+      "lastName": "Lewis",
+      "year": "",
+      "semester": "",
+      "authorType": "Video Artist",
+      "degree": "",
+      "yearAtTime": "",
+      "department": "",
+      "subField": ""
+   }
+}
