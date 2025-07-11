@@ -1,280 +1,380 @@
-BROKEN LINKS CHECK IN PROGRESS (PARALLEL)
-==================================================
-
-BROKEN URL: https://www.bncf.firenze.sbn.it/oldWeb/Bib_digitale/Manoscritti/II.141/main.htm [None: HTTPSConnectionPool(host='www.bncf.firenze.sbn.it', port=443): Max retries exceeded with url: /oldWeb/Bib_digitale/Manoscritti/II.141/main.htm (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1028)')))]
-BROKEN URL: https://www.oreilly.com/library/view/sustainable-web-design/9781098128807/ [404: Not Found]
-
-Progress: Completed 1/191 batches, found 2 broken URLs
-BROKEN URL: http://www.tate.org.uk/research/publications/tate-papers/07/historically-accurate-reconstructions-of-artists-oil-painting-materials [404: Not Found]
-
-Progress: Completed 2/191 batches, found 3 broken URLs
-BROKEN URL: http://www.jstor.org/stable/25099452 [403: Forbidden]
-BROKEN URL: https://fieldnotes.makingandknowing.org/pre-2018-Fall/sp15_fld_boulboulle_jenny_toulouse-sand-2015.html [404: Not Found]
-
-Progress: Completed 3/191 batches, found 5 broken URLs
-
-Progress: Completed 4/191 batches, found 5 broken URLs
-BROKEN URL: http://www.agilemanifesto.org/ [None: HTTPConnectionPool(host='www.agilemanifesto.org', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x107363460>: Failed to resolve 'www.agilemanifesto.org' ([Errno 8] nodename nor servname provided, or not known)"))]
-
-Progress: Completed 5/191 batches, found 6 broken URLs
-
-Progress: Completed 6/191 batches, found 6 broken URLs
-BROKEN URL: http://infohouse.p2ric.org/ref/05/04013.pdf [None: HTTPConnectionPool(host='infohouse.p2ric.org', port=80): Max retries exceeded with url: /ref/05/04013.pdf (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x107362e00>: Failed to resolve 'infohouse.p2ric.org' ([Errno 8] nodename nor servname provided, or not known)"))]
-
-Progress: Completed 7/191 batches, found 7 broken URLs
-BROKEN URL: http://www.hps.cam.ac.uk/visibleembryos/s1_2.html# [404: Not Found]
-BROKEN URL: https://fieldnotes.makingandknowing.org/pre-2018-Fall/sp18_rosenkranz-uchacz_naomi-tianna_varnishes-in-the-rain/sp18_rosenkranz-uchacz_naomi-tianna_varnishes-rain-2/sp18_rosenkranz-uchacz_naomi-tianna_varnishes-rain-2-varnish-making-application.html [404: Not Found]
-
-Progress: Completed 8/191 batches, found 9 broken URLs
-BROKEN URL: https://www.gia.edu/doc/SU91A1.pdf [403: Forbidden]
-
-Progress: Completed 9/191 batches, found 10 broken URLs
-
-Progress: Completed 10/191 batches, found 10 broken URLs
-
-Progress: Completed 11/191 batches, found 10 broken URLs
-
-Progress: Completed 12/191 batches, found 10 broken URLs
-BROKEN URL: https://www.britishmuseum.org/collection/object/W_1929-0715-1 [403: Forbidden]
-
-Progress: Completed 13/191 batches, found 11 broken URLs
-
-Progress: Completed 14/191 batches, found 11 broken URLs
-
-Progress: Completed 15/191 batches, found 11 broken URLs
-
-Progress: Completed 16/191 batches, found 11 broken URLs
-BROKEN URL: https://arb.mpiwg-berlin.mpg.de/ [None: HTTPSConnectionPool(host='arb.mpiwg-berlin.mpg.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'arb.mpiwg-berlin.mpg.de'. (_ssl.c:1028)")))]
-
-Progress: Completed 17/191 batches, found 12 broken URLs
-BROKEN URL: https://doi.org/10.2307/4125722 [403: Forbidden]
-
-Progress: Completed 18/191 batches, found 13 broken URLs
-
-Progress: Completed 19/191 batches, found 13 broken URLs
-BROKEN URL: https://www.drupal.org/home [403: Forbidden]
-
-Progress: Completed 20/191 batches, found 14 broken URLs
-BROKEN URL: https://doi.org//10.2307/1005932 [403: Forbidden]
-
-Progress: Completed 21/191 batches, found 15 broken URLs
-
-Progress: Completed 22/191 batches, found 15 broken URLs
-BROKEN URL: http://fieldnotes.makingandknowing.org/mainSpace/papier%20mache%20annotation%20diary.html [404: Not Found]
-
-Progress: Completed 23/191 batches, found 16 broken URLs
-BROKEN URL: http://www.mhs.ox.ac.uk/object/inv/23312 [403: Forbidden]
-
-Progress: Completed 24/191 batches, found 17 broken URLs
-
-Progress: Completed 25/191 batches, found 17 broken URLs
-
-Progress: Completed 26/191 batches, found 17 broken URLs
-BROKEN URL: https://www.jstor.org/stable/41337259 [403: Forbidden]
-
-Progress: Completed 27/191 batches, found 18 broken URLs
-
-Progress: Completed 28/191 batches, found 18 broken URLs
-
-Progress: Completed 29/191 batches, found 18 broken URLs
-
-Progress: Completed 30/191 batches, found 18 broken URLs
-
-Progress: Completed 31/191 batches, found 18 broken URLs
-BROKEN URL: https://research.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=61219&partId=1 [None: HTTPSConnectionPool(host='research.britishmuseum.org', port=443): Max retries exceeded with url: /research/collection_online/collection_object_details.aspx?objectId=61219&partId=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10749b9d0>: Failed to resolve 'research.britishmuseum.org' ([Errno 8] nodename nor servname provided, or not known)"))]
-
-Progress: Completed 32/191 batches, found 19 broken URLs
-BROKEN URL: http://www.lutesociety.org/pages/building-lute-original-methods [500: Internal Server Error]
-
-Progress: Completed 33/191 batches, found 20 broken URLs
-BROKEN URL: http://www.jstor.org/stable/30200491 [403: Forbidden]
-
-Progress: Completed 34/191 batches, found 21 broken URLs
-
-Progress: Completed 35/191 batches, found 21 broken URLs
-BROKEN URL: https://www.performantsoftware.com/projects/ [404: Not Found]
-BROKEN URL: https://gallica.bnf.fr/ark:/12148/bpt6k110190t [500: 500]
-
-Progress: Completed 36/191 batches, found 23 broken URLs
-BROKEN URL: https://tube.switch.ch/videos/1c6d6f84 [404: Not Found]
-
-Progress: Completed 37/191 batches, found 24 broken URLs
-
-Progress: Completed 38/191 batches, found 24 broken URLs
-
-Progress: Completed 39/191 batches, found 24 broken URLs
-
-Progress: Completed 40/191 batches, found 24 broken URLs
-BROKEN URL: http://www.khm.at/en/object/3de568f859/ [None: HTTPSConnectionPool(host='www.khm.at', port=443): Read timed out. (read timeout=10)]
-
-Progress: Completed 41/191 batches, found 25 broken URLs
-BROKEN URL: http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Sloane_MS_2052 [404: Not Found]
-
-Progress: Completed 42/191 batches, found 26 broken URLs
-
-Progress: Completed 43/191 batches, found 26 broken URLs
-BROKEN URL: http://www.history.org/foundation/journal/winter03-04/pipes.cfm [404: Not Found]
-
-Progress: Completed 44/191 batches, found 27 broken URLs
-BROKEN URL: http://bibliotheque-numerique.inha.fr/idurl/1/36089 [404: Not Found]
-BROKEN URL: http://www.jstor.org/stable/4130476 [403: Forbidden]
-
-Progress: Completed 45/191 batches, found 29 broken URLs
-BROKEN URL: http://fieldnotes.makingandknowing.org/pre-2018-Fall/su08_fld_smith_pamela_plant-crayfish-casting-washington-dc-williamsburg.html [404: Not Found]
-
-Progress: Completed 46/191 batches, found 30 broken URLs
-BROKEN URL: http://www.khm.at/de/object/5677588792/ [404: Not Found]
-
-Progress: Completed 47/191 batches, found 31 broken URLs
-
-Progress: Completed 48/191 batches, found 31 broken URLs
-
-Progress: Completed 49/191 batches, found 31 broken URLs
-
-Progress: Completed 50/191 batches, found 31 broken URLs
-BROKEN URL: http://fieldnotes.makingandknowing.org/mainSpace/magistry%2C%2084r.html [404: Not Found]
-BROKEN URL: http://www.nationalgallery.org.uk/paintings/research/meaning-of-making/vermeer-and-technique/vermeers-palette#yellowlake [404: ]
-
-Progress: Completed 51/191 batches, found 33 broken URLs
-BROKEN URL: http://fieldnotes.makingandknowing.org/mainSpace/ox%20bone%20and%20elm%20root%20sand%20f.84v.html [404: Not Found]
-
-Progress: Completed 52/191 batches, found 34 broken URLs
-
-Progress: Completed 53/191 batches, found 34 broken URLs
-
-Progress: Completed 54/191 batches, found 34 broken URLs
-BROKEN URL: https://fieldnotes.makingandknowing.org/pre-2018-Fall/sp18_rosenkranz-uchacz_naomi-tianna_varnishes-in-the-rain/sp18_rosenkranz-uchacz_naomi-tianna_varnishes-rain-3/sp18_rosenkranz-uchacz_naomi-tianna_varnishes-rain-3-testing-rain.html [404: Not Found]
-
-Progress: Completed 55/191 batches, found 35 broken URLs
-
-Progress: Completed 56/191 batches, found 35 broken URLs
-
-Progress: Completed 57/191 batches, found 35 broken URLs
-BROKEN URL: http://www.jstor.org/stable/751542 [403: Forbidden]
-
-Progress: Completed 58/191 batches, found 36 broken URLs
-BROKEN URL: https://www.britishmuseum.org/collection/object/W_1878-1230-699 [403: Forbidden]
-
-Progress: Completed 59/191 batches, found 37 broken URLs
-BROKEN URL: http://www.iranicaonline.org/articles/atr-perfume [None: HTTPSConnectionPool(host='www.iranicaonline.org', port=443): Read timed out. (read timeout=10)]
-
-Progress: Completed 60/191 batches, found 38 broken URLs
-BROKEN URL: http://homes.chass.utoronto.ca/~wulfric/nicot/ [None: HTTPConnectionPool(host='homes.chass.utoronto.ca', port=80): Max retries exceeded with url: /~wulfric/nicot/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x1073629c0>, 'Connection to homes.chass.utoronto.ca timed out. (connect timeout=10)'))]
-
-Progress: Completed 61/191 batches, found 39 broken URLs
-BROKEN URL: https://www.risd.edu/news/stories/art-alchemy/ [403: Forbidden]
-BROKEN URL: http://fieldnotes.makingandknowing.org/mainSpace/ox%20bone%20and%20rock%20salt%2C%2089r.html [404: Not Found]
-BROKEN URL: https://fieldnotes.makingandknowing.org/pre-2018-Fall/fa17_fld_mk_team_lifecasting-mk-wax-sprues-gates/fa17_fld_mk_team_lifecasting-mk-wax-sprues-gates.html [404: Not Found]
-BROKEN URL: http://portail.atilf.fr/cgi-bin/getobject_?a.7:383:1./var/artfla/encyclopedie/textdata/image/ [500: Internal Server Error]
-
-Progress: Completed 62/191 batches, found 43 broken URLs
-
-Progress: Completed 63/191 batches, found 43 broken URLs
-BROKEN URL: https://www.britishmuseum.org/collection/object/H_1958-1202-1 [403: Forbidden]
-
-Progress: Completed 64/191 batches, found 44 broken URLs
-
-Progress: Completed 65/191 batches, found 44 broken URLs
-BROKEN URL: http://cool.conservation-us.org/coolaic/sg/bpg/annual/v25/bp25-03.pdf [404: Not Found]
-BROKEN URL: http://collections.gla.ac.uk/#/details/ecatalogue/265679 [None: HTTPConnectionPool(host='collections.gla.ac.uk', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x1073638a0>, 'Connection to collections.gla.ac.uk timed out. (connect timeout=10)'))]
-
-Progress: Completed 66/191 batches, found 46 broken URLs
-BROKEN URL: https://www.britishmuseum.org/collection/object/H_1892-0501-1 [403: Forbidden]
-BROKEN URL: http://www.ksbm.oeaw.ac.at/_scripts/php/BR.php [404: Not Found]
-
-Progress: Completed 67/191 batches, found 48 broken URLs
-BROKEN URL: http://www.jstor.org/stable/1505860 [403: Forbidden]
-BROKEN URL: https://player.vimeo.com/video/135551089 [401: Unauthorized]
-
-Progress: Completed 68/191 batches, found 50 broken URLs
-BROKEN URL: https://www.historicfood.com/The%20Art%20of%20Confectionery.pdf [None: HTTPSConnectionPool(host='www.historicfood.com', port=443): Max retries exceeded with url: /The%20Art%20of%20Confectionery.pdf (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x107498910>: Failed to resolve 'www.historicfood.com' ([Errno 8] nodename nor servname provided, or not known)"))]
-
-Progress: Completed 69/191 batches, found 51 broken URLs
-
-Progress: Completed 70/191 batches, found 51 broken URLs
-
-Progress: Completed 71/191 batches, found 51 broken URLs
-BROKEN URL: http://bibliotheque-numerique.inha.fr/idurl/1/5365 [404: Not Found]
-
-Progress: Completed 72/191 batches, found 52 broken URLs
-BROKEN URL: https://www.kunera.nl/default.aspx [404: Not Found]
-
-Progress: Completed 73/191 batches, found 53 broken URLs
-
-Progress: Completed 74/191 batches, found 53 broken URLs
-
-Progress: Completed 75/191 batches, found 53 broken URLs
-
-Progress: Completed 76/191 batches, found 53 broken URLs
-
-Progress: Completed 77/191 batches, found 53 broken URLs
-
-Progress: Completed 78/191 batches, found 53 broken URLs
-BROKEN URL: http://portail.atilf.fr/cgi-bin/getobject_?p.66:46./var/artfla/encyclopedie/textdata/image/ [500: Internal Server Error]
-
-Progress: Completed 79/191 batches, found 54 broken URLs
-BROKEN URL: http://fieldnotes.makingandknowing.org/mainSpace/imitation%20Gemstone.html [404: Not Found]
-
-Progress: Completed 80/191 batches, found 55 broken URLs
-BROKEN URL: http://artflsrv02.uchicago.edu/cgi-bin/philologic/getobject.pl?c.4:134:2.encyclopedie0513 [None: HTTPConnectionPool(host='artflsrv02.uchicago.edu', port=80): Max retries exceeded with url: /cgi-bin/philologic/getobject.pl?c.4:134:2.encyclopedie0513 (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x107363460>: Failed to resolve 'artflsrv02.uchicago.edu' ([Errno 8] nodename nor servname provided, or not known)"))]
-
-Progress: Completed 81/191 batches, found 56 broken URLs
-BROKEN URL: http://bibliotecaestense.beniculturali.it/info/img/cat/i-mo-beu-stru-archeo-gamma.r.5.17.pdf [None: HTTPConnectionPool(host='bibliotecaestense.beniculturali.it', port=80): Max retries exceeded with url: /info/img/cat/i-mo-beu-stru-archeo-gamma.r.5.17.pdf (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x1073628b0>, 'Connection to bibliotecaestense.beniculturali.it timed out. (connect timeout=10)'))]
-
-Progress: Completed 82/191 batches, found 57 broken URLs
-
-Progress: Completed 83/191 batches, found 57 broken URLs
-
-Progress: Completed 84/191 batches, found 57 broken URLs
-BROKEN URL: http://vesalius.northwestern.edu/notes/ftFA.1.21.027.html [None: HTTPConnectionPool(host='vesalius.northwestern.edu', port=80): Max retries exceeded with url: /notes/ftFA.1.21.027.html (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x107361ae0>: Failed to resolve 'vesalius.northwestern.edu' ([Errno 8] nodename nor servname provided, or not known)"))]
-
-Progress: Completed 85/191 batches, found 58 broken URLs
-BROKEN URL: http://www.letteraturaitaliana.net/pdf/Volume_5/t115.pdf [None: HTTPConnectionPool(host='www.letteraturaitaliana.net', port=80): Max retries exceeded with url: /pdf/Volume_5/t115.pdf (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x1073606b0>, 'Connection to www.letteraturaitaliana.net timed out. (connect timeout=10)'))]
-
-Progress: Completed 86/191 batches, found 59 broken URLs
-
-Progress: Completed 87/191 batches, found 59 broken URLs
-BROKEN URL: https://www.britishmuseum.org/collection/object/C_G3-IP-127 [403: Forbidden]
-BROKEN URL: http://vesalius.northwestern.edu/index.html [None: HTTPConnectionPool(host='vesalius.northwestern.edu', port=80): Max retries exceeded with url: /index.html (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x107360c00>: Failed to resolve 'vesalius.northwestern.edu' ([Errno 8] nodename nor servname provided, or not known)"))]
-BROKEN URL: http://making-and-knowing.wikischolars.columbia.edu/papier%20mache%20annotation%20diary [None: HTTPConnectionPool(host='making-and-knowing.wikischolars.columbia.edu', port=80): Max retries exceeded with url: /papier%20mache%20annotation%20diary (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x1073605a0>: Failed to resolve 'making-and-knowing.wikischolars.columbia.edu' ([Errno 8] nodename nor servname provided, or not known)"))]
-
-Progress: Completed 88/191 batches, found 62 broken URLs
-
-Progress: Completed 89/191 batches, found 62 broken URLs
-
-Progress: Completed 90/191 batches, found 62 broken URLs
-
-Progress: Completed 91/191 batches, found 62 broken URLs
-
-Progress: Completed 92/191 batches, found 62 broken URLs
-BROKEN URL: https://fieldnotes.makingandknowing.org/pre-2018-Fall/fa17_fld_mk_team_lifecasting-burnout-and-pouring/fa17_fld_mk_team_lifecasting-burnout-and-pouring.html [404: Not Found]
-
-Progress: Completed 93/191 batches, found 63 broken URLs
-
-Progress: Completed 94/191 batches, found 63 broken URLs
-BROKEN URL: http://www2.scc.rutgers.edu/memdb/index.html [404: Not Found]
-
-Progress: Completed 95/191 batches, found 64 broken URLs
-
-Progress: Completed 96/191 batches, found 64 broken URLs
-
-Progress: Completed 97/191 batches, found 64 broken URLs
-
-Progress: Completed 98/191 batches, found 64 broken URLs
-BROKEN URL: https://hdl.handle.net/1813/7248 [None: HTTPSConnectionPool(host='ecommons.cornell.edu', port=443): Max retries exceeded with url: /handle/1813/7248 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)')))]
-
-Progress: Completed 99/191 batches, found 65 broken URLs
-BROKEN URL: http://fieldnotes.makingandknowing.org/mainSpace/gans-durkin%20sand%20casting.html [404: Not Found]
-BROKEN URL: https://doi.org/10.2307/1005932 [403: Forbidden]
-
-Progress: Completed 100/191 batches, found 67 broken URLs
-BROKEN URL: https://fieldnotes.makingandknowing.org/pre-2018-Fall/fa16_fld_klein-uchacz_joel-tianna_toulouse-sand-dec2016.html [404: Not Found]
-BROKEN URL: http://www.bl.uk/catalogues/illuminatedmanuscripts/ILLUMIN.ASP?Size=mid&IllID=58554 [404: Not Found]
-
-Progress: Completed 101/191 batches, found 69 broken URLs
-BROKEN URL: https://www.rijksmuseum.nl/en/collection/BK-17040-A [404: Not Found]
-
-Progress: Completed 102/191 batches, found 70 broken URLs
-BROKEN URL: http://fieldnotes.makingandknowing.org/pre-2018-Fall/su09_fld_smith_pamela_crayfish-molding-amsterdam.html [404: Not Found]
-
-Progress: Completed 103/191 batches, found 71 broken URLs
+================================================================================
+BROKEN LINKS AND MISSING FILES REPORT (WITH BROWSER HEADER TESTING)
+================================================================================
+
+ann_308_ie_19.html:
+  🔴 DEFINITELY BROKEN:
+    - [LINK] https://art.rmngp.fr/en/library/artworks/armure-de-henri-duc-de-guise_dore_fer-forge [404: Not Found]
+
+ann_025_fa_15.html:
+  🔴 DEFINITELY BROKEN:
+    - [LINK] http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Sloane_MS_2052 [404: Not Found]
+    - [LINK] http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Sloane_MS_2052 [404: Not Found]
+
+ann_516_ad_20.html:
+  🔴 DEFINITELY BROKEN:
+    - [LINK] https://doi.org/10.2307/4125722 [403: Forbidden]
+    - [LINK] http://www.mhs.ox.ac.uk/object/inv/23312 [403: Forbidden]
+    - [LINK] https://doi.org/10.2307/4125722 [403: Forbidden]
+
+ann_034_sp_16.html:
+  🔴 DEFINITELY BROKEN:
+    - [LINK] https://www.britishmuseum.org/collection/object/H_1892-0501-1 [403: Forbidden]
+
+ann_082_fa_15.html:
+  🔴 DEFINITELY BROKEN:
+    - [LINK] https://www.cmog.org/artwork/beaker-138 [403: Forbidden]
+    - [LINK] https://www.britishmuseum.org/collection/object/H_1958-1202-1 [403: Forbidden]
+    - [LINK] http://www.kremer-pigmente.com/media/files_public/58620_MSDS.pdf [403: Forbidden]
+    - [LINK] http://www.kremer-pigmente.com/media/files_public/42500_SHD_ENG.pdf [403: Forbidden]
+    - [LINK] https://www.risd.edu/news/stories/art-alchemy/ [403: Forbidden]
+    - [LINK] http://www.gia.edu/zircon-description [403: Forbidden]
+    - [LINK] https://research.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=61219&partId=1 [None: HTTPSConnectionPool(host='research.britishmuseum.org', port=443): Max retries exceeded with url: /research/collection_online/collection_object_details.aspx?objectId=61219&partId=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x103740e10>: Failed to resolve 'research.britishmuseum.org' ([Errno 8] nodename nor servname provided, or not known)"))]
+
+ann_028_fa_15.html:
+  🔴 DEFINITELY BROKEN:
+    - [LINK] http://www.personal.utulsa.edu/~marc-carlson/horn/hlant.html [None: HTTPConnectionPool(host='www.personal.utulsa.edu', port=80): Max retries exceeded with url: /~marc-carlson/horn/hlant.html (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x1035afac0>: Failed to resolve 'www.personal.utulsa.edu' ([Errno 8] nodename nor servname provided, or not known)"))]
+    - [LINK] http://www.personal.utulsa.edu/~marc-carlson/horn/hlant.html [None: HTTPConnectionPool(host='www.personal.utulsa.edu', port=80): Max retries exceeded with url: /~marc-carlson/horn/hlant.html (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x1035afac0>: Failed to resolve 'www.personal.utulsa.edu' ([Errno 8] nodename nor servname provided, or not known)"))]
+
+ann_305_ie_19.html:
+  🔴 DEFINITELY BROKEN:
+    - [LINK] https://doi.org/10.1080/00026980.2016.1213009 [403: Forbidden]
+    - [LINK] https://doi.org/10.1080/00026980.2016.1213009 [403: Forbidden]
+
+ann_039_sp_16.html:
+  🔴 DEFINITELY BROKEN:
+    - [LINK] https://doi.org/10.2307/25010602 [403: Forbidden]
+    - [LINK] https://doi.org/10.2307/2847412 [403: Forbidden]
+    - [LINK] https://doi.org/10.2307/1005932 [403: Forbidden]
+    - [LINK] https://doi.org//10.2307/25010602 [403: Forbidden]
+    - [LINK] https://doi.org//10.2307/1005932 [403: Forbidden]
+    - [LINK] https://doi.org/10.2307/2847412 [403: Forbidden]
+
+ann_042_sp_16.html:
+  🔴 DEFINITELY BROKEN:
+    - [LINK] http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Sloane_MS_2052 [404: Not Found]
+    - [LINK] https://doi.org/10.1002/jrs.1951 [403: Forbidden]
+
+ann_019_sp_15.html:
+  🔴 DEFINITELY BROKEN:
+    - [LINK] http://www.lutesociety.org/pages/building-lute-original-methods [500: Internal Server Error]
+    - [LINK] https://www.vam.ac.uk/blog/projects/filming-the-history-of-design-experimental-lab-class [404: Not Found]
+    - [LINK] http://www.lutesociety.org/pages/building-lute-original-methods [500: Internal Server Error]
+    - [LINK] https://www.vam.ac.uk/blog/projects/filming-the-history-of-design-experimental-lab-class [404: Not Found]
+
+ann_056_sp_17.html:
+  🔴 DEFINITELY BROKEN:
+    - [LINK] http://www.danerlewine.com/ [404: Not Found]
+
+ann_513_ad_20.html:
+  🔴 DEFINITELY BROKEN:
+    - [LINK] https://www.vam.ac.uk/blog/projects/filming-the-history-of-design-experimental-lab-class [404: Not Found]
+    - [LINK] https://www.vam.ac.uk/blog/projects/filming-the-history-of-design-experimental-lab-class [404: Not Found]
+
+ann_014_sp_15.html:
+  🔴 DEFINITELY BROKEN:
+    - [LINK] https://www.kunera.nl/default.aspx [404: Not Found]
+
+ann_326_ie_19.html:
+  🔴 DEFINITELY BROKEN:
+    - [LINK] http://www.ksbm.oeaw.ac.at/_scripts/php/BR.php [404: Not Found]
+    - [LINK] http://www.ksbm.oeaw.ac.at/_scripts/php/BR.php [404: Not Found]
+
+ann_321_ie_19.html:
+  🔴 DEFINITELY BROKEN:
+    - [LINK] http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Sloane_MS_2052 [404: Not Found]
+    - [LINK] https://doi.org/10.1017/S1431927615000094 [403: Forbidden]
+    - [LINK] http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Sloane_MS_2052 [404: Not Found]
+    - [LINK] https://doi.org/10.1017/S1431927615000094 [403: Forbidden]
+
+ann_036_sp_16.html:
+  🔴 DEFINITELY BROKEN:
+    - [LINK] http://artflsrv02.uchicago.edu/cgi-bin/philologic/getobject.pl?c.2:616.encyclopedie0513. [None: HTTPConnectionPool(host='artflsrv02.uchicago.edu', port=80): Max retries exceeded with url: /cgi-bin/philologic/getobject.pl?c.2:616.encyclopedie0513. (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x1035aee00>: Failed to resolve 'artflsrv02.uchicago.edu' ([Errno 8] nodename nor servname provided, or not known)"))]
+
+ann_013_sp_15.html:
+  🔴 DEFINITELY BROKEN:
+    - [LINK] https://www.rijksmuseum.nl/en/collection/BK-17040-A [404: Not Found]
+    - [LINK] https://doi.org/10.1111/j.1467-954X.2007.00697.x [403: Forbidden]
+    - [LINK] https://player.vimeo.com/video/135551089 [401: Unauthorized]
+    - [LINK] https://doi.org/10.1111/j.1467-954X.2007.00697.x [403: Forbidden]
+
+ann_027_fa_15.html:
+  🔴 DEFINITELY BROKEN:
+    - [LINK] http://www.vam.ac.uk/content/videos/e/video-enamelling-a-brooch/ [404: Not Found]
+    - [LINK] http://portail.atilf.fr/cgi-bin/getobject_?p.66:46./var/artfla/encyclopedie/textdata/image/ [500: Internal Server Error]
+    - [LINK] http://www.learn.columbia.edu/treasuresofheaven/relics/Reliquary-Frame.php [None: HTTPConnectionPool(host='www.learn.columbia.edu', port=80): Max retries exceeded with url: /treasuresofheaven/relics/Reliquary-Frame.php (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x1035aecf0>, 'Connection to www.learn.columbia.edu timed out. (connect timeout=10)'))]
+    - [LINK] http://www.vam.ac.uk/content/videos/e/video-enamelling-a-brooch/ [404: Not Found]
+
+ann_004_fa_14.html:
+  🔴 DEFINITELY BROKEN:
+    - [LINK] http://www.gutenberg.org/dirs/etext03/7clln10h.htm [404: Not Found]
+    - [LINK] http://www.letteraturaitaliana.net/pdf/Volume_5/t115.pdf [None: HTTPConnectionPool(host='www.letteraturaitaliana.net', port=80): Max retries exceeded with url: /pdf/Volume_5/t115.pdf (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x1035ac5a0>, 'Connection to www.letteraturaitaliana.net timed out. (connect timeout=10)'))]
+
+ann_307_ie_19.html:
+  🔴 DEFINITELY BROKEN:
+    - [LINK] http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Sloane_MS_2052 [404: Not Found]
+    - [LINK] http://artechne.hum.uu.nl/node/94995 [404: Not Found]
+    - [LINK] https://doi.org/10.2752/174589311X12893982233759 [403: Forbidden]
+    - [LINK] http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Sloane_MS_2052 [404: Not Found]
+    - [LINK] http://artechne.hum.uu.nl/node/94995 [404: Not Found]
+    - [LINK] https://doi.org/10.2752/174589311X12893982233759 [403: Forbidden]
+    - [LINK] http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Sloane_MS_2052 [404: Not Found]
+
+ann_329_ie_19.html:
+  🔴 DEFINITELY BROKEN:
+    - [LINK] https://www.vam.ac.uk/blog/projects/filming-the-history-of-design-experimental-lab-class [404: Not Found]
+    - [LINK] https://www.vam.ac.uk/blog/projects/filming-the-history-of-design-experimental-lab-class [404: Not Found]
+
+ann_500_ad_20.html:
+  🔴 DEFINITELY BROKEN:
+    - [LINK] http://www.bl.uk/catalogues/illuminatedmanuscripts/ILLUMIN.ASP?Size=mid&IllID=58554 [404: Not Found]
+
+ann_001_fa_14.html:
+  🔴 DEFINITELY BROKEN:
+    - [LINK] http://www2.scc.rutgers.edu/memdb/index.html [404: Not Found]
+    - [LINK] http://www2.scc.rutgers.edu/memdb/index.html [404: Not Found]
+
+ann_040_sp_16.html:
+  🔴 DEFINITELY BROKEN:
+    - [LINK] http://org.kikirpa.be/frames/ [404: Not Found]
+    - [LINK] http://org.kikirpa.be/frames/ [404: Not Found]
+
+ann_016_sp_15.html:
+  🔴 DEFINITELY BROKEN:
+    - [LINK] http://www.kremer-pigmente.com/media/files_public/gips.pdf [403: Forbidden]
+    - [LINK] http://www.kremer-pigmente.com/media/files_public/gips.pdf [403: Forbidden]
+
+ann_010_fa_14.html:
+  🔴 DEFINITELY BROKEN:
+    - [LINK] https://www.britishmuseum.org/collection/object/C_G3-IP-127 [403: Forbidden]
+    - [LINK] http://infohouse.p2ric.org/ref/05/04013.pdf [None: HTTPConnectionPool(host='infohouse.p2ric.org', port=80): Max retries exceeded with url: /ref/05/04013.pdf (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x1035aead0>: Failed to resolve 'infohouse.p2ric.org' ([Errno 8] nodename nor servname provided, or not known)"))]
+
+ann_060_fa_17.html:
+  🔴 DEFINITELY BROKEN:
+    - [LINK] http://www.jstor.org/stable/1505860 [403: Forbidden]
+    - [LINK] http://www.jstor.org/stable/1506588 [403: Forbidden]
+    - [LINK] http://www.jstor.org/stable/1506644 [403: Forbidden]
+    - [LINK] http://www.jstor.org/stable/1506644 [403: Forbidden]
+    - [LINK] http://www.jstor.org/stable/1506588 [403: Forbidden]
+    - [LINK] http://www.jstor.org/stable/1505860 [403: Forbidden]
+
+ann_052_fa_16.html:
+  🔴 DEFINITELY BROKEN:
+    - [LINK] http://www.khm.at/de/object/5677588792/ [404: Not Found]
+    - [LINK] https://renvenetian.cmog.org/chapter/foreword [403: Forbidden]
+
+ann_301_ie_19.html:
+  🔴 DEFINITELY BROKEN:
+    - [LINK] https://doi.org/10.1111/j.1741-4113.2009.00675.x [403: Forbidden]
+    - [LINK] https://doi.org/10.1111/cgf.12873 [403: Forbidden]
+    - [LINK] https://tube.switch.ch/videos/1c6d6f84 [404: Not Found]
+    - [LINK] http://www.jstor.org/stable/4130476 [403: Forbidden]
+    - [LINK] http://textometrie.ens-lyon.fr [None: HTTPSConnectionPool(host='txm.gitpages.huma-num.fr', port=443): Max retries exceeded with url: /textometrie/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)')))]
+    - [LINK] http://www.jstor.org/stable/4130476 [403: Forbidden]
+    - [LINK] https://doi.org/10.1111/j.1741-4113.2009.00675.x [403: Forbidden]
+    - [LINK] https://doi.org/10.1111/cgf.12873 [403: Forbidden]
+    - [LINK] https://tube.switch.ch/videos/1c6d6f84 [404: Not Found]
+
+ann_336_ie_19.html:
+  🔴 DEFINITELY BROKEN:
+    - [LINK] http://bibliotheque-numerique.inha.fr/idurl/1/5365 [404: Not Found]
+    - [LINK] http://bibliotheque-numerique.inha.fr/idurl/1/36089 [404: Not Found]
+
+ann_002_fa_14.html:
+  🔴 DEFINITELY BROKEN:
+    - [LINK] http://www.jstor.org/stable/42620183 [403: Forbidden]
+
+ann_071_fa_18.html:
+  🔴 DEFINITELY BROKEN:
+    - [LINK] http://www.khm.at/en/object/3de568f859/ [404: Not Found]
+
+ann_030_fa_15.html:
+  🔴 DEFINITELY BROKEN:
+    - [LINK] http://www.nationalgallery.org.uk/paintings/research/meaning-of-making/vermeer-and-technique/vermeers-palette#yellowlake [404: ]
+    - [LINK] http://cool.conservation-us.org/coolaic/sg/bpg/annual/v25/bp25-03.pdf [404: Not Found]
+    - [LINK] http://www.nationalgallery.org.uk/paintings/research/meaning-of-making/vermeer-and-technique/vermeers-palette#yellowlake [404: ]
+
+ann_051_fa_16.html:
+  🔴 DEFINITELY BROKEN:
+    - [LINK] http://artflsrv02.uchicago.edu/cgi-bin/dicos/pubdico1look.pl?strippedhw=soufrer [None: HTTPConnectionPool(host='artflsrv02.uchicago.edu', port=80): Max retries exceeded with url: /cgi-bin/dicos/pubdico1look.pl?strippedhw=soufrer (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x1035acd10>: Failed to resolve 'artflsrv02.uchicago.edu' ([Errno 8] nodename nor servname provided, or not known)"))]
+
+ann_327_ie_19.html:
+  🔴 DEFINITELY BROKEN:
+    - [LINK] https://doi.org/10.7551/mitpress/5380.001.0001 [403: Forbidden]
+    - [LINK] https://doi.org/10.1086/501102 [403: Forbidden]
+    - [LINK] https://doi.org/10.1162/posc_a_00311 [403: Forbidden]
+    - [LINK] https://doi.org/10.1080/02666286.2019.1628629 [403: Forbidden]
+    - [LINK] https://doi.org/10.1080/02666286.2019.1628629 [403: Forbidden]
+    - [LINK] https://doi.org/10.1162/posc_a_00311 [403: Forbidden]
+    - [LINK] https://doi.org/10.7551/mitpress/5380.001.0001 [403: Forbidden]
+    - [LINK] https://doi.org/10.1086/501102 [403: Forbidden]
+
+ann_310_ie_19.html:
+  🔴 DEFINITELY BROKEN:
+    - [LINK] https://elotroalex.github.io/ed/about/ [404: Not Found]
+    - [LINK] https://github.com/cu-mkp/m-k-annotation-data/projects/1 [404: Not Found]
+    - [LINK] https://doi.org/10.7551/mitpress/11885.003.0014 [403: Forbidden]
+    - [LINK] https://dx.doi.org/10.1086/711100 [403: Forbidden]
+    - [LINK] https://hdl.handle.net/1813/7248 [None: HTTPSConnectionPool(host='ecommons.cornell.edu', port=443): Max retries exceeded with url: /handle/1813/7248 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)')))]
+    - [LINK] https://doi.org/10.7551/mitpress/11885.003.0014 [403: Forbidden]
+    - [LINK] http://www.jstor.org/stable/30200491 [403: Forbidden]
+    - [LINK] https://doi.org/10.7551/mitpress/11885.003.0014 [403: Forbidden]
+    - [LINK] https://www.performantsoftware.com/projects/ [404: Not Found]
+    - [LINK] https://www.oreilly.com/library/view/sustainable-web-design/9781098128807/ [404: Not Found]
+    - [LINK] https://elotroalex.github.io/ed/about/ [404: Not Found]
+    - [LINK] http://www.agilemanifesto.org/ [None: HTTPConnectionPool(host='www.agilemanifesto.org', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x1035af8a0>: Failed to resolve 'www.agilemanifesto.org' ([Errno 8] nodename nor servname provided, or not known)"))]
+    - [LINK] http://www.jstor.org/stable/30200491 [403: Forbidden]
+    - [LINK] https://www.oreilly.com/library/view/sustainable-web-design/9781098128807/ [404: Not Found]
+    - [LINK] https://hdl.handle.net/1813/7248 [None: HTTPSConnectionPool(host='ecommons.cornell.edu', port=443): Max retries exceeded with url: /handle/1813/7248 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)')))]
+    - [LINK] https://www.performantsoftware.com/projects/ [404: Not Found]
+    - [LINK] https://doi.org/10.1111/1467-8365.12235 [403: Forbidden]
+    - [LINK] https://doi.org/10.7551/mitpress/11885.003.0014 [403: Forbidden]
+    - [LINK] https://dx.doi.org/10.1086/711100 [403: Forbidden]
+
+ann_517_ad_20.html:
+  🔴 DEFINITELY BROKEN:
+    - [LINK] https://doi.org/10.2307/1505670 [403: Forbidden]
+    - [LINK] https://doi.org/10.4324/9780080513355 [503: Service Unavailable]
+    - [LINK] https://doi.org/10.4324/9780080513355 [503: Service Unavailable]
+    - [LINK] https://doi.org/10.4324/9780080513355 [503: Service Unavailable]
+    - [LINK] https://www.naturalpigments.com/art-supply-education/transparent-opaque-paints/ [404: Not Found]
+    - [LINK] https://doi.org/10.2307/1505670 [403: Forbidden]
+    - [LINK] https://doi.org/10.4324/9780080513355 [503: Service Unavailable]
+    - [LINK] https://www.naturalpigments.com/art-supply-education/transparent-opaque-paints/ [404: Not Found]
+
+ann_035_sp_16.html:
+  🔴 DEFINITELY BROKEN:
+    - [LINK] https://www.britishmuseum.org/collection/object/P_2AA-a-11-3 [403: Forbidden]
+    - [LINK] https://www.bncf.firenze.sbn.it/oldWeb/Bib_digitale/Manoscritti/II.141/main.htm [404: Not Found]
+    - [LINK] http://vesalius.northwestern.edu/notes/ftFA.1.21.027.html [None: HTTPConnectionPool(host='vesalius.northwestern.edu', port=80): Max retries exceeded with url: /notes/ftFA.1.21.027.html (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x1035aead0>: Failed to resolve 'vesalius.northwestern.edu' ([Errno 8] nodename nor servname provided, or not known)"))]
+    - [LINK] http://www.hps.cam.ac.uk/visibleembryos/s1_2.html [404: Not Found]
+    - [LINK] http://vesalius.northwestern.edu/index.html [None: HTTPConnectionPool(host='vesalius.northwestern.edu', port=80): Max retries exceeded with url: /index.html (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x1035afce0>: Failed to resolve 'vesalius.northwestern.edu' ([Errno 8] nodename nor servname provided, or not known)"))]
+    - [LINK] http://www.hps.cam.ac.uk/visibleembryos/s1_2.html# [404: Not Found]
+
+ann_322_ie_19.html:
+  🔴 DEFINITELY BROKEN:
+    - [LINK] http://purl.dlib.indiana.edu/iudl/newton/ALCH000081 [404: ]
+    - [LINK] http://www.tate.org.uk/research/publications/tate-papers/07/historically-accurate-reconstructions-of-artists-oil-painting-materials [404: Not Found]
+    - [LINK] https://www.journals.uchicago.edu/doi/abs/10.1086/688198 [403: Forbidden]
+    - [LINK] http://www.tate.org.uk/research/publications/tate-papers/07/historically-accurate-reconstructions-of-artists-oil-painting-materials [404: Not Found]
+    - [LINK] http://purl.dlib.indiana.edu/iudl/newton/ALCH000081 [404: ]
+
+ann_048_fa_16.html:
+  🔴 DEFINITELY BROKEN:
+    - [LINK] http://www.sirc.org/publik/smell.pdf [None: HTTPConnectionPool(host='www.sirc.org', port=80): Max retries exceeded with url: /publik/smell.pdf (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x1035aee00>, 'Connection to www.sirc.org timed out. (connect timeout=10)'))]
+    - [LINK] http://www.history.org/foundation/journal/winter03-04/pipes.cfm [404: Not Found]
+    - [LINK] http://www.sirc.org/publik/smell.pdf [None: HTTPConnectionPool(host='www.sirc.org', port=80): Max retries exceeded with url: /publik/smell.pdf (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x1035aee00>, 'Connection to www.sirc.org timed out. (connect timeout=10)'))]
+    - [LINK] http://www.history.org/foundation/journal/winter03-04/pipes.cfm [404: Not Found]
+
+ann_029_fa_15.html:
+  🔴 DEFINITELY BROKEN:
+    - [LINK] https://www.britishmuseum.org/collection/object/W_1929-0715-1 [403: Forbidden]
+
+ann_304_ie_19.html:
+  🔴 DEFINITELY BROKEN:
+    - [LINK] https://collections.louvre.fr/ark:/53355/cl010092502 [404: Not Found]
+    - [LINK] https://doi.org/10.1086/684652 [403: Forbidden]
+    - [LINK] https://doi.org/10.1086/684652 [403: Forbidden]
+
+ann_318_ie_19.html:
+  🔴 DEFINITELY BROKEN:
+    - [LINK] http://portail.atilf.fr/cgi-bin/getobject_?a.7:383:1./var/artfla/encyclopedie/textdata/image/ [500: Internal Server Error]
+    - [LINK] http://homes.chass.utoronto.ca/~wulfric/nicot/ [None: HTTPConnectionPool(host='homes.chass.utoronto.ca', port=80): Max retries exceeded with url: /~wulfric/nicot/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x1035aee00>, 'Connection to homes.chass.utoronto.ca timed out. (connect timeout=10)'))]
+
+ann_038_sp_16.html:
+  🔴 DEFINITELY BROKEN:
+    - [LINK] http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?assetId=194283001&objectId=42971&partId=1 [403: Forbidden]
+    - [LINK] http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?assetId=194283001&objectId=42971&partId=1 [403: Forbidden]
+
+ann_032_fa_15.html:
+  🔴 DEFINITELY BROKEN:
+    - [LINK] https://doi.org/10.1002/ffj.2730080605 [403: Forbidden]
+    - [LINK] https://doi.org/10.1002/ffj.2730040107 [403: Forbidden]
+    - [LINK] https://doi.org/10.1093/pastj/gts062 [403: Forbidden]
+    - [LINK] http://artflsrv02.uchicago.edu/cgi-bin/philologic/getobject.pl?c.4:134:2.encyclopedie0513 [None: HTTPConnectionPool(host='artflsrv02.uchicago.edu', port=80): Max retries exceeded with url: /cgi-bin/philologic/getobject.pl?c.4:134:2.encyclopedie0513 (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x1035aee00>: Failed to resolve 'artflsrv02.uchicago.edu' ([Errno 8] nodename nor servname provided, or not known)"))]
+    - [LINK] https://doi.org/10.2307/1005932 [403: Forbidden]
+    - [LINK] https://doi.org/10.2307/1005932 [403: Forbidden]
+    - [LINK] https://doi.org/10.1093/pastj/gts062 [403: Forbidden]
+    - [LINK] https://doi.org/10.1002/ffj.2730080605 [403: Forbidden]
+    - [LINK] https://doi.org/10.1002/ffj.2730040107 [403: Forbidden]
+
+ann_328_ie_19.html:
+  🔴 DEFINITELY BROKEN:
+    - [LINK] https://www.jstor.org/stable/41337259 [403: Forbidden]
+    - [LINK] http://www.jstor.org/stable/751542 [403: Forbidden]
+    - [LINK] http://www.jstor.org/stable/25099452 [403: Forbidden]
+
+ann_041_sp_16.html:
+  🔴 DEFINITELY BROKEN:
+    - [LINK] https://www.britishmuseum.org/collection/object/W_1878-1230-699 [403: Forbidden]
+    - [LINK] https://www.britishmuseum.org/collection/object/H_WB-45 [403: Forbidden]
+    - [LINK] http://hoaportal.york.ac.uk/hoaportal/medievalToModern.jsp?id=4#fig-26 [404: Not Found]
+    - [LINK] https://arb.mpiwg-berlin.mpg.de/node/84985 [None: HTTPSConnectionPool(host='arb.mpiwg-berlin.mpg.de', port=443): Max retries exceeded with url: /node/84985 (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'arb.mpiwg-berlin.mpg.de'. (_ssl.c:1028)")))]
+    - [LINK] http://hoaportal.york.ac.uk/hoaportal/medievalToModern.jsp?id=4#fig-26 [404: Not Found]
+    - [LINK] https://arb.mpiwg-berlin.mpg.de/ [None: HTTPSConnectionPool(host='arb.mpiwg-berlin.mpg.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'arb.mpiwg-berlin.mpg.de'. (_ssl.c:1028)")))]
+    - [LINK] https://doi.org/10.1086/665680 [403: Forbidden]
+
+ann_011_fa_14.html:
+  🔴 DEFINITELY BROKEN:
+    - [LINK] https://sites.eca.ed.ac.uk/renaissancecosmetics/cosmetics-recipes/hair/ [None: HTTPSConnectionPool(host='sites.eca.ed.ac.uk', port=443): Max retries exceeded with url: /renaissancecosmetics/cosmetics-recipes/hair/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1037402d0>: Failed to resolve 'sites.eca.ed.ac.uk' ([Errno 8] nodename nor servname provided, or not known)"))]
+    - [LINK] https://sites.eca.ed.ac.uk/renaissancecosmetics/ [None: HTTPSConnectionPool(host='sites.eca.ed.ac.uk', port=443): Max retries exceeded with url: /renaissancecosmetics/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x103740cd0>: Failed to resolve 'sites.eca.ed.ac.uk' ([Errno 8] nodename nor servname provided, or not known)"))]
+
+ann_312_ie_19.html:
+  🔴 DEFINITELY BROKEN:
+    - [LINK] http://bibliotheque-numerique.inha.fr/idurl/1/5365 [404: Not Found]
+    - [LINK] http://bibliotheque-numerique.inha.fr/idurl/1/36089 [404: Not Found]
+
+ann_061_fa_17.html:
+  🔴 DEFINITELY BROKEN:
+    - [LINK] http://making-and-knowing.wikischolars.columbia.edu/papier%20mache%20annotation%20diary [None: HTTPConnectionPool(host='making-and-knowing.wikischolars.columbia.edu', port=80): Max retries exceeded with url: /papier%20mache%20annotation%20diary (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x1035af790>: Failed to resolve 'making-and-knowing.wikischolars.columbia.edu' ([Errno 8] nodename nor servname provided, or not known)"))]
+
+ann_325_ie_19.html:
+  🔴 DEFINITELY BROKEN:
+    - [LINK] http://nms.scran.ac.uk/database/record.php?usi=000-100-000-734-C [404: Site Not Found]
+
+ann_017_sp_15.html:
+  🔴 DEFINITELY BROKEN:
+    - [LINK] https://www.historicfood.com/The%20Art%20of%20Confectionery.pdf [None: HTTPSConnectionPool(host='www.historicfood.com', port=443): Max retries exceeded with url: /The%20Art%20of%20Confectionery.pdf (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x103741810>: Failed to resolve 'www.historicfood.com' ([Errno 8] nodename nor servname provided, or not known)"))]
+    - [LINK] https://www.historicfood.com/The%20Art%20of%20Confectionery.pdf [None: HTTPSConnectionPool(host='www.historicfood.com', port=443): Max retries exceeded with url: /The%20Art%20of%20Confectionery.pdf (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x103741810>: Failed to resolve 'www.historicfood.com' ([Errno 8] nodename nor servname provided, or not known)"))]
+
+ann_037_sp_16.html:
+  🔴 DEFINITELY BROKEN:
+    - [LINK] https://www.cmog.org/artwork/portable-altar [403: Forbidden]
+
+ann_320_ie_19.html:
+  🔴 DEFINITELY BROKEN:
+    - [LINK] http://bibliotheque.bordeaux.fr/in/faces/imageReader.xhtml?id=h::BordeauxS_B330636101_Ms_1213&pageIndex=1&mode=simple&highlight=montesquieu [404: ]
+    - [LINK] http://bibliotheque.bordeaux.fr/in/faces/imageReader.xhtml?id=h::BordeauxS_B330636101_Ms_1213&amp;pageIndex=1&amp;mode=simple&amp;highlight=montesquieu%20biographie&amp;selectedTab=thumbnail [404: ]
+
+ann_005_fa_14.html:
+  🔴 DEFINITELY BROKEN:
+    - [LINK] http://www.naturalpigments.com/art-supply-education/sizing-paper-gelatin [404: Not Found]
+
+ann_306_ie_19.html:
+  🔴 DEFINITELY BROKEN:
+    - [LINK] http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Sloane_MS_2052 [404: Not Found]
+    - [LINK] http://artechne.hum.uu.nl/node/94995 [404: Not Found]
+    - [LINK] http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Sloane_MS_2052 [404: Not Found]
+    - [LINK] http://artechne.hum.uu.nl/node/94995 [404: Not Found]
+
+ann_331_ie_19.html:
+  🔴 DEFINITELY BROKEN:
+    - [LINK] https://oregondigital.org/catalog/oregondigital:df736b81r [None: HTTPSConnectionPool(host='oregondigital.org', port=443): Read timed out. (read timeout=10)]
+
+ann_081_fa_15.html:
+  🔴 DEFINITELY BROKEN:
+    - [LINK] http://collections.gla.ac.uk/#/details/ecatalogue/265679 [None: HTTPConnectionPool(host='collections.gla.ac.uk', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x1035af350>, 'Connection to collections.gla.ac.uk timed out. (connect timeout=10)'))]
+    - [LINK] https://www.gia.edu/doc/SU91A1.pdf [403: Forbidden]
+
+SUMMARY:
+- HTML files checked: 134
+- Total links/images found: 10514
+- Unique remote URLs checked: 3809
+- Unique local files checked: 0
+- Total issues found: 190
+  • Definitely broken: 190
+  • Works in browser: 0
+- Files with issues: 58
+
+📊 Found issues in 58 files
+💡 0 links work in browsers but fail automated checks
