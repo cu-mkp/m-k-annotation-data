@@ -1,0 +1,559 @@
+/*
+ * Academic Print Stylesheet for Making and Knowing Project
+ * 
+ * Optimized for PDF/EPUB generation from HTML files
+ * Designed for scholarly content with citations, footnotes, and figures
+ */
+
+/* === PAGE LAYOUT & TYPOGRAPHY === */
+
+@page {
+    size: A4;
+    margin: 1.5in 1.25in 1.25in 1.25in;
+    
+    /* Header with document title */
+    @top-center {
+        content: "Making and Knowing Project";
+        font-family: "Times New Roman", Times, serif;
+        font-size: 10pt;
+        color: #666;
+        border-bottom: 0.5pt solid #ccc;
+        padding-bottom: 6pt;
+    }
+    
+    /* Footer with page numbers */
+    @bottom-center {
+        content: counter(page);
+        font-family: "Times New Roman", Times, serif;
+        font-size: 10pt;
+        color: #666;
+    }
+}
+
+/* Chapter/Section breaks */
+@page :first {
+    @top-center { content: none; }
+    margin-top: 2in;
+}
+
+/* === BASE TYPOGRAPHY === */
+
+body {
+    font-family: "Times New Roman", "Liberation Serif", Times, serif;
+    font-size: 16pt;
+    line-height: 1.8;
+    color: #1a1a1a;
+    text-align: justify;
+    hyphens: auto;
+    max-width: none;
+    margin: 0;
+    padding: 0;
+}
+
+/* === HEADINGS === */
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Times New Roman", Times, serif;
+    color: #2c3e50;
+    margin-top: 24pt;
+    margin-bottom: 12pt;
+    page-break-after: avoid;
+    line-height: 1.3;
+}
+
+h1 {
+    font-size: 24pt;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 24pt;
+    page-break-before: always;
+}
+
+h2 {
+    font-size: 20pt;
+    font-weight: bold;
+    border-bottom: 1pt solid #34495e;
+    padding-bottom: 6pt;
+}
+
+h3 {
+    font-size: 18pt;
+    font-weight: bold;
+    font-style: italic;
+}
+
+h4 {
+    font-size: 16pt;
+    font-weight: bold;
+}
+
+/* === HEADER SECTION (Abstract, Citation) === */
+
+.header-section {
+    background: #f8f9fa;
+    border: 1pt solid #dee2e6;
+    padding: 18pt;
+    margin-bottom: 24pt;
+    border-radius: 3pt;
+    page-break-inside: avoid;
+}
+
+.header-section h2 {
+    margin-top: 0;
+    font-size: 13pt;
+    color: #495057;
+    border-bottom: 0.5pt solid #adb5bd;
+}
+
+/* === PARAGRAPHS === */
+
+p {
+    margin-bottom: 12pt;
+    text-indent: 0;
+    orphans: 2;
+    widows: 2;
+}
+
+/* First paragraph after headings - no indent */
+h1 + p, h2 + p, h3 + p, h4 + p, h5 + p, h6 + p {
+    text-indent: 0;
+}
+
+/* === EMPHASIS & FORMATTING === */
+
+em {
+    font-style: italic;
+}
+
+i {
+    font-style: italic;
+}
+
+strong, b {
+    font-weight: bold;
+}
+
+u {
+    text-decoration: underline;
+}
+
+del {
+    text-decoration: line-through;
+    color: #6c757d;
+}
+
+/* === QUOTES === */
+
+blockquote {
+    margin: 18pt 36pt;
+    padding: 12pt 18pt;
+    border-left: 3pt solid #6c757d;
+    background: #f8f9fa;
+    font-style: italic;
+    page-break-inside: avoid;
+}
+
+blockquote p {
+    margin-bottom: 6pt;
+}
+
+blockquote p:last-child {
+    margin-bottom: 0;
+}
+
+/* Special quote styling for epigraphs */
+.pull-left + em {
+    display: block;
+    text-align: center;
+    margin: 18pt auto;
+    max-width: 80%;
+    font-size: 10pt;
+    color: #495057;
+}
+
+/* === LINKS === */
+
+a {
+    color: #2563eb;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Print-friendly link handling */
+@media print {
+    a[href]:after {
+        content: " (" attr(href) ")";
+        font-size: 9pt;
+        color: #666;
+    }
+    
+    /* Don't print URLs for internal references */
+    a[href^="#"]:after {
+        content: "";
+    }
+}
+
+/* === FOOTNOTES === */
+
+.footnote-ref {
+    font-size: 9pt;
+    vertical-align: super;
+    line-height: 0;
+}
+
+sup {
+    font-size: 9pt;
+    vertical-align: super;
+    line-height: 0;
+}
+
+/* Footnotes section */
+.footnotes {
+    margin-top: 36pt;
+    padding-top: 18pt;
+    border-top: 1pt solid #dee2e6;
+    font-size: 10pt;
+    line-height: 1.4;
+}
+
+.footnotes h2 {
+    font-size: 12pt;
+    margin-bottom: 12pt;
+}
+
+.footnotes ol {
+    padding-left: 18pt;
+}
+
+.footnotes li {
+    margin-bottom: 6pt;
+}
+
+/* === FIGURES & IMAGES === */
+
+.figure-container {
+    margin: 24pt 0;
+    text-align: center;
+    page-break-inside: avoid;
+}
+
+figure {
+    margin: 0;
+    display: inline-block;
+    max-width: 100%;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border: 1pt solid #dee2e6;
+    padding: 6pt;
+    background: white;
+}
+
+figcaption {
+    margin-top: 12pt;
+    font-size: 10pt;
+    line-height: 1.4;
+    color: #495057;
+    text-align: left;
+    max-width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* === BIBLIOGRAPHY === */
+
+.bibliography {
+    margin-top: 36pt;
+    page-break-before: always;
+}
+
+.bibliography h2 {
+    font-size: 14pt;
+    margin-bottom: 18pt;
+}
+
+.bibliography p {
+    margin-bottom: 12pt;
+    text-indent: -36pt;
+    padding-left: 36pt;
+    font-size: 10pt;
+    line-height: 1.5;
+}
+
+/* === LISTS === */
+
+ol, ul {
+    margin: 12pt 0;
+    padding-left: 24pt;
+}
+
+li {
+    margin-bottom: 6pt;
+    line-height: 1.5;
+}
+
+/* === SPECIALIZED ACADEMIC FORMATTING === */
+
+/* Manuscript references */
+.manuscript-ref {
+    font-style: italic;
+    font-weight: normal;
+}
+
+/* Foreign language terms */
+.foreign {
+    font-style: italic;
+}
+
+/* Technical terms on first use */
+.term-first-use {
+    font-weight: bold;
+}
+
+/* Date formatting */
+.date {
+    font-variant: small-caps;
+}
+
+/* === PAGE BREAKS === */
+
+/* Avoid breaking these elements */
+h1, h2, h3, h4, h5, h6,
+.header-section,
+.figure-container,
+blockquote {
+    page-break-inside: avoid;
+}
+
+/* Force breaks before major sections */
+.bibliography {
+    page-break-before: always;
+}
+
+/* === PRINT-SPECIFIC ADJUSTMENTS === */
+
+@media print {
+    body {
+        font-size: 16pt;
+        line-height: 1.8;
+    }
+    
+    /* Ensure good contrast for printing */
+    .header-section {
+        background: #f5f5f5;
+        -webkit-print-color-adjust: exact;
+        color-adjust: exact;
+    }
+    
+    /* Handle link colors for print */
+    a {
+        color: #000;
+        text-decoration: underline;
+    }
+}
+
+/* === EPUB-SPECIFIC STYLES === */
+
+@media screen and (max-device-width: 1024px) {
+    body {
+        font-size: 12pt;
+        line-height: 1.6;
+        margin: 1em;
+    }
+    
+    /* Responsive images for ebooks */
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+    
+    /* Better spacing for small screens */
+    .header-section {
+        padding: 12pt;
+        margin-bottom: 18pt;
+    }
+}
+
+/* === ACCESSIBILITY === */
+
+/* High contrast mode support */
+@media (prefers-contrast: high) {
+    body {
+        color: #000;
+        background: #fff;
+    }
+    
+    .header-section {
+        background: #f0f0f0;
+        border-color: #333;
+    }
+    
+    h1, h2, h3, h4, h5, h6 {
+        color: #000;
+    }
+}
+
+/* === FRONTMATTER STYLES === */
+
+/* Title Page */
+.title-page {
+    text-align: center;
+    page-break-after: always;
+    min-height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.document-title {
+    font-size: 28pt;
+    font-weight: bold;
+    line-height: 1.3;
+    margin-bottom: 48pt;
+    color: #2c3e50;
+}
+
+.authors-container {
+    display: flex;
+    justify-content: center;
+    gap: 72pt;
+    margin-bottom: 36pt;
+    flex-wrap: wrap;
+}
+
+.author {
+    font-size: 18pt;
+    line-height: 1.4;
+    color: #34495e;
+    text-align: center;
+    min-width: 200pt;
+}
+
+.author em {
+    font-size: 14pt;
+    color: #6c757d;
+    display: block;
+    margin-top: 6pt;
+}
+
+.title-year {
+    font-size: 20pt;
+    font-weight: bold;
+    color: #2c3e50;
+    margin-top: 24pt;
+}
+
+/* Citation Page (Verso) */
+.citation-page {
+    page-break-before: always;
+    page-break-after: always;
+    padding-top: 72pt;
+}
+
+.citation-section {
+    margin-bottom: 36pt;
+}
+
+.citation-section h3 {
+    font-size: 18pt;
+    margin-bottom: 18pt;
+    color: #2c3e50;
+    border-bottom: 1pt solid #34495e;
+    padding-bottom: 6pt;
+}
+
+.citation-text {
+    font-size: 12pt;
+    line-height: 1.6;
+    color: #495057;
+    text-align: justify;
+}
+
+.doi-section {
+    font-size: 14pt;
+    color: #495057;
+    margin-top: 24pt;
+}
+
+/* Abstract Page */
+.abstract-page {
+    page-break-before: always;
+    page-break-after: always;
+    padding-top: 36pt;
+}
+
+.abstract-page h3 {
+    font-size: 20pt;
+    margin-bottom: 24pt;
+    color: #2c3e50;
+    border-bottom: 1pt solid #34495e;
+    padding-bottom: 6pt;
+    text-align: center;
+}
+
+.abstract-text {
+    font-size: 14pt;
+    line-height: 1.7;
+    text-align: justify;
+    color: #495057;
+    background: #f8f9fa;
+    padding: 24pt;
+    border-left: 3pt solid #6c757d;
+    margin: 0 36pt;
+}
+
+/* === UTILITY CLASSES === */
+
+.page-break {
+    page-break-before: always;
+}
+
+.no-break {
+    page-break-inside: avoid;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.small-caps {
+    font-variant: small-caps;
+}
+
+/* === CUSTOM ACADEMIC ELEMENTS === */
+
+/* For inline citations */
+.citation {
+    font-size: 10pt;
+    color: #495057;
+}
+
+/* For apparatus criticus or editorial notes */
+.editorial-note {
+    font-size: 9pt;
+    color: #6c757d;
+    font-style: italic;
+}
+
+/* For highlighting important terms */
+.key-term {
+    font-weight: bold;
+    background: #fff3cd;
+    padding: 0 2pt;
+}
+
+/* For cross-references */
+.cross-ref {
+    font-style: italic;
+    color: #2563eb;
+}
